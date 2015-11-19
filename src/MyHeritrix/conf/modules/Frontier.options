@@ -1,0 +1,6 @@
+# Availible URI Frontiers.
+# Each processor class should be listed with full package info
+# Lines beginning with # and empty lines are ignored
+org.archive.crawler.frontier.BdbFrontier
+org.archive.crawler.frontier.DomainSensitiveFrontier
+org.archive.crawler.frontier.AdaptiveRevisitFrontier

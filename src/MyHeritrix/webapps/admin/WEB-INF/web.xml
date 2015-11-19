@@ -1,0 +1,86 @@
+<!DOCTYPE web-app PUBLIC
+    "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+    <icon>
+    <small-icon>images/small-logo.gif</small-icon>
+    <large-icon>images/logo.gif</large-icon>
+    </icon>
+    <display-name>Heritrix Console</display-name>
+    <description>Heritrix Administration Console</description>
+    <filter> 
+        <filter-name>RootFilter</filter-name> 
+        <filter-class>org.archive.crawler.admin.ui.RootFilter</filter-class> 
+        <init-param>
+            <param-name>rootFilter.redirectTo</param-name>
+            <param-value>/index.jsp</param-value>
+        </init-param>
+    </filter> 
+    <filter-mapping> 
+        <filter-name>RootFilter</filter-name> 
+        <url-pattern>/</url-pattern> 
+    </filter-mapping> 
+    <listener>
+        <listener-class>org.archive.crawler.WebappLifecycle
+        </listener-class>
+    </listener>
+    <!--
+        This is configuration for the beanshell servlet. Uncomment this
+        servlet-name and the below 'bshservlet' servlet-mapping to enable.
+        Allows scripting Heritrix real-time, which is sweet, but also means
+        anyone who has access to the Heritrix UI also has script access to the
+        local filesystem.  Enable with caution.  For example, enable only in a
+        UI that is accessible from localhost only.
+
+    <servlet>
+        <servlet-name>bshservlet</servlet-name>
+        <servlet-class>bsh.servlet.BshServlet</servlet-class>
+    </servlet>
+    -->
+
+    <!--[INSERT JSP COMPILE SERVLET WEB FRAGMENT HERE]-->
+
+    <!--
+    <servlet-mapping>
+        <servlet-name>bshservlet</servlet-name>
+        <url-pattern>/bsh</url-pattern>
+    </servlet-mapping>
+    -->
+    <session-config>
+        <!--Make timeout be a day-long-->
+        <session-timeout>1440</session-timeout>
+    </session-config>
+    <security-constraint>
+        <display-name>Heritrix Console Constraint</display-name>
+        <web-resource-collection>
+            <web-resource-name>Heritrix Console JSP pages</web-resource-name>
+            <url-pattern>*.jsp</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
+    <security-constraint>
+        <display-name>Scripting Constraint</display-name>
+        <web-resource-collection>
+            <web-resource-name>Scripting</web-resource-name>
+            <url-pattern>/bsh</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
+    <login-config>
+        <auth-method>FORM</auth-method>
+        <form-login-config>
+            <form-login-page>/login.jsp</form-login-page>
+            <form-error-page>/login.jsp?action=redirect</form-error-page>
+        </form-login-config>
+    </login-config>
+    <security-role>
+        <description>Role used to get access to the Heritrix Console.
+        </description>
+        <role-name>admin</role-name>
+    </security-role>
+</web-app>

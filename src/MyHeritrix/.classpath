@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/ant-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-2.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/dnsjava-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/fastutil-5.0.3-heritrix-subset-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/itext-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-compiler-tomcat-4.1.30.jar"/>
+	<classpathentry kind="lib" path="lib/jasper-runtime-tomcat-4.1.30.jar"/>
+	<classpathentry kind="lib" path="lib/javaswf-CVS-SNAPSHOT-1.jar"/>
+	<classpathentry kind="lib" path="lib/je-3.3.82.jar"/>
+	<classpathentry kind="lib" path="lib/jericho-html-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/jets3t-0.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jetty-4.2.23.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/libidn-0.5.9.jar"/>
+	<classpathentry kind="lib" path="lib/mg4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-2.0-RC1-20031102.jar"/>
+	<classpathentry kind="lib" path="lib/poi-scratchpad-2.0-RC1-20031102.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-tomcat-4.1.30.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

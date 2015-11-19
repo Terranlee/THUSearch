@@ -1,0 +1,1372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pics>
+ <category name="sogou">
+  <pic anchor="00-体系结构_536303892.content" content="/publish/files/00-体系结构_536303892.content" id="0" pr="" type="ppt"/>
+  <pic anchor="01-Intro_751301788.content" content="/publish/files/01-Intro_751301788.content" id="1" pr="" type="pptx"/>
+  <pic anchor="01-数据库与数据库文件_752705953.content" content="/publish/files/01-数据库与数据库文件_752705953.content" id="2" pr="" type="ppt"/>
+  <pic anchor="01_搜索引擎的基本概念与发展历史_180704167.content" content="/publish/files/01_搜索引擎的基本概念与发展历史_180704167.content" id="3" pr="" type="pdf"/>
+  <pic anchor="02-ProjMgmt_134105153.content" content="/publish/files/02-ProjMgmt_134105153.content" id="4" pr="" type="pptx"/>
+  <pic anchor="02-表的物理存储_705501319.content" content="/publish/files/02-表的物理存储_705501319.content" id="5" pr="" type="ppt"/>
+  <pic anchor="02.2012-2013jpxmrdff.content" content="/publish/files/02.2012-2013jpxmrdff.content" id="6" pr="" type="doc"/>
+  <pic anchor="02_搜索引擎体系结构概述_371602449.content" content="/publish/files/02_搜索引擎体系结构概述_371602449.content" id="7" pr="" type="pdf"/>
+  <pic anchor="03-AOP_222007727.content" content="/publish/files/03-AOP_222007727.content" id="8" pr="" type="ppt"/>
+  <pic anchor="03-索引及行操作_637103955.content" content="/publish/files/03-索引及行操作_637103955.content" id="9" pr="" type="ppt"/>
+  <pic anchor="03_搜索引擎性能评价_286502603.content" content="/publish/files/03_搜索引擎性能评价_286502603.content" id="10" pr="" type="pdf"/>
+  <pic anchor="04-Process_372506775.content" content="/publish/files/04-Process_372506775.content" id="11" pr="" type="pptx"/>
+  <pic anchor="05-Agile_189209112.content" content="/publish/files/05-Agile_189209112.content" id="12" pr="" type="pptx"/>
+  <pic anchor="05_数据抓取子系统设计及核心算法_71606659.content" content="/publish/files/05_数据抓取子系统设计及核心算法_71606659.content" id="13" pr="" type="pdf"/>
+  <pic anchor="06-CodingStyle_888307354.content" content="/publish/files/06-CodingStyle_888307354.content" id="14" pr="" type="pptx"/>
+  <pic anchor="06_网页索引子系统设计及核心算法_769709724.content" content="/publish/files/06_网页索引子系统设计及核心算法_769709724.content" id="15" pr="" type="pdf"/>
+  <pic anchor="07-TestDriven_336308848.content" content="/publish/files/07-TestDriven_336308848.content" id="16" pr="" type="pptx"/>
+  <pic anchor="07_搜索引擎架构_百度公司_87705231.content" content="/publish/files/07_搜索引擎架构_百度公司_87705231.content" id="17" pr="" type="pdf"/>
+  <pic anchor="08-Req_384208291.content" content="/publish/files/08-Req_384208291.content" id="18" pr="" type="pptx"/>
+  <pic anchor="08001_132407969_259301584_181508480.content" content="/publish/files/08001_132407969_259301584_181508480.content" id="19" pr="" type="ppt"/>
+  <pic anchor="08_505509793.content" content="/publish/files/08_505509793.content" id="20" pr="" type="pptx"/>
+  <pic anchor="08_内容检索子系统设计及核心算法_79450339.content" content="/publish/files/08_内容检索子系统设计及核心算法_79450339.content" id="21" pr="" type="pdf"/>
+  <pic anchor="09-UML_710606139.content" content="/publish/files/09-UML_710606139.content" id="22" pr="" type="pptx"/>
+  <pic anchor="091.content" content="/publish/files/091.content" id="23" pr="" type="pdf"/>
+  <pic anchor="09_727103868.content" content="/publish/files/09_727103868.content" id="24" pr="" type="pptx"/>
+  <pic anchor="09_链接结构分析子系统设计及核心算法_379009738.content" content="/publish/files/09_链接结构分析子系统设计及核心算法_379009738.content" id="25" pr="" type="pdf"/>
+  <pic anchor="1 (2).content" content="/publish/files/1 (2).content" id="26" pr="" type="pdf"/>
+  <pic anchor="1 (4).content" content="/publish/files/1 (4).content" id="27" pr="" type="doc"/>
+  <pic anchor="1(1).content" content="/publish/files/1(1).content" id="28" pr="" type="doc"/>
+  <pic anchor="1.content" content="/publish/files/1.content" id="29" pr="" type="pdf"/>
+  <pic anchor="1.introduction(3.6)_542201044.content" content="/publish/files/1.introduction(3.6)_542201044.content" id="30" pr="" type="pdf"/>
+  <pic anchor="10 搜索引擎结果排序技术_609906346.content" content="/publish/files/10 搜索引擎结果排序技术_609906346.content" id="31" pr="" type="pdf"/>
+  <pic anchor="10-BehaviorDriven_368905176.content" content="/publish/files/10-BehaviorDriven_368905176.content" id="32" pr="" type="pptx"/>
+  <pic anchor="10.content" content="/publish/files/10.content" id="33" pr="" type="pdf"/>
+  <pic anchor="10.GraphicalModels(5.15)_212507006.content" content="/publish/files/10.GraphicalModels(5.15)_212507006.content" id="34" pr="" type="pdf"/>
+  <pic anchor="10dz.content" content="/publish/files/10dz.content" id="35" pr="" type="pdf"/>
+  <pic anchor="10_162001185.content" content="/publish/files/10_162001185.content" id="36" pr="" type="pptx"/>
+  <pic anchor="10同步时序电路设计_v2_897005895.content" content="/publish/files/10同步时序电路设计_v2_897005895.content" id="37" pr="" type="pptx"/>
+  <pic anchor="10同步时序电路设计_v3_460303901.content" content="/publish/files/10同步时序电路设计_v3_460303901.content" id="38" pr="" type="pptx"/>
+  <pic anchor="11-1-进程的概念.content" content="/publish/files/11-1-进程的概念.content" id="39" pr="" type="pptx"/>
+  <pic anchor="11-2-进程控制块.content" content="/publish/files/11-2-进程控制块.content" id="40" pr="" type="pptx"/>
+  <pic anchor="11-3-进程状态.content" content="/publish/files/11-3-进程状态.content" id="41" pr="" type="pptx"/>
+  <pic anchor="11-4-三状态进程模型.content" content="/publish/files/11-4-三状态进程模型.content" id="42" pr="" type="pptx"/>
+  <pic anchor="11-5-挂起进程模型.content" content="/publish/files/11-5-挂起进程模型.content" id="43" pr="" type="pptx"/>
+  <pic anchor="11-6-线程的概念.content" content="/publish/files/11-6-线程的概念.content" id="44" pr="" type="pptx"/>
+  <pic anchor="11-7-用户线程.content" content="/publish/files/11-7-用户线程.content" id="45" pr="" type="pptx"/>
+  <pic anchor="11-8-内核线程.content" content="/publish/files/11-8-内核线程.content" id="46" pr="" type="pptx"/>
+  <pic anchor="11-DesignPrinciple_671107057.content" content="/publish/files/11-DesignPrinciple_671107057.content" id="47" pr="" type="pptx"/>
+  <pic anchor="11.content" content="/publish/files/11.content" id="48" pr="" type="pdf"/>
+  <pic anchor="11.Ensemble(5.22)_743506629.content" content="/publish/files/11.Ensemble(5.22)_743506629.content" id="49" pr="" type="pdf"/>
+  <pic anchor="1113468558609.content" content="/publish/files/1113468558609.content" id="50" pr="" type="doc"/>
+  <pic anchor="1113468680216.content" content="/publish/files/1113468680216.content" id="51" pr="" type="doc"/>
+  <pic anchor="1114583553658.content" content="/publish/files/1114583553658.content" id="52" pr="" type="doc"/>
+  <pic anchor="1114583576565.content" content="/publish/files/1114583576565.content" id="53" pr="" type="doc"/>
+  <pic anchor="1114590122562.content" content="/publish/files/1114590122562.content" id="54" pr="" type="doc"/>
+  <pic anchor="1116575209213.content" content="/publish/files/1116575209213.content" id="55" pr="" type="doc"/>
+  <pic anchor="1118633655854.content" content="/publish/files/1118633655854.content" id="56" pr="" type="doc"/>
+  <pic anchor="1118634993870.content" content="/publish/files/1118634993870.content" id="57" pr="" type="doc"/>
+  <pic anchor="1118977835514.content" content="/publish/files/1118977835514.content" id="58" pr="" type="doc"/>
+  <pic anchor="1176430326463.content" content="/publish/files/1176430326463.content" id="59" pr="" type="doc"/>
+  <pic anchor="1176430411577.content" content="/publish/files/1176430411577.content" id="60" pr="" type="doc"/>
+  <pic anchor="1183086257485.content" content="/publish/files/1183086257485.content" id="61" pr="" type="doc"/>
+  <pic anchor="1193122383877.content" content="/publish/files/1193122383877.content" id="62" pr="" type="doc"/>
+  <pic anchor="1193122392484.content" content="/publish/files/1193122392484.content" id="63" pr="" type="doc"/>
+  <pic anchor="1193122663489.content" content="/publish/files/1193122663489.content" id="64" pr="" type="doc"/>
+  <pic anchor="1193122672243.content" content="/publish/files/1193122672243.content" id="65" pr="" type="doc"/>
+  <pic anchor="11jsj.content" content="/publish/files/11jsj.content" id="66" pr="" type="pdf"/>
+  <pic anchor="11_6430204.content" content="/publish/files/11_6430204.content" id="67" pr="" type="pptx"/>
+  <pic anchor="11_搜索引擎用户行为分析_18405500.content" content="/publish/files/11_搜索引擎用户行为分析_18405500.content" id="68" pr="" type="pdf"/>
+  <pic anchor="11移位寄存器_v1_936104519.content" content="/publish/files/11移位寄存器_v1_936104519.content" id="69" pr="" type="pptx"/>
+  <pic anchor="11移位寄存器_v2_751209417.content" content="/publish/files/11移位寄存器_v2_751209417.content" id="70" pr="" type="pptx"/>
+  <pic anchor="12-DesignPattern_887908113.content" content="/publish/files/12-DesignPattern_887908113.content" id="71" pr="" type="pptx"/>
+  <pic anchor="12.CLTheory(5.29)_336201932.content" content="/publish/files/12.CLTheory(5.29)_336201932.content" id="72" pr="" type="pdf"/>
+  <pic anchor="12.content" content="/publish/files/12.content" id="73" pr="" type="pdf"/>
+  <pic anchor="1219889467578.content" content="/publish/files/1219889467578.content" id="74" pr="" type="doc"/>
+  <pic anchor="1219889536944.content" content="/publish/files/1219889536944.content" id="75" pr="" type="doc"/>
+  <pic anchor="1222070990220.content" content="/publish/files/1222070990220.content" id="76" pr="" type="doc"/>
+  <pic anchor="1222071006975.content" content="/publish/files/1222071006975.content" id="77" pr="" type="doc"/>
+  <pic anchor="1224644098278.content" content="/publish/files/1224644098278.content" id="78" pr="" type="doc"/>
+  <pic anchor="123456.content" content="/publish/files/123456.content" id="79" pr="" type="pdf"/>
+  <pic anchor="1271726438454.content" content="/publish/files/1271726438454.content" id="80" pr="" type="doc"/>
+  <pic anchor="1271726843004.content" content="/publish/files/1271726843004.content" id="81" pr="" type="doc"/>
+  <pic anchor="1271727821461.content" content="/publish/files/1271727821461.content" id="82" pr="" type="doc"/>
+  <pic anchor="1276850817498.content" content="/publish/files/1276850817498.content" id="83" pr="" type="pdf"/>
+  <pic anchor="1278553490581.content" content="/publish/files/1278553490581.content" id="84" pr="" type="doc"/>
+  <pic anchor="1278657039173.content" content="/publish/files/1278657039173.content" id="85" pr="" type="doc"/>
+  <pic anchor="12zdh.content" content="/publish/files/12zdh.content" id="86" pr="" type="pdf"/>
+  <pic anchor="12_100906522.content" content="/publish/files/12_100906522.content" id="87" pr="" type="pptx"/>
+  <pic anchor="13-14.content" content="/publish/files/13-14.content" id="88" pr="" type="pdf"/>
+  <pic anchor="13-Testing_596008920.content" content="/publish/files/13-Testing_596008920.content" id="89" pr="" type="pptx"/>
+  <pic anchor="13.CLTheory(6.12)cont_677407895.content" content="/publish/files/13.CLTheory(6.12)cont_677407895.content" id="90" pr="" type="pdf"/>
+  <pic anchor="13.content" content="/publish/files/13.content" id="91" pr="" type="pdf"/>
+  <pic anchor="1314.content" content="/publish/files/1314.content" id="92" pr="" type="pdf"/>
+  <pic anchor="132.content" content="/publish/files/132.content" id="93" pr="" type="doc"/>
+  <pic anchor="13cstjb1.content" content="/publish/files/13cstjb1.content" id="94" pr="" type="doc"/>
+  <pic anchor="13cstjb2.content" content="/publish/files/13cstjb2.content" id="95" pr="" type="doc"/>
+  <pic anchor="13rj.content" content="/publish/files/13rj.content" id="96" pr="" type="pdf"/>
+  <pic anchor="13_699903400.content" content="/publish/files/13_699903400.content" id="97" pr="" type="pptx"/>
+  <pic anchor="14-xUnit_873405690.content" content="/publish/files/14-xUnit_873405690.content" id="98" pr="" type="pptx"/>
+  <pic anchor="14.content" content="/publish/files/14.content" id="99" pr="" type="pdf"/>
+  <pic anchor="14.overview(6.12)_125006027.content" content="/publish/files/14.overview(6.12)_125006027.content" id="100" pr="" type="pdf"/>
+  <pic anchor="140115.content" content="/publish/files/140115.content" id="101" pr="" type="doc"/>
+  <pic anchor="140701.content" content="/publish/files/140701.content" id="102" pr="" type="doc"/>
+  <pic anchor="14hy.content" content="/publish/files/14hy.content" id="103" pr="" type="pdf"/>
+  <pic anchor="15-1.content" content="/publish/files/15-1.content" id="104" pr="" type="pptx"/>
+  <pic anchor="15-2.content" content="/publish/files/15-2.content" id="105" pr="" type="pptx"/>
+  <pic anchor="15-3.content" content="/publish/files/15-3.content" id="106" pr="" type="pptx"/>
+  <pic anchor="15-4.content" content="/publish/files/15-4.content" id="107" pr="" type="pptx"/>
+  <pic anchor="15-5.content" content="/publish/files/15-5.content" id="108" pr="" type="pptx"/>
+  <pic anchor="15-6.content" content="/publish/files/15-6.content" id="109" pr="" type="pptx"/>
+  <pic anchor="15-QualityControl_455509578.content" content="/publish/files/15-QualityControl_455509578.content" id="110" pr="" type="pptx"/>
+  <pic anchor="15.content" content="/publish/files/15.content" id="111" pr="" type="pdf"/>
+  <pic anchor="15gw.content" content="/publish/files/15gw.content" id="112" pr="" type="pdf"/>
+  <pic anchor="16-Internet_127604947.content" content="/publish/files/16-Internet_127604947.content" id="113" pr="" type="pptx"/>
+  <pic anchor="16.content" content="/publish/files/16.content" id="114" pr="" type="pdf"/>
+  <pic anchor="165702548_832007534_现代电子制造与可靠性.content" content="/publish/files/165702548_832007534_现代电子制造与可靠性.content" id="115" pr="" type="pdf"/>
+  <pic anchor="16hg.content" content="/publish/files/16hg.content" id="116" pr="" type="pdf"/>
+  <pic anchor="17-1背景.content" content="/publish/files/17-1背景.content" id="117" pr="" type="pptx"/>
+  <pic anchor="17-2生活中的同步问题.content" content="/publish/files/17-2生活中的同步问题.content" id="118" pr="" type="pptx"/>
+  <pic anchor="17-3临界区.content" content="/publish/files/17-3临界区.content" id="119" pr="" type="pptx"/>
+  <pic anchor="17-4基于软件的解决方法.content" content="/publish/files/17-4基于软件的解决方法.content" id="120" pr="" type="pptx"/>
+  <pic anchor="17-5更高级的抽象.content" content="/publish/files/17-5更高级的抽象.content" id="121" pr="" type="pptx"/>
+  <pic anchor="17.content" content="/publish/files/17.content" id="122" pr="" type="pdf"/>
+  <pic anchor="177706258_科学实践哲学的实验室研究及其重要意义-实验探究系列课程73_118008611_544203463_373802035.content" content="/publish/files/177706258_科学实践哲学的实验室研究及其重要意义-实验探究系列课程73_118008611_544203463_373802035.content" id="123" pr="" type="ppt"/>
+  <pic anchor="17cl.content" content="/publish/files/17cl.content" id="124" pr="" type="pdf"/>
+  <pic anchor="18-1.content" content="/publish/files/18-1.content" id="125" pr="" type="pptx"/>
+  <pic anchor="18-2.content" content="/publish/files/18-2.content" id="126" pr="" type="pptx"/>
+  <pic anchor="18-3.content" content="/publish/files/18-3.content" id="127" pr="" type="pptx"/>
+  <pic anchor="18-4.content" content="/publish/files/18-4.content" id="128" pr="" type="pptx"/>
+  <pic anchor="18-5.content" content="/publish/files/18-5.content" id="129" pr="" type="pptx"/>
+  <pic anchor="18.content" content="/publish/files/18.content" id="130" pr="" type="pdf"/>
+  <pic anchor="18yx.content" content="/publish/files/18yx.content" id="131" pr="" type="pdf"/>
+  <pic anchor="19.content" content="/publish/files/19.content" id="132" pr="" type="pdf"/>
+  <pic anchor="1972_TuringAward_Dijkstra_Intr.content" content="/publish/files/1972_TuringAward_Dijkstra_Intr.content" id="133" pr="" type="docx"/>
+  <pic anchor="1974_TuringAward_Donald E Knuth_Intr.content" content="/publish/files/1974_TuringAward_Donald E Knuth_Intr.content" id="134" pr="" type="docx"/>
+  <pic anchor="1984-2005.content" content="/publish/files/1984-2005.content" id="135" pr="" type="doc"/>
+  <pic anchor="1jzx.content" content="/publish/files/1jzx.content" id="136" pr="" type="pdf"/>
+  <pic anchor="1马哲文本：1844年经济学哲学手稿_（节选）_860607962.content" content="/publish/files/1马哲文本：1844年经济学哲学手稿_（节选）_860607962.content" id="137" pr="" type="doc"/>
+  <pic anchor="2.content" content="/publish/files/2.content" id="138" pr="" type="pdf"/>
+  <pic anchor="2.Design_DecisionTree(3.13)_20560655.content" content="/publish/files/2.Design_DecisionTree(3.13)_20560655.content" id="139" pr="" type="pdf"/>
+  <pic anchor="20-1.content" content="/publish/files/20-1.content" id="140" pr="" type="pptx"/>
+  <pic anchor="20-2.content" content="/publish/files/20-2.content" id="141" pr="" type="pptx"/>
+  <pic anchor="20-3.content" content="/publish/files/20-3.content" id="142" pr="" type="pptx"/>
+  <pic anchor="20-4.content" content="/publish/files/20-4.content" id="143" pr="" type="pptx"/>
+  <pic anchor="20-5.content" content="/publish/files/20-5.content" id="144" pr="" type="pptx"/>
+  <pic anchor="20-6.content" content="/publish/files/20-6.content" id="145" pr="" type="pptx"/>
+  <pic anchor="20-7.content" content="/publish/files/20-7.content" id="146" pr="" type="pptx"/>
+  <pic anchor="20.content" content="/publish/files/20.content" id="147" pr="" type="pdf"/>
+  <pic anchor="20061117153615912.content" content="/publish/files/20061117153615912.content" id="148" pr="" type="doc"/>
+  <pic anchor="2006events.content" content="/publish/files/2006events.content" id="149" pr="" type="doc"/>
+  <pic anchor="2007events.content" content="/publish/files/2007events.content" id="150" pr="" type="doc"/>
+  <pic anchor="2008events.content" content="/publish/files/2008events.content" id="151" pr="" type="doc"/>
+  <pic anchor="2009 Major Events.content" content="/publish/files/2009 Major Events.content" id="152" pr="" type="doc"/>
+  <pic anchor="2009events.content" content="/publish/files/2009events.content" id="153" pr="" type="doc"/>
+  <pic anchor="2010-2011course for graduate.content" content="/publish/files/2010-2011course for graduate.content" id="154" pr="" type="pdf"/>
+  <pic anchor="20101217141351749414752.content" content="/publish/files/20101217141351749414752.content" id="155" pr="" type="doc"/>
+  <pic anchor="20101217141426023792102.content" content="/publish/files/20101217141426023792102.content" id="156" pr="" type="doc"/>
+  <pic anchor="20101217141510017978627.content" content="/publish/files/20101217141510017978627.content" id="157" pr="" type="doc"/>
+  <pic anchor="20101217141550816556376.content" content="/publish/files/20101217141550816556376.content" id="158" pr="" type="doc"/>
+  <pic anchor="20101217141620949790889.content" content="/publish/files/20101217141620949790889.content" id="159" pr="" type="doc"/>
+  <pic anchor="20101217141705836611892.content" content="/publish/files/20101217141705836611892.content" id="160" pr="" type="doc"/>
+  <pic anchor="20101217141734169478625.content" content="/publish/files/20101217141734169478625.content" id="161" pr="" type="doc"/>
+  <pic anchor="20101217141959485401434.content" content="/publish/files/20101217141959485401434.content" id="162" pr="" type="doc"/>
+  <pic anchor="20101217142026129563600.content" content="/publish/files/20101217142026129563600.content" id="163" pr="" type="doc"/>
+  <pic anchor="20101217142050369923768.content" content="/publish/files/20101217142050369923768.content" id="164" pr="" type="doc"/>
+  <pic anchor="20101217142130806853426.content" content="/publish/files/20101217142130806853426.content" id="165" pr="" type="doc"/>
+  <pic anchor="20101217142153108849635.content" content="/publish/files/20101217142153108849635.content" id="166" pr="" type="doc"/>
+  <pic anchor="2010gongshuozhaoshengjianzhang.content" content="/publish/files/2010gongshuozhaoshengjianzhang.content" id="167" pr="" type="doc"/>
+  <pic anchor="2010qhglch.content" content="/publish/files/2010qhglch.content" id="168" pr="" type="pdf"/>
+  <pic anchor="2011-2012.content" content="/publish/files/2011-2012.content" id="169" pr="" type="xls"/>
+  <pic anchor="2011-2012pydj.content" content="/publish/files/2011-2012pydj.content" id="170" pr="" type="xls"/>
+  <pic anchor="2011-2012xndstpy.content" content="/publish/files/2011-2012xndstpy.content" id="171" pr="" type="docx"/>
+  <pic anchor="20110221.content" content="/publish/files/20110221.content" id="172" pr="" type="doc"/>
+  <pic anchor="2011gongshuozhuanyexueweizhaosheng.content" content="/publish/files/2011gongshuozhuanyexueweizhaosheng.content" id="173" pr="" type="doc"/>
+  <pic anchor="2011tui.content" content="/publish/files/2011tui.content" id="174" pr="" type="pdf"/>
+  <pic anchor="2012 Application Form.content" content="/publish/files/2012 Application Form.content" id="175" pr="" type="doc"/>
+  <pic anchor="2012 Master Admission.content" content="/publish/files/2012 Master Admission.content" id="176" pr="" type="doc"/>
+  <pic anchor="2012 MEM enrollment.content" content="/publish/files/2012 MEM enrollment.content" id="177" pr="" type="doc"/>
+  <pic anchor="2012-2013cjxqstsb.content" content="/publish/files/2012-2013cjxqstsb.content" id="178" pr="" type="doc"/>
+  <pic anchor="2012-2013cjxqstzb.content" content="/publish/files/2012-2013cjxqstzb.content" id="179" pr="" type="doc"/>
+  <pic anchor="2012-2013qjxqspjg_xxl.content" content="/publish/files/2012-2013qjxqspjg_xxl.content" id="180" pr="" type="xls"/>
+  <pic anchor="2012-2013qpyjg.content" content="/publish/files/2012-2013qpyjg.content" id="181" pr="" type="doc"/>
+  <pic anchor="2012-2013stzjbx.content" content="/publish/files/2012-2013stzjbx.content" id="182" pr="" type="doc"/>
+  <pic anchor="2012-English Application Form.content" content="/publish/files/2012-English Application Form.content" id="183" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元06.content" content="/publish/files/2012011320教学单元06.content" id="184" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元08.content" content="/publish/files/2012011320教学单元08.content" id="185" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元105.content" content="/publish/files/2012011320教学单元105.content" id="186" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元107.content" content="/publish/files/2012011320教学单元107.content" id="187" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元12.content" content="/publish/files/2012011320教学单元12.content" id="188" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元22.content" content="/publish/files/2012011320教学单元22.content" id="189" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元43.content" content="/publish/files/2012011320教学单元43.content" id="190" pr="" type="doc"/>
+  <pic anchor="2012011320教学单元97.content" content="/publish/files/2012011320教学单元97.content" id="191" pr="" type="doc"/>
+  <pic anchor="20120415-语法复习-V3r4_241205603.content" content="/publish/files/20120415-语法复习-V3r4_241205603.content" id="192" pr="" type="doc"/>
+  <pic anchor="20120912CSIntroduction_23320365.content" content="/publish/files/20120912CSIntroduction_23320365.content" id="193" pr="" type="pdf"/>
+  <pic anchor="20120912_课程介绍_565006360.content" content="/publish/files/20120912_课程介绍_565006360.content" id="194" pr="" type="ppt"/>
+  <pic anchor="20120914_代数思维与计算机解题_791209117.content" content="/publish/files/20120914_代数思维与计算机解题_791209117.content" id="195" pr="" type="ppt"/>
+  <pic anchor="20120919-Chap01_224601891.content" content="/publish/files/20120919-Chap01_224601891.content" id="196" pr="" type="pdf"/>
+  <pic anchor="20120921－0－课程介绍_963401877.content" content="/publish/files/20120921－0－课程介绍_963401877.content" id="197" pr="" type="ppt"/>
+  <pic anchor="20120921－1－代数思维_491809529.content" content="/publish/files/20120921－1－代数思维_491809529.content" id="198" pr="" type="ppt"/>
+  <pic anchor="20120921－2－语言程序_941502678.content" content="/publish/files/20120921－2－语言程序_941502678.content" id="199" pr="" type="ppt"/>
+  <pic anchor="20120921－3－算术关系－逻辑思维－１_26704316.content" content="/publish/files/20120921－3－算术关系－逻辑思维－１_26704316.content" id="200" pr="" type="ppt"/>
+  <pic anchor="20120926 - 1－逻辑关系 - 逻辑思维－２_35630769.content" content="/publish/files/20120926 - 1－逻辑关系 - 逻辑思维－２_35630769.content" id="201" pr="" type="pptx"/>
+  <pic anchor="20120928 - 1 - 函数定义 - 模块思维－１_184705565.content" content="/publish/files/20120928 - 1 - 函数定义 - 模块思维－１_184705565.content" id="202" pr="" type="pptx"/>
+  <pic anchor="20121010CSChap02_573109210.content" content="/publish/files/20121010CSChap02_573109210.content" id="203" pr="" type="pdf"/>
+  <pic anchor="20121010－1－变量讨论 - 类型－地址－编码－1_314503156.content" content="/publish/files/20121010－1－变量讨论 - 类型－地址－编码－1_314503156.content" id="204" pr="" type="ppt"/>
+  <pic anchor="20121012 - 1 - 函数设计 - 模块思维－2_832101578.content" content="/publish/files/20121012 - 1 - 函数设计 - 模块思维－2_832101578.content" id="205" pr="" type="ppt"/>
+  <pic anchor="20121017Chap03_1070338.content" content="/publish/files/20121017Chap03_1070338.content" id="206" pr="" type="pdf"/>
+  <pic anchor="20121019－数据组织１－数组－１_418502855.content" content="/publish/files/20121019－数据组织１－数组－１_418502855.content" id="207" pr="" type="ppt"/>
+  <pic anchor="20121024－1－数据组织一－2－递推－筛法－查找_322106611.content" content="/publish/files/20121024－1－数据组织一－2－递推－筛法－查找_322106611.content" id="208" pr="" type="ppt"/>
+  <pic anchor="20121026－1－数据组织一－3－排序－二维数组_774805172.content" content="/publish/files/20121026－1－数据组织一－3－排序－二维数组_774805172.content" id="209" pr="" type="ppt"/>
+  <pic anchor="20121026－2－讨论课 - 变量－类型－地址－编码－2_792608421.content" content="/publish/files/20121026－2－讨论课 - 变量－类型－地址－编码－2_792608421.content" id="210" pr="" type="ppt"/>
+  <pic anchor="20121102－1－数据组织二－1－结构_33409618.content" content="/publish/files/20121102－1－数据组织二－1－结构_33409618.content" id="211" pr="" type="pdf"/>
+  <pic anchor="20121102－2－数据组织三－1－文件_488308371.content" content="/publish/files/20121102－2－数据组织三－1－文件_488308371.content" id="212" pr="" type="pptx"/>
+  <pic anchor="20121102－3－自学－文件流的读写操作_566407134.content" content="/publish/files/20121102－3－自学－文件流的读写操作_566407134.content" id="213" pr="" type="ppt"/>
+  <pic anchor="20121102－4－附录－如何提高编程水平_477603960.content" content="/publish/files/20121102－4－附录－如何提高编程水平_477603960.content" id="214" pr="" type="ppt"/>
+  <pic anchor="20121109－2－文件的应用_52830153.content" content="/publish/files/20121109－2－文件的应用_52830153.content" id="215" pr="" type="ppt"/>
+  <pic anchor="20121116－递归－[方阵-快排-搬盘]_32290729.content" content="/publish/files/20121116－递归－[方阵-快排-搬盘]_32290729.content" id="216" pr="" type="ppt"/>
+  <pic anchor="20121121-review_279801775.content" content="/publish/files/20121121-review_279801775.content" id="217" pr="" type="pdf"/>
+  <pic anchor="20121121－Chap05PL_512309698.content" content="/publish/files/20121121－Chap05PL_512309698.content" id="218" pr="" type="pdf"/>
+  <pic anchor="20121128-Chap07DS-_308804504.content" content="/publish/files/20121128-Chap07DS-_308804504.content" id="219" pr="" type="pdf"/>
+  <pic anchor="20121130－第10章－贪心法－[装船-事件-删数]_39280859.content" content="/publish/files/20121130－第10章－贪心法－[装船-事件-删数]_39280859.content" id="220" pr="" type="ppt"/>
+  <pic anchor="20121205-Chap08FS_811807145.content" content="/publish/files/20121205-Chap08FS_811807145.content" id="221" pr="" type="pdf"/>
+  <pic anchor="20121212-Chap09-_331306491.content" content="/publish/files/20121212-Chap09-_331306491.content" id="222" pr="" type="pdf"/>
+  <pic anchor="2012CS-Answer_460402221.content" content="/publish/files/2012CS-Answer_460402221.content" id="223" pr="" type="pdf"/>
+  <pic anchor="2012event.content" content="/publish/files/2012event.content" id="224" pr="" type="docx"/>
+  <pic anchor="2012gs.content" content="/publish/files/2012gs.content" id="225" pr="" type="doc"/>
+  <pic anchor="2012tui.content" content="/publish/files/2012tui.content" id="226" pr="" type="pdf"/>
+  <pic anchor="2012_Non-invasive imaging through opaque scattering layers_616909907.content" content="/publish/files/2012_Non-invasive imaging through opaque scattering layers_616909907.content" id="227" pr="" type="pdf"/>
+  <pic anchor="2012级多元微积分期中考题（A）答案_747409197.content" content="/publish/files/2012级多元微积分期中考题（A）答案_747409197.content" id="228" pr="" type="doc"/>
+  <pic anchor="2013 doctor.content" content="/publish/files/2013 doctor.content" id="229" pr="" type="doc"/>
+  <pic anchor="2013 Master.content" content="/publish/files/2013 Master.content" id="230" pr="" type="doc"/>
+  <pic anchor="2013-2014cyjhssxz.content" content="/publish/files/2013-2014cyjhssxz.content" id="231" pr="" type="docx"/>
+  <pic anchor="2013-2014stpyh.content" content="/publish/files/2013-2014stpyh.content" id="232" pr="" type="docx"/>
+  <pic anchor="2013-2014stxmsbtz.content" content="/publish/files/2013-2014stxmsbtz.content" id="233" pr="" type="docx"/>
+  <pic anchor="2013-2014wstssxz.content" content="/publish/files/2013-2014wstssxz.content" id="234" pr="" type="docx"/>
+  <pic anchor="2013-2014xxlhdzbsbxz.content" content="/publish/files/2013-2014xxlhdzbsbxz.content" id="235" pr="" type="doc"/>
+  <pic anchor="2013-2014zbts&amp;zjsqsbxz.content" content="/publish/files/2013-2014zbts&amp;zjsqsbxz.content" id="236" pr="" type="docx"/>
+  <pic anchor="2013-2014学年春季学期概率论与数理统计期末考试要求_510307046.content" content="/publish/files/2013-2014学年春季学期概率论与数理统计期末考试要求_510307046.content" id="237" pr="" type="pdf"/>
+  <pic anchor="2013.content" content="/publish/files/2013.content" id="238" pr="" type="doc"/>
+  <pic anchor="20130226-W01-命令行与多文件_119605129.content" content="/publish/files/20130226-W01-命令行与多文件_119605129.content" id="239" pr="" type="ppt"/>
+  <pic anchor="20130305-W02-封装与接口_92402896.content" content="/publish/files/20130305-W02-封装与接口_92402896.content" id="240" pr="" type="ppt"/>
+  <pic anchor="20130312-W03-构造与析构_501705097.content" content="/publish/files/20130312-W03-构造与析构_501705097.content" id="241" pr="" type="ppt"/>
+  <pic anchor="20130319-W04-共享与保护_905808668.content" content="/publish/files/20130319-W04-共享与保护_905808668.content" id="242" pr="" type="ppt"/>
+  <pic anchor="20130402-W06-01-输入与输出-Ver20130402_518702298.content" content="/publish/files/20130402-W06-01-输入与输出-Ver20130402_518702298.content" id="243" pr="" type="pptx"/>
+  <pic anchor="20130402-W06-03-记录调试信息的类-FullVersioin_772609693.content" content="/publish/files/20130402-W06-03-记录调试信息的类-FullVersioin_772609693.content" id="244" pr="" type="ppt"/>
+  <pic anchor="20130409-W07-01-虚函数与多态_914208292.content" content="/publish/files/20130409-W07-01-虚函数与多态_914208292.content" id="245" pr="" type="ppt"/>
+  <pic anchor="20130409-W07-02-表达式示例_818505000.content" content="/publish/files/20130409-W07-02-表达式示例_818505000.content" id="246" pr="" type="ppt"/>
+  <pic anchor="20130916-W00-Intro-MATLAB-v3_792404556.content" content="/publish/files/20130916-W00-Intro-MATLAB-v3_792404556.content" id="247" pr="" type="ppt"/>
+  <pic anchor="20131021100639958745626..content" content="/publish/files/20131021100639958745626..content" id="248" pr="" type="pdf"/>
+  <pic anchor="20131021100735723662228..content" content="/publish/files/20131021100735723662228..content" id="249" pr="" type="pdf"/>
+  <pic anchor="20131021100752583596227..content" content="/publish/files/20131021100752583596227..content" id="250" pr="" type="pdf"/>
+  <pic anchor="20131021100807800671025..content" content="/publish/files/20131021100807800671025..content" id="251" pr="" type="pdf"/>
+  <pic anchor="20131021100821778325436..content" content="/publish/files/20131021100821778325436..content" id="252" pr="" type="pdf"/>
+  <pic anchor="20131021100840047525084..content" content="/publish/files/20131021100840047525084..content" id="253" pr="" type="pdf"/>
+  <pic anchor="20131021100854009674532..content" content="/publish/files/20131021100854009674532..content" id="254" pr="" type="pdf"/>
+  <pic anchor="20131021100909394977419..content" content="/publish/files/20131021100909394977419..content" id="255" pr="" type="pdf"/>
+  <pic anchor="20131021100923752169112..content" content="/publish/files/20131021100923752169112..content" id="256" pr="" type="pdf"/>
+  <pic anchor="2013jpxmjg.content" content="/publish/files/2013jpxmjg.content" id="257" pr="" type="doc"/>
+  <pic anchor="2013xin1.content" content="/publish/files/2013xin1.content" id="258" pr="" type="pdf"/>
+  <pic anchor="2013xsstxmpxsl.content" content="/publish/files/2013xsstxmpxsl.content" id="259" pr="" type="docx"/>
+  <pic anchor="2013年参考答案.content" content="/publish/files/2013年参考答案.content" id="260" pr="" type="pdf"/>
+  <pic anchor="2013年第8讲课件_508505795.content" content="/publish/files/2013年第8讲课件_508505795.content" id="261" pr="" type="ppt"/>
+  <pic anchor="2013秋实验室探究课概论new_892305181.content" content="/publish/files/2013秋实验室探究课概论new_892305181.content" id="262" pr="" type="ppt"/>
+  <pic anchor="2013秋物理实验1绪论答案_352902335.content" content="/publish/files/2013秋物理实验1绪论答案_352902335.content" id="263" pr="" type="docx"/>
+  <pic anchor="2013第10讲课件_76290481.content" content="/publish/files/2013第10讲课件_76290481.content" id="264" pr="" type="ppt"/>
+  <pic anchor="2013第11讲课件_277602344.content" content="/publish/files/2013第11讲课件_277602344.content" id="265" pr="" type="ppt"/>
+  <pic anchor="2013第13周--课堂展示与讨论_959807935.content" content="/publish/files/2013第13周--课堂展示与讨论_959807935.content" id="266" pr="" type="ppt"/>
+  <pic anchor="2013第13讲课件_618107245.content" content="/publish/files/2013第13讲课件_618107245.content" id="267" pr="" type="ppt"/>
+  <pic anchor="2013第14讲课件_850505229.content" content="/publish/files/2013第14讲课件_850505229.content" id="268" pr="" type="ppt"/>
+  <pic anchor="2013第6讲课件_943203090.content" content="/publish/files/2013第6讲课件_943203090.content" id="269" pr="" type="ppt"/>
+  <pic anchor="2013第9讲课件_830208168.content" content="/publish/files/2013第9讲课件_830208168.content" id="270" pr="" type="ppt"/>
+  <pic anchor="2013第一讲课件_308104890.content" content="/publish/files/2013第一讲课件_308104890.content" id="271" pr="" type="ppt"/>
+  <pic anchor="2013第五讲课件_682606970.content" content="/publish/files/2013第五讲课件_682606970.content" id="272" pr="" type="ppt"/>
+  <pic anchor="2013第八周课堂展示与讨论_140805826.content" content="/publish/files/2013第八周课堂展示与讨论_140805826.content" id="273" pr="" type="ppt"/>
+  <pic anchor="2013第四讲课件_924903359.content" content="/publish/files/2013第四讲课件_924903359.content" id="274" pr="" type="ppt"/>
+  <pic anchor="2014 doctor adm.content" content="/publish/files/2014 doctor adm.content" id="275" pr="" type="pdf"/>
+  <pic anchor="2014-1.content" content="/publish/files/2014-1.content" id="276" pr="" type="pdf"/>
+  <pic anchor="2014-10.content" content="/publish/files/2014-10.content" id="277" pr="" type="pdf"/>
+  <pic anchor="2014-2.content" content="/publish/files/2014-2.content" id="278" pr="" type="pdf"/>
+  <pic anchor="2014-2015年春季学期信息登记表--学生版_440404571.content" content="/publish/files/2014-2015年春季学期信息登记表--学生版_440404571.content" id="279" pr="" type="doc"/>
+  <pic anchor="2014-3.content" content="/publish/files/2014-3.content" id="280" pr="" type="pdf"/>
+  <pic anchor="2014-4.content" content="/publish/files/2014-4.content" id="281" pr="" type="pdf"/>
+  <pic anchor="2014-5.content" content="/publish/files/2014-5.content" id="282" pr="" type="pdf"/>
+  <pic anchor="2014-6.content" content="/publish/files/2014-6.content" id="283" pr="" type="pdf"/>
+  <pic anchor="2014-7.content" content="/publish/files/2014-7.content" id="284" pr="" type="pdf"/>
+  <pic anchor="2014-8.content" content="/publish/files/2014-8.content" id="285" pr="" type="pdf"/>
+  <pic anchor="2014-9.content" content="/publish/files/2014-9.content" id="286" pr="" type="pdf"/>
+  <pic anchor="2014-PSP-CHAPx1.1_767105767.content" content="/publish/files/2014-PSP-CHAPx1.1_767105767.content" id="287" pr="" type="pptx"/>
+  <pic anchor="2014-PSP-CHAPx1.2_996603219.content" content="/publish/files/2014-PSP-CHAPx1.2_996603219.content" id="288" pr="" type="pptx"/>
+  <pic anchor="2014-PSP-CHAPx1.3_753608888.content" content="/publish/files/2014-PSP-CHAPx1.3_753608888.content" id="289" pr="" type="pptx"/>
+  <pic anchor="2014-PSP-CHAPx1.4_643407010.content" content="/publish/files/2014-PSP-CHAPx1.4_643407010.content" id="290" pr="" type="pptx"/>
+  <pic anchor="2014-PSP-CHAPx1.5_158704691.content" content="/publish/files/2014-PSP-CHAPx1.5_158704691.content" id="291" pr="" type="ppt"/>
+  <pic anchor="2014-PSP-CHAPx1.5_507308803.content" content="/publish/files/2014-PSP-CHAPx1.5_507308803.content" id="292" pr="" type="pptx"/>
+  <pic anchor="201401.content" content="/publish/files/201401.content" id="293" pr="" type="pdf"/>
+  <pic anchor="201402.content" content="/publish/files/201402.content" id="294" pr="" type="pdf"/>
+  <pic anchor="201403.content" content="/publish/files/201403.content" id="295" pr="" type="pdf"/>
+  <pic anchor="201404.content" content="/publish/files/201404.content" id="296" pr="" type="pdf"/>
+  <pic anchor="201405.content" content="/publish/files/201405.content" id="297" pr="" type="pdf"/>
+  <pic anchor="201406.content" content="/publish/files/201406.content" id="298" pr="" type="pdf"/>
+  <pic anchor="201407.content" content="/publish/files/201407.content" id="299" pr="" type="pdf"/>
+  <pic anchor="201408.content" content="/publish/files/201408.content" id="300" pr="" type="pdf"/>
+  <pic anchor="201409.content" content="/publish/files/201409.content" id="301" pr="" type="pdf"/>
+  <pic anchor="20140918-lecture1-qemu.content" content="/publish/files/20140918-lecture1-qemu.content" id="302" pr="" type="pptx"/>
+  <pic anchor="20140919Annoucement.content" content="/publish/files/20140919Annoucement.content" id="303" pr="" type="pdf"/>
+  <pic anchor="20140922-lecture2-static-analysis.content" content="/publish/files/20140922-lecture2-static-analysis.content" id="304" pr="" type="pptx"/>
+  <pic anchor="20140923-W01-CHAP01.1_61806557.content" content="/publish/files/20140923-W01-CHAP01.1_61806557.content" id="305" pr="" type="ppt"/>
+  <pic anchor="20140924-wjp-课程开讲和第一章_266802545.content" content="/publish/files/20140924-wjp-课程开讲和第一章_266802545.content" id="306" pr="" type="pdf"/>
+  <pic anchor="20140929-lecture3-dynamic-analysis.content" content="/publish/files/20140929-lecture3-dynamic-analysis.content" id="307" pr="" type="pptx"/>
+  <pic anchor="20140930-W02-CHAP01.2_745201224.content" content="/publish/files/20140930-W02-CHAP01.2_745201224.content" id="308" pr="" type="pptx"/>
+  <pic anchor="201410.content" content="/publish/files/201410.content" id="309" pr="" type="pdf"/>
+  <pic anchor="20141007-lecture4-microkernel.content" content="/publish/files/20141007-lecture4-microkernel.content" id="310" pr="" type="pptx"/>
+  <pic anchor="20141008-wjp-ch2_767901076.content" content="/publish/files/20141008-wjp-ch2_767901076.content" id="311" pr="" type="pdf"/>
+  <pic anchor="20141013-lecture6-exokernel.content" content="/publish/files/20141013-lecture6-exokernel.content" id="312" pr="" type="pptx"/>
+  <pic anchor="20141014-W04-CHAP02.1_311209039.content" content="/publish/files/20141014-W04-CHAP02.1_311209039.content" id="313" pr="" type="pptx"/>
+  <pic anchor="20141015-lecture7-hardware-vitualization.content" content="/publish/files/20141015-lecture7-hardware-vitualization.content" id="314" pr="" type="pptx"/>
+  <pic anchor="20141021-W05-CHAP02.2_715303405.content" content="/publish/files/20141021-W05-CHAP02.2_715303405.content" id="315" pr="" type="pdf"/>
+  <pic anchor="20141022-wjp-ch3_568508541.content" content="/publish/files/20141022-wjp-ch3_568508541.content" id="316" pr="" type="pdf"/>
+  <pic anchor="20141023-lecture9-OS-scalability.content" content="/publish/files/20141023-lecture9-OS-scalability.content" id="317" pr="" type="pptx"/>
+  <pic anchor="20141028-lecture10-Kernel-design.content" content="/publish/files/20141028-lecture10-Kernel-design.content" id="318" pr="" type="pptx"/>
+  <pic anchor="20141028-W06-CHAP02.3_206605453.content" content="/publish/files/20141028-W06-CHAP02.3_206605453.content" id="319" pr="" type="pdf"/>
+  <pic anchor="20141028-W06-CHAP02.3_409502602.content" content="/publish/files/20141028-W06-CHAP02.3_409502602.content" id="320" pr="" type="pptx"/>
+  <pic anchor="20141029-wjp-ch4_206608688.content" content="/publish/files/20141029-wjp-ch4_206608688.content" id="321" pr="" type="pdf"/>
+  <pic anchor="20141029-wjp-ch5-1_907809261.content" content="/publish/files/20141029-wjp-ch5-1_907809261.content" id="322" pr="" type="pdf"/>
+  <pic anchor="201411.content" content="/publish/files/201411.content" id="323" pr="" type="pdf"/>
+  <pic anchor="20141102-lecture12-GPU-Abstraction.content" content="/publish/files/20141102-lecture12-GPU-Abstraction.content" id="324" pr="" type="pptx"/>
+  <pic anchor="20141102-W07-CHAP03.1 - Why DTFT_722907991.content" content="/publish/files/20141102-W07-CHAP03.1 - Why DTFT_722907991.content" id="325" pr="" type="pptx"/>
+  <pic anchor="20141104-lecture13-file-system.content" content="/publish/files/20141104-lecture13-file-system.content" id="326" pr="" type="pptx"/>
+  <pic anchor="20141104-W07-CHAP03.2 - Why DFT_705406485.content" content="/publish/files/20141104-W07-CHAP03.2 - Why DFT_705406485.content" id="327" pr="" type="pptx"/>
+  <pic anchor="20141105-wjp-ch5-2_538009907.content" content="/publish/files/20141105-wjp-ch5-2_538009907.content" id="328" pr="" type="pdf"/>
+  <pic anchor="20141106-lecture14-storage-system.content" content="/publish/files/20141106-lecture14-storage-system.content" id="329" pr="" type="pptx"/>
+  <pic anchor="20141113-lecture15-scheduling.content" content="/publish/files/20141113-lecture15-scheduling.content" id="330" pr="" type="pptx"/>
+  <pic anchor="20141118-W09-CHAP03.3 - 深入讨论DFT_22108796.content" content="/publish/files/20141118-W09-CHAP03.3 - 深入讨论DFT_22108796.content" id="331" pr="" type="pptx"/>
+  <pic anchor="20141119-wjp-ch6_558904556.content" content="/publish/files/20141119-wjp-ch6_558904556.content" id="332" pr="" type="pdf"/>
+  <pic anchor="201412.content" content="/publish/files/201412.content" id="333" pr="" type="pdf"/>
+  <pic anchor="20141203-wjp-ch7_409905132.content" content="/publish/files/20141203-wjp-ch7_409905132.content" id="334" pr="" type="pdf"/>
+  <pic anchor="20141217-wjp-ch8_465109113.content" content="/publish/files/20141217-wjp-ch8_465109113.content" id="335" pr="" type="pdf"/>
+  <pic anchor="20141224-wjp-ch9_963004856.content" content="/publish/files/20141224-wjp-ch9_963004856.content" id="336" pr="" type="pdf"/>
+  <pic anchor="20141230-W15-CHAP04 - System Analysis_470108528.content" content="/publish/files/20141230-W15-CHAP04 - System Analysis_470108528.content" id="337" pr="" type="pdf"/>
+  <pic anchor="201413.content" content="/publish/files/201413.content" id="338" pr="" type="pdf"/>
+  <pic anchor="201414.content" content="/publish/files/201414.content" id="339" pr="" type="pdf"/>
+  <pic anchor="201415.content" content="/publish/files/201415.content" id="340" pr="" type="pdf"/>
+  <pic anchor="201416.content" content="/publish/files/201416.content" id="341" pr="" type="pdf"/>
+  <pic anchor="201417.content" content="/publish/files/201417.content" id="342" pr="" type="pdf"/>
+  <pic anchor="201418.content" content="/publish/files/201418.content" id="343" pr="" type="pdf"/>
+  <pic anchor="201419.content" content="/publish/files/201419.content" id="344" pr="" type="pdf"/>
+  <pic anchor="201420.content" content="/publish/files/201420.content" id="345" pr="" type="pdf"/>
+  <pic anchor="201421.content" content="/publish/files/201421.content" id="346" pr="" type="pdf"/>
+  <pic anchor="201422.content" content="/publish/files/201422.content" id="347" pr="" type="pdf"/>
+  <pic anchor="201423.content" content="/publish/files/201423.content" id="348" pr="" type="pdf"/>
+  <pic anchor="201424.content" content="/publish/files/201424.content" id="349" pr="" type="pdf"/>
+  <pic anchor="201425.content" content="/publish/files/201425.content" id="350" pr="" type="pdf"/>
+  <pic anchor="201426.content" content="/publish/files/201426.content" id="351" pr="" type="pdf"/>
+  <pic anchor="201427.content" content="/publish/files/201427.content" id="352" pr="" type="pdf"/>
+  <pic anchor="201428.content" content="/publish/files/201428.content" id="353" pr="" type="pdf"/>
+  <pic anchor="201429.content" content="/publish/files/201429.content" id="354" pr="" type="pdf"/>
+  <pic anchor="201430.content" content="/publish/files/201430.content" id="355" pr="" type="pdf"/>
+  <pic anchor="201431.content" content="/publish/files/201431.content" id="356" pr="" type="pdf"/>
+  <pic anchor="201432.content" content="/publish/files/201432.content" id="357" pr="" type="pdf"/>
+  <pic anchor="201433.content" content="/publish/files/201433.content" id="358" pr="" type="pdf"/>
+  <pic anchor="201434.content" content="/publish/files/201434.content" id="359" pr="" type="pdf"/>
+  <pic anchor="201435.content" content="/publish/files/201435.content" id="360" pr="" type="pdf"/>
+  <pic anchor="201436.content" content="/publish/files/201436.content" id="361" pr="" type="pdf"/>
+  <pic anchor="201437.content" content="/publish/files/201437.content" id="362" pr="" type="pdf"/>
+  <pic anchor="201438.content" content="/publish/files/201438.content" id="363" pr="" type="pdf"/>
+  <pic anchor="201439.content" content="/publish/files/201439.content" id="364" pr="" type="pdf"/>
+  <pic anchor="201440.content" content="/publish/files/201440.content" id="365" pr="" type="pdf"/>
+  <pic anchor="201441.content" content="/publish/files/201441.content" id="366" pr="" type="pdf"/>
+  <pic anchor="201442.content" content="/publish/files/201442.content" id="367" pr="" type="pdf"/>
+  <pic anchor="201443.content" content="/publish/files/201443.content" id="368" pr="" type="pdf"/>
+  <pic anchor="201444.content" content="/publish/files/201444.content" id="369" pr="" type="pdf"/>
+  <pic anchor="201445.content" content="/publish/files/201445.content" id="370" pr="" type="pdf"/>
+  <pic anchor="201446.content" content="/publish/files/201446.content" id="371" pr="" type="pdf"/>
+  <pic anchor="201447.content" content="/publish/files/201447.content" id="372" pr="" type="pdf"/>
+  <pic anchor="201448.content" content="/publish/files/201448.content" id="373" pr="" type="pdf"/>
+  <pic anchor="2014gcssjz.content" content="/publish/files/2014gcssjz.content" id="374" pr="" type="pdf"/>
+  <pic anchor="2014SPRING.content" content="/publish/files/2014SPRING.content" id="376" pr="" type="pdf"/>
+  <pic anchor="2014年春季学期前八周_332307283.content" content="/publish/files/2014年春季学期前八周_332307283.content" id="377" pr="" type="pdf"/>
+  <pic anchor="2015-03-26-01.content" content="/publish/files/2015-03-26-01.content" id="378" pr="" type="pdf"/>
+  <pic anchor="2015-03-26-01en.content" content="/publish/files/2015-03-26-01en.content" id="379" pr="" type="pdf"/>
+  <pic anchor="2015-03-26-02.content" content="/publish/files/2015-03-26-02.content" id="380" pr="" type="pdf"/>
+  <pic anchor="2015-03-26-02en.content" content="/publish/files/2015-03-26-02en.content" id="381" pr="" type="pdf"/>
+  <pic anchor="2015-2016fwxzzsjz.content" content="/publish/files/2015-2016fwxzzsjz.content" id="382" pr="" type="pdf"/>
+  <pic anchor="2015-2016jxjszsjz.content" content="/publish/files/2015-2016jxjszsjz.content" id="383" pr="" type="pdf"/>
+  <pic anchor="20150301-lab0-chy-2.content" content="/publish/files/20150301-lab0-chy-2.content" id="384" pr="" type="pptx"/>
+  <pic anchor="20150323-labs3-改版-ch-2y.content" content="/publish/files/20150323-labs3-改版-ch-2y.content" id="385" pr="" type="pptx"/>
+  <pic anchor="20150418-改版改版mooc-lab7_chy9.content" content="/publish/files/20150418-改版改版mooc-lab7_chy9.content" id="386" pr="" type="pptx"/>
+  <pic anchor="2015ENVIM.content" content="/publish/files/2015ENVIM.content" id="387" pr="" type="pdf"/>
+  <pic anchor="2015master.content" content="/publish/files/2015master.content" id="388" pr="" type="pdf"/>
+  <pic anchor="2015年Google优秀奖学金_推荐信模板.content" content="/publish/files/2015年Google优秀奖学金_推荐信模板.content" id="389" pr="" type="doc"/>
+  <pic anchor="21-1 (1).content" content="/publish/files/21-1 (1).content" id="390" pr="" type="pptx"/>
+  <pic anchor="21-1.content" content="/publish/files/21-1.content" id="391" pr="" type="pptx"/>
+  <pic anchor="21.content" content="/publish/files/21.content" id="392" pr="" type="pdf"/>
+  <pic anchor="21311429150293751.content" content="/publish/files/21311429150293751.content" id="393" pr="" type="pdf"/>
+  <pic anchor="22.content" content="/publish/files/22.content" id="394" pr="" type="pdf"/>
+  <pic anchor="23-1.content" content="/publish/files/23-1.content" id="395" pr="" type="pptx"/>
+  <pic anchor="23-2.content" content="/publish/files/23-2.content" id="396" pr="" type="pptx"/>
+  <pic anchor="23-3.content" content="/publish/files/23-3.content" id="397" pr="" type="pptx"/>
+  <pic anchor="23-4.content" content="/publish/files/23-4.content" id="398" pr="" type="pptx"/>
+  <pic anchor="23-5.content" content="/publish/files/23-5.content" id="399" pr="" type="pptx"/>
+  <pic anchor="23.content" content="/publish/files/23.content" id="400" pr="" type="pdf"/>
+  <pic anchor="24.content" content="/publish/files/24.content" id="401" pr="" type="pdf"/>
+  <pic anchor="25.content" content="/publish/files/25.content" id="402" pr="" type="pdf"/>
+  <pic anchor="25单元科研探究课201401015_127907975.content" content="/publish/files/25单元科研探究课201401015_127907975.content" id="403" pr="" type="ppt"/>
+  <pic anchor="26.content" content="/publish/files/26.content" id="404" pr="" type="pdf"/>
+  <pic anchor="26231427682522424.content" content="/publish/files/26231427682522424.content" id="405" pr="" type="pdf"/>
+  <pic anchor="26608678_第44号教学单元讲义.content" content="/publish/files/26608678_第44号教学单元讲义.content" id="406" pr="" type="pdf"/>
+  <pic anchor="27.content" content="/publish/files/27.content" id="407" pr="" type="pdf"/>
+  <pic anchor="277401448_二节能楼介绍.content" content="/publish/files/277401448_二节能楼介绍.content" id="408" pr="" type="pdf"/>
+  <pic anchor="27891427682389872.content" content="/publish/files/27891427682389872.content" id="409" pr="" type="pdf"/>
+  <pic anchor="28.content" content="/publish/files/28.content" id="410" pr="" type="pdf"/>
+  <pic anchor="29.content" content="/publish/files/29.content" id="411" pr="" type="pdf"/>
+  <pic anchor="2tmgc.content" content="/publish/files/2tmgc.content" id="412" pr="" type="pdf"/>
+  <pic anchor="2z1.content" content="/publish/files/2z1.content" id="413" pr="" type="doc"/>
+  <pic anchor="2z2.content" content="/publish/files/2z2.content" id="414" pr="" type="doc"/>
+  <pic anchor="2z3(2).content" content="/publish/files/2z3(2).content" id="415" pr="" type="doc"/>
+  <pic anchor="2zj.content" content="/publish/files/2zj.content" id="416" pr="" type="doc"/>
+  <pic anchor="2逻辑函数化简：公式法.卡诺图_284008409.content" content="/publish/files/2逻辑函数化简：公式法.卡诺图_284008409.content" id="417" pr="" type="pptx"/>
+  <pic anchor="2马哲文本：关于费尔巴哈的提纲_2501533.content" content="/publish/files/2马哲文本：关于费尔巴哈的提纲_2501533.content" id="418" pr="" type="doc"/>
+  <pic anchor="3-1.content" content="/publish/files/3-1.content" id="419" pr="" type="pptx"/>
+  <pic anchor="3-2.content" content="/publish/files/3-2.content" id="420" pr="" type="pptx"/>
+  <pic anchor="3-3.content" content="/publish/files/3-3.content" id="421" pr="" type="pptx"/>
+  <pic anchor="3-4.content" content="/publish/files/3-4.content" id="422" pr="" type="pptx"/>
+  <pic anchor="3-5.content" content="/publish/files/3-5.content" id="423" pr="" type="pptx"/>
+  <pic anchor="3.Bayes(3.20)-forPDF_594005513.content" content="/publish/files/3.Bayes(3.20)-forPDF_594005513.content" id="424" pr="" type="pdf"/>
+  <pic anchor="3.content" content="/publish/files/3.content" id="425" pr="" type="pdf"/>
+  <pic anchor="30.content" content="/publish/files/30.content" id="426" pr="" type="pdf"/>
+  <pic anchor="31.content" content="/publish/files/31.content" id="427" pr="" type="pdf"/>
+  <pic anchor="312105651_第32单元－汽车构造单元课大纲.content" content="/publish/files/312105651_第32单元－汽车构造单元课大纲.content" id="428" pr="" type="doc"/>
+  <pic anchor="32.content" content="/publish/files/32.content" id="429" pr="" type="pdf"/>
+  <pic anchor="33.content" content="/publish/files/33.content" id="430" pr="" type="pdf"/>
+  <pic anchor="34.content" content="/publish/files/34.content" id="431" pr="" type="pdf"/>
+  <pic anchor="35.content" content="/publish/files/35.content" id="432" pr="" type="pdf"/>
+  <pic anchor="356308832_第27单元.content" content="/publish/files/356308832_第27单元.content" id="433" pr="" type="pdf"/>
+  <pic anchor="36.content" content="/publish/files/36.content" id="434" pr="" type="pdf"/>
+  <pic anchor="37.content" content="/publish/files/37.content" id="435" pr="" type="pdf"/>
+  <pic anchor="38.content" content="/publish/files/38.content" id="436" pr="" type="pdf"/>
+  <pic anchor="39.content" content="/publish/files/39.content" id="437" pr="" type="pdf"/>
+  <pic anchor="39891428976149307.content" content="/publish/files/39891428976149307.content" id="438" pr="" type="doc"/>
+  <pic anchor="3rd_announcement.content" content="/publish/files/3rd_announcement.content" id="439" pr="" type="pdf"/>
+  <pic anchor="3sl.content" content="/publish/files/3sl.content" id="440" pr="" type="pdf"/>
+  <pic anchor="3马哲文本《德意志意识形态》第一卷节选_20903222.content" content="/publish/files/3马哲文本《德意志意识形态》第一卷节选_20903222.content" id="441" pr="" type="doc"/>
+  <pic anchor="4.content" content="/publish/files/4.content" id="442" pr="" type="pdf"/>
+  <pic anchor="4.HMM(3.27)_633802008.content" content="/publish/files/4.HMM(3.27)_633802008.content" id="443" pr="" type="pdf"/>
+  <pic anchor="40.content" content="/publish/files/40.content" id="444" pr="" type="pdf"/>
+  <pic anchor="41.content" content="/publish/files/41.content" id="445" pr="" type="pdf"/>
+  <pic anchor="42.content" content="/publish/files/42.content" id="446" pr="" type="pdf"/>
+  <pic anchor="42881427095689070.content" content="/publish/files/42881427095689070.content" id="447" pr="" type="pdf"/>
+  <pic anchor="43.content" content="/publish/files/43.content" id="448" pr="" type="pdf"/>
+  <pic anchor="44.content" content="/publish/files/44.content" id="449" pr="" type="pdf"/>
+  <pic anchor="45.content" content="/publish/files/45.content" id="450" pr="" type="pdf"/>
+  <pic anchor="46.content" content="/publish/files/46.content" id="451" pr="" type="pdf"/>
+  <pic anchor="47.content" content="/publish/files/47.content" id="452" pr="" type="pdf"/>
+  <pic anchor="4hjgc.content" content="/publish/files/4hjgc.content" id="453" pr="" type="pdf"/>
+  <pic anchor="4与非门及外特征_v1_963006574.content" content="/publish/files/4与非门及外特征_v1_963006574.content" id="454" pr="" type="pptx"/>
+  <pic anchor="4与非门及外特征_v2_764303805.content" content="/publish/files/4与非门及外特征_v2_764303805.content" id="455" pr="" type="pptx"/>
+  <pic anchor="4马哲文本：《〈政治经济学批判〉序言》等_319803633.content" content="/publish/files/4马哲文本：《〈政治经济学批判〉序言》等_319803633.content" id="456" pr="" type="doc"/>
+  <pic anchor="5-1.content" content="/publish/files/5-1.content" id="457" pr="" type="pptx"/>
+  <pic anchor="5-1jxgc.content" content="/publish/files/5-1jxgc.content" id="458" pr="" type="pdf"/>
+  <pic anchor="5-2.content" content="/publish/files/5-2.content" id="459" pr="" type="pptx"/>
+  <pic anchor="5-2jxgc.content" content="/publish/files/5-2jxgc.content" id="460" pr="" type="pdf"/>
+  <pic anchor="5-3.content" content="/publish/files/5-3.content" id="461" pr="" type="pptx"/>
+  <pic anchor="5-4.content" content="/publish/files/5-4.content" id="462" pr="" type="pptx"/>
+  <pic anchor="5-5.content" content="/publish/files/5-5.content" id="463" pr="" type="pptx"/>
+  <pic anchor="5.content" content="/publish/files/5.content" id="464" pr="" type="pdf"/>
+  <pic anchor="5.Hypo_eval(4.3)_198702472.content" content="/publish/files/5.Hypo_eval(4.3)_198702472.content" id="465" pr="" type="pdf"/>
+  <pic anchor="59-凝固加工和控制@@@@@@一、凝固与文明历史二、有关金属凝固的基本概念三、凝固加工和凝固控制四、大块非晶镁合金贮氢材料制备装备和技术演示 _501002517_133206534.content" content="/publish/files/59-凝固加工和控制@@@@@@一、凝固与文明历史二、有关金属凝固的基本概念三、凝固加工和凝固控制四、大块非晶镁合金贮氢材料制备装备和技术演示 _501002517_133206534.content" id="466" pr="" type="ppt"/>
+  <pic anchor="5半导体光电子器件的制作技术_44170404_123705681.content" content="/publish/files/5半导体光电子器件的制作技术_44170404_123705681.content" id="467" pr="" type="ppt"/>
+  <pic anchor="5译码器.数据选择器.PLD_695603035.content" content="/publish/files/5译码器.数据选择器.PLD_695603035.content" id="468" pr="" type="pptx"/>
+  <pic anchor="5译码器.数据选择器_v2_409507196.content" content="/publish/files/5译码器.数据选择器_v2_409507196.content" id="469" pr="" type="pptx"/>
+  <pic anchor="5马哲文本： 共产党宣言_474203634_370208631.content" content="/publish/files/5马哲文本： 共产党宣言_474203634_370208631.content" id="470" pr="" type="doc"/>
+  <pic anchor="6.content" content="/publish/files/6.content" id="471" pr="" type="pdf"/>
+  <pic anchor="6.Hypo_eval-II-IBL-I(4.10)_957806737.content" content="/publish/files/6.Hypo_eval-II-IBL-I(4.10)_957806737.content" id="472" pr="" type="pdf"/>
+  <pic anchor="64541428477007470.content" content="/publish/files/64541428477007470.content" id="473" pr="" type="pdf"/>
+  <pic anchor="69单元20111012_52780935_304004904.content" content="/publish/files/69单元20111012_52780935_304004904.content" id="474" pr="" type="ppt"/>
+  <pic anchor="6liangjidongchezhaopian.content" content="/publish/files/6liangjidongchezhaopian.content" id="475" pr="" type="doc"/>
+  <pic anchor="6rn.content" content="/publish/files/6rn.content" id="476" pr="" type="pdf"/>
+  <pic anchor="6编码器.比较器.奇偶校验器.PLA_v4_318903598.content" content="/publish/files/6编码器.比较器.奇偶校验器.PLA_v4_318903598.content" id="477" pr="" type="pptx"/>
+  <pic anchor="6编码器.比较器.奇偶校验器.PLD_v3_536505394.content" content="/publish/files/6编码器.比较器.奇偶校验器.PLD_v3_536505394.content" id="478" pr="" type="pptx"/>
+  <pic anchor="6马哲文本：费尔巴哈和德国古典哲学的终结_28600389.content" content="/publish/files/6马哲文本：费尔巴哈和德国古典哲学的终结_28600389.content" id="479" pr="" type="doc"/>
+  <pic anchor="7.content" content="/publish/files/7.content" id="480" pr="" type="pdf"/>
+  <pic anchor="7.IBL(4.17)_633507151.content" content="/publish/files/7.IBL(4.17)_633507151.content" id="481" pr="" type="pdf"/>
+  <pic anchor="7361428573307187.content" content="/publish/files/7361428573307187.content" id="482" pr="" type="doc"/>
+  <pic anchor="74.content" content="/publish/files/74.content" id="483" pr="" type="pdf"/>
+  <pic anchor="75.content" content="/publish/files/75.content" id="484" pr="" type="pdf"/>
+  <pic anchor="76.content" content="/publish/files/76.content" id="485" pr="" type="pdf"/>
+  <pic anchor="77(1).content" content="/publish/files/77(1).content" id="486" pr="" type="pdf"/>
+  <pic anchor="78.content" content="/publish/files/78.content" id="487" pr="" type="pdf"/>
+  <pic anchor="7clgc.content" content="/publish/files/7clgc.content" id="488" pr="" type="pdf"/>
+  <pic anchor="7th.content" content="/publish/files/7th.content" id="489" pr="" type="doc"/>
+  <pic anchor="7运算器.触发器_v2_728208668.content" content="/publish/files/7运算器.触发器_v2_728208668.content" id="490" pr="" type="pptx"/>
+  <pic anchor="8.content" content="/publish/files/8.content" id="491" pr="" type="pdf"/>
+  <pic anchor="8.svm_64706369.content" content="/publish/files/8.svm_64706369.content" id="492" pr="" type="pdf"/>
+  <pic anchor="8141428976632750.content" content="/publish/files/8141428976632750.content" id="493" pr="" type="doc"/>
+  <pic anchor="826308825_一我国建筑节能现状简介.content" content="/publish/files/826308825_一我国建筑节能现状简介.content" id="494" pr="" type="pdf"/>
+  <pic anchor="84661429150748581.content" content="/publish/files/84661429150748581.content" id="495" pr="" type="pdf"/>
+  <pic anchor="879906692_有机发光二极管超薄平板显示技术（上载）.content" content="/publish/files/879906692_有机发光二极管超薄平板显示技术（上载）.content" id="496" pr="" type="ppt"/>
+  <pic anchor="8D触发器.JK触发器.CPLD_v1_64930536.content" content="/publish/files/8D触发器.JK触发器.CPLD_v1_64930536.content" id="497" pr="" type="pptx"/>
+  <pic anchor="8D触发器.JK触发器_v2_755301234.content" content="/publish/files/8D触发器.JK触发器_v2_755301234.content" id="498" pr="" type="pptx"/>
+  <pic anchor="8gygc.content" content="/publish/files/8gygc.content" id="499" pr="" type="pdf"/>
+  <pic anchor="8气体放电中的光谱测量 _954802740_746807702.content" content="/publish/files/8气体放电中的光谱测量 _954802740_746807702.content" id="500" pr="" type="pdf"/>
+  <pic anchor="9-1 页面置换算法的概念.content" content="/publish/files/9-1 页面置换算法的概念.content" id="501" pr="" type="pptx"/>
+  <pic anchor="9-10 抖动问题.content" content="/publish/files/9-10 抖动问题.content" id="502" pr="" type="pptx"/>
+  <pic anchor="9-2 最优算法、先进先出算法、最近最久未使用算法.content" content="/publish/files/9-2 最优算法、先进先出算法、最近最久未使用算法.content" id="503" pr="" type="pptx"/>
+  <pic anchor="9-4 时钟置换算法、最不常用算法.content" content="/publish/files/9-4 时钟置换算法、最不常用算法.content" id="504" pr="" type="pptx"/>
+  <pic anchor="9-6 Belady现象.content" content="/publish/files/9-6 Belady现象.content" id="505" pr="" type="pptx"/>
+  <pic anchor="9-7 全局页面置换算法、工作集常驻集.content" content="/publish/files/9-7 全局页面置换算法、工作集常驻集.content" id="506" pr="" type="pptx"/>
+  <pic anchor="9-9 缺页率置换算法.content" content="/publish/files/9-9 缺页率置换算法.content" id="507" pr="" type="pptx"/>
+  <pic anchor="9.content" content="/publish/files/9.content" id="508" pr="" type="pdf"/>
+  <pic anchor="9.unsupervised_learning_754103189.content" content="/publish/files/9.unsupervised_learning_754103189.content" id="509" pr="" type="pdf"/>
+  <pic anchor="90604840_95_136904524_88_944906176_92_644204557_91_129801897_85_日志范例_496509674.content" content="/publish/files/90604840_95_136904524_88_944906176_92_644204557_91_129801897_85_日志范例_496509674.content" id="510" pr="" type="doc"/>
+  <pic anchor="94单元材料与服装课件_309209558.content" content="/publish/files/94单元材料与服装课件_309209558.content" id="511" pr="" type="pdf"/>
+  <pic anchor="9CPLD.期末大实验.同步时序电路_v2_141601142.content" content="/publish/files/9CPLD.期末大实验.同步时序电路_v2_141601142.content" id="512" pr="" type="pptx"/>
+  <pic anchor="9dj.content" content="/publish/files/9dj.content" id="513" pr="" type="pdf"/>
+  <pic anchor="A General Shape Equation for Local Regular Structure of Biomolecular Chains.content" content="/publish/files/A General Shape Equation for Local Regular Structure of Biomolecular Chains.content" id="514" pr="" type="pdf"/>
+  <pic anchor="A lattice-gas model for amyloid fibril aggregation.content" content="/publish/files/A lattice-gas model for amyloid fibril aggregation.content" id="515" pr="" type="pdf"/>
+  <pic anchor="A Novel Statistical Model for the Secondary Structure of RNA.content" content="/publish/files/A Novel Statistical Model for the Secondary Structure of RNA.content" id="516" pr="" type="pdf"/>
+  <pic anchor="A statistical mechanical model for antiparallel beta-sheet-coil equilibrium.content" content="/publish/files/A statistical mechanical model for antiparallel beta-sheet-coil equilibrium.content" id="517" pr="" type="pdf"/>
+  <pic anchor="A Variational Model for Oligomer-Formation Process of GNNQQNY Peptide from Yeast Prion Protein Sup35(1).content" content="/publish/files/A Variational Model for Oligomer-Formation Process of GNNQQNY Peptide from Yeast Prion Protein Sup35(1).content" id="518" pr="" type="pdf"/>
+  <pic anchor="A Variational Model for Oligomer-Formation Process of GNNQQNY Peptide from Yeast Prion Protein Sup35(SI).content" content="/publish/files/A Variational Model for Oligomer-Formation Process of GNNQQNY Peptide from Yeast Prion Protein Sup35(SI).content" id="519" pr="" type="pdf"/>
+  <pic anchor="academic01.content" content="/publish/files/academic01.content" id="520" pr="" type="pdf"/>
+  <pic anchor="academic02.content" content="/publish/files/academic02.content" id="521" pr="" type="pdf"/>
+  <pic anchor="academic03.content" content="/publish/files/academic03.content" id="522" pr="" type="pdf"/>
+  <pic anchor="academic04.content" content="/publish/files/academic04.content" id="523" pr="" type="pdf"/>
+  <pic anchor="academic05.content" content="/publish/files/academic05.content" id="524" pr="" type="pdf"/>
+  <pic anchor="accomendations.content" content="/publish/files/accomendations.content" id="525" pr="" type="pdf"/>
+  <pic anchor="ach1.content" content="/publish/files/ach1.content" id="526" pr="" type="doc"/>
+  <pic anchor="ach2.content" content="/publish/files/ach2.content" id="527" pr="" type="doc"/>
+  <pic anchor="ach3.content" content="/publish/files/ach3.content" id="528" pr="" type="doc"/>
+  <pic anchor="Admission.content" content="/publish/files/Admission.content" id="529" pr="" type="doc"/>
+  <pic anchor="Annoucement_2nd_round_CHN.content" content="/publish/files/Annoucement_2nd_round_CHN.content" id="530" pr="" type="pdf"/>
+  <pic anchor="Annoucement_2nd_round_ENG.content" content="/publish/files/Annoucement_2nd_round_ENG.content" id="531" pr="" type="pdf"/>
+  <pic anchor="Annular axisymmetric stagnation flow on a moving cylinder.content" content="/publish/files/Annular axisymmetric stagnation flow on a moving cylinder.content" id="532" pr="" type="pdf"/>
+  <pic anchor="APGD-LabTour-2015_870905317.content" content="/publish/files/APGD-LabTour-2015_870905317.content" id="533" pr="" type="pdf"/>
+  <pic anchor="Application (2).content" content="/publish/files/Application (2).content" id="534" pr="" type="doc"/>
+  <pic anchor="Application (3).content" content="/publish/files/Application (3).content" id="535" pr="" type="doc"/>
+  <pic anchor="Application (4).content" content="/publish/files/Application (4).content" id="536" pr="" type="doc"/>
+  <pic anchor="application (5).content" content="/publish/files/application (5).content" id="537" pr="" type="doc"/>
+  <pic anchor="Application (7).content" content="/publish/files/Application (7).content" id="538" pr="" type="doc"/>
+  <pic anchor="Application Form.content" content="/publish/files/Application Form.content" id="539" pr="" type="doc"/>
+  <pic anchor="Application.content" content="/publish/files/Application.content" id="540" pr="" type="doc"/>
+  <pic anchor="application_form.content" content="/publish/files/application_form.content" id="541" pr="" type="doc"/>
+  <pic anchor="b2.content" content="/publish/files/b2.content" id="542" pr="" type="doc"/>
+  <pic anchor="Bachelor thesis.content" content="/publish/files/Bachelor thesis.content" id="543" pr="" type="pdf"/>
+  <pic anchor="bby.content" content="/publish/files/bby.content" id="544" pr="" type="doc"/>
+  <pic anchor="bdd.content" content="/publish/files/bdd.content" id="545" pr="" type="doc"/>
+  <pic anchor="beijing25.content" content="/publish/files/beijing25.content" id="546" pr="" type="doc"/>
+  <pic anchor="Big Events.content" content="/publish/files/Big Events.content" id="547" pr="" type="doc"/>
+  <pic anchor="bjs.content" content="/publish/files/bjs.content" id="548" pr="" type="doc"/>
+  <pic anchor="bkspyfa.content" content="/publish/files/bkspyfa.content" id="549" pr="" type="doc"/>
+  <pic anchor="bksyxlw.content" content="/publish/files/bksyxlw.content" id="550" pr="" type="doc"/>
+  <pic anchor="bkzy_01.content" content="/publish/files/bkzy_01.content" id="551" pr="" type="pdf"/>
+  <pic anchor="bkzy_02.content" content="/publish/files/bkzy_02.content" id="552" pr="" type="pdf"/>
+  <pic anchor="bkzy_03.content" content="/publish/files/bkzy_03.content" id="553" pr="" type="pdf"/>
+  <pic anchor="bkzy_04.content" content="/publish/files/bkzy_04.content" id="554" pr="" type="pdf"/>
+  <pic anchor="bkzy_05.content" content="/publish/files/bkzy_05.content" id="555" pr="" type="pdf"/>
+  <pic anchor="bkzy_06.content" content="/publish/files/bkzy_06.content" id="556" pr="" type="pdf"/>
+  <pic anchor="bkzy_07.content" content="/publish/files/bkzy_07.content" id="557" pr="" type="pdf"/>
+  <pic anchor="bkzy_08.content" content="/publish/files/bkzy_08.content" id="558" pr="" type="pdf"/>
+  <pic anchor="bkzy_09.content" content="/publish/files/bkzy_09.content" id="559" pr="" type="pdf"/>
+  <pic anchor="bkzy_10.content" content="/publish/files/bkzy_10.content" id="560" pr="" type="pdf"/>
+  <pic anchor="bkzy_11.content" content="/publish/files/bkzy_11.content" id="561" pr="" type="pdf"/>
+  <pic anchor="bkzy_12.content" content="/publish/files/bkzy_12.content" id="562" pr="" type="pdf"/>
+  <pic anchor="bkzy_13.content" content="/publish/files/bkzy_13.content" id="563" pr="" type="pdf"/>
+  <pic anchor="bkzy_14.content" content="/publish/files/bkzy_14.content" id="564" pr="" type="pdf"/>
+  <pic anchor="bkzy_15.content" content="/publish/files/bkzy_15.content" id="565" pr="" type="pdf"/>
+  <pic anchor="bkzy_16.content" content="/publish/files/bkzy_16.content" id="566" pr="" type="pdf"/>
+  <pic anchor="bkzy_17.content" content="/publish/files/bkzy_17.content" id="567" pr="" type="pdf"/>
+  <pic anchor="bkzy_18.content" content="/publish/files/bkzy_18.content" id="568" pr="" type="pdf"/>
+  <pic anchor="bkzy_19.content" content="/publish/files/bkzy_19.content" id="569" pr="" type="pdf"/>
+  <pic anchor="bkzy_20.content" content="/publish/files/bkzy_20.content" id="570" pr="" type="pdf"/>
+  <pic anchor="bkzy_21.content" content="/publish/files/bkzy_21.content" id="571" pr="" type="pdf"/>
+  <pic anchor="bkzy_22.content" content="/publish/files/bkzy_22.content" id="572" pr="" type="pdf"/>
+  <pic anchor="bkzy_23.content" content="/publish/files/bkzy_23.content" id="573" pr="" type="pdf"/>
+  <pic anchor="bkzy_24.content" content="/publish/files/bkzy_24.content" id="574" pr="" type="pdf"/>
+  <pic anchor="bkzy_25.content" content="/publish/files/bkzy_25.content" id="575" pr="" type="pdf"/>
+  <pic anchor="bkzy_26.content" content="/publish/files/bkzy_26.content" id="576" pr="" type="pdf"/>
+  <pic anchor="bkzy_27.content" content="/publish/files/bkzy_27.content" id="577" pr="" type="pdf"/>
+  <pic anchor="bkzy_28.content" content="/publish/files/bkzy_28.content" id="578" pr="" type="pdf"/>
+  <pic anchor="bkzy_29.content" content="/publish/files/bkzy_29.content" id="579" pr="" type="pdf"/>
+  <pic anchor="bkzy_30.content" content="/publish/files/bkzy_30.content" id="580" pr="" type="pdf"/>
+  <pic anchor="bkzy_31.content" content="/publish/files/bkzy_31.content" id="581" pr="" type="pdf"/>
+  <pic anchor="bkzy_32.content" content="/publish/files/bkzy_32.content" id="582" pr="" type="pdf"/>
+  <pic anchor="bkzy_33.content" content="/publish/files/bkzy_33.content" id="583" pr="" type="pdf"/>
+  <pic anchor="bkzy_34.content" content="/publish/files/bkzy_34.content" id="584" pr="" type="pdf"/>
+  <pic anchor="bkzy_35.content" content="/publish/files/bkzy_35.content" id="585" pr="" type="pdf"/>
+  <pic anchor="bkzy_36.content" content="/publish/files/bkzy_36.content" id="586" pr="" type="pdf"/>
+  <pic anchor="bkzy_37.content" content="/publish/files/bkzy_37.content" id="587" pr="" type="pdf"/>
+  <pic anchor="bkzy_38.content" content="/publish/files/bkzy_38.content" id="588" pr="" type="pdf"/>
+  <pic anchor="bkzy_39.content" content="/publish/files/bkzy_39.content" id="589" pr="" type="pdf"/>
+  <pic anchor="bkzy_40.content" content="/publish/files/bkzy_40.content" id="590" pr="" type="pdf"/>
+  <pic anchor="bkzy_41.content" content="/publish/files/bkzy_41.content" id="591" pr="" type="pdf"/>
+  <pic anchor="bkzy_42.content" content="/publish/files/bkzy_42.content" id="592" pr="" type="pdf"/>
+  <pic anchor="bkzy_43.content" content="/publish/files/bkzy_43.content" id="593" pr="" type="pdf"/>
+  <pic anchor="bkzy_44.content" content="/publish/files/bkzy_44.content" id="594" pr="" type="pdf"/>
+  <pic anchor="bkzy_45.content" content="/publish/files/bkzy_45.content" id="595" pr="" type="pdf"/>
+  <pic anchor="bkzy_46.content" content="/publish/files/bkzy_46.content" id="596" pr="" type="pdf"/>
+  <pic anchor="bkzy_47.content" content="/publish/files/bkzy_47.content" id="597" pr="" type="pdf"/>
+  <pic anchor="bkzy_48.content" content="/publish/files/bkzy_48.content" id="598" pr="" type="pdf"/>
+  <pic anchor="bkzy_49.content" content="/publish/files/bkzy_49.content" id="599" pr="" type="pdf"/>
+  <pic anchor="bkzy_50.content" content="/publish/files/bkzy_50.content" id="600" pr="" type="pdf"/>
+  <pic anchor="bkzy_51.content" content="/publish/files/bkzy_51.content" id="601" pr="" type="pdf"/>
+  <pic anchor="bn.content" content="/publish/files/bn.content" id="602" pr="" type="doc"/>
+  <pic anchor="Body Paragraphs_192509668.content" content="/publish/files/Body Paragraphs_192509668.content" id="603" pr="" type="ppt"/>
+  <pic anchor="book.content" content="/publish/files/book.content" id="604" pr="" type="doc"/>
+  <pic anchor="bzzt.content" content="/publish/files/bzzt.content" id="605" pr="" type="pdf"/>
+  <pic anchor="cailiao.content" content="/publish/files/cailiao.content" id="606" pr="" type="pdf"/>
+  <pic anchor="cbjctj2011.content" content="/publish/files/cbjctj2011.content" id="607" pr="" type="doc"/>
+  <pic anchor="CEQT.content" content="/publish/files/CEQT.content" id="608" pr="" type="docx"/>
+  <pic anchor="CH01-1-Course-Introduction_992906860.content" content="/publish/files/CH01-1-Course-Introduction_992906860.content" id="609" pr="" type="pdf"/>
+  <pic anchor="CH01-2-Graph-Basis_177104498.content" content="/publish/files/CH01-2-Graph-Basis_177104498.content" id="610" pr="" type="pdf"/>
+  <pic anchor="CH02-2-H-Cycles_404302958.content" content="/publish/files/CH02-2-H-Cycles_404302958.content" id="611" pr="" type="pdf"/>
+  <pic anchor="CH02-3-Shortest-Path_99530524.content" content="/publish/files/CH02-3-Shortest-Path_99530524.content" id="612" pr="" type="pdf"/>
+  <pic anchor="CH03-1-Tree-Basic_3340864.content" content="/publish/files/CH03-1-Tree-Basic_3340864.content" id="613" pr="" type="pdf"/>
+  <pic anchor="CH04-2-Planar-Graph_11230600.content" content="/publish/files/CH04-2-Planar-Graph_11230600.content" id="614" pr="" type="pdf"/>
+  <pic anchor="CH05-1-Match-Flow_554405089.content" content="/publish/files/CH05-1-Match-Flow_554405089.content" id="615" pr="" type="pdf"/>
+  <pic anchor="CH05-2-Match-Flow_7990027.content" content="/publish/files/CH05-2-Match-Flow_7990027.content" id="616" pr="" type="pdf"/>
+  <pic anchor="CH06-Connectivity_25370827.content" content="/publish/files/CH06-Connectivity_25370827.content" id="617" pr="" type="pdf"/>
+  <pic anchor="CH07-1-Algebra_591509645.content" content="/publish/files/CH07-1-Algebra_591509645.content" id="618" pr="" type="pdf"/>
+  <pic anchor="CH07-2-Algebra_726109848.content" content="/publish/files/CH07-2-Algebra_726109848.content" id="619" pr="" type="pdf"/>
+  <pic anchor="CH08-1-Group_24370693.content" content="/publish/files/CH08-1-Group_24370693.content" id="620" pr="" type="pdf"/>
+  <pic anchor="CH08-2-Group_964308715.content" content="/publish/files/CH08-2-Group_964308715.content" id="621" pr="" type="pdf"/>
+  <pic anchor="ch0_471804320.content" content="/publish/files/ch0_471804320.content" id="622" pr="" type="ppt"/>
+  <pic anchor="ch1_Introduction_88460709.content" content="/publish/files/ch1_Introduction_88460709.content" id="623" pr="" type="ppt"/>
+  <pic anchor="ch2_Network_Architecture_886209698.content" content="/publish/files/ch2_Network_Architecture_886209698.content" id="624" pr="" type="ppt"/>
+  <pic anchor="ch3_Data_Communication_368704751.content" content="/publish/files/ch3_Data_Communication_368704751.content" id="625" pr="" type="ppt"/>
+  <pic anchor="ch5_Data_Link_Layer_800107655.content" content="/publish/files/ch5_Data_Link_Layer_800107655.content" id="626" pr="" type="ppt"/>
+  <pic anchor="ch678_2012_32405031.content" content="/publish/files/ch678_2012_32405031.content" id="627" pr="" type="pdf"/>
+  <pic anchor="ch6_Mac_Sublayer_642908020.content" content="/publish/files/ch6_Mac_Sublayer_642908020.content" id="628" pr="" type="ppt"/>
+  <pic anchor="ch7_Network_Layer_463006060.content" content="/publish/files/ch7_Network_Layer_463006060.content" id="629" pr="" type="ppt"/>
+  <pic anchor="ch8_Transport_Layer_559701867.content" content="/publish/files/ch8_Transport_Layer_559701867.content" id="630" pr="" type="ppt"/>
+  <pic anchor="ch9_Application_Layer_699902813.content" content="/publish/files/ch9_Application_Layer_699902813.content" id="631" pr="" type="ppt"/>
+  <pic anchor="Chap03-NET-chy-20121031_987502598.content" content="/publish/files/Chap03-NET-chy-20121031_987502598.content" id="632" pr="" type="pdf"/>
+  <pic anchor="Chap03-OS-chy-20121024_809604417.content" content="/publish/files/Chap03-OS-chy-20121024_809604417.content" id="633" pr="" type="pdf"/>
+  <pic anchor="Chap04-AL-chy-20121031_362801436.content" content="/publish/files/Chap04-AL-chy-20121031_362801436.content" id="634" pr="" type="pdf"/>
+  <pic anchor="Chap05-PL-chy3_167504884.content" content="/publish/files/Chap05-PL-chy3_167504884.content" id="635" pr="" type="pdf"/>
+  <pic anchor="chap9_Texture_39560548.content" content="/publish/files/chap9_Texture_39560548.content" id="636" pr="" type="pdf"/>
+  <pic anchor="coachplan.content" content="/publish/files/coachplan.content" id="637" pr="" type="doc"/>
+  <pic anchor="Coffee time-RL_825604322.content" content="/publish/files/Coffee time-RL_825604322.content" id="638" pr="" type="pdf"/>
+  <pic anchor="Coffee Time-类脑计算_992402554.content" content="/publish/files/Coffee Time-类脑计算_992402554.content" id="639" pr="" type="pdf"/>
+  <pic anchor="Compare and Contrast Example_407906031.content" content="/publish/files/Compare and Contrast Example_407906031.content" id="640" pr="" type="docx"/>
+  <pic anchor="cs laiguokun_614505993.content" content="/publish/files/cs laiguokun_614505993.content" id="641" pr="" type="pptx"/>
+  <pic anchor="CSoutline_494305267.content" content="/publish/files/CSoutline_494305267.content" id="642" pr="" type="pdf"/>
+  <pic anchor="cxiti3_305805201.content" content="/publish/files/cxiti3_305805201.content" id="643" pr="" type="pdf"/>
+  <pic anchor="cxjj.content" content="/publish/files/cxjj.content" id="644" pr="" type="doc"/>
+  <pic anchor="cxjjsqb.content" content="/publish/files/cxjjsqb.content" id="645" pr="" type="doc"/>
+  <pic anchor="cxjjysbg.content" content="/publish/files/cxjjysbg.content" id="646" pr="" type="doc"/>
+  <pic anchor="cyjhdsh.content" content="/publish/files/cyjhdsh.content" id="647" pr="" type="docx"/>
+  <pic anchor="cyjhgy.content" content="/publish/files/cyjhgy.content" id="648" pr="" type="docx"/>
+  <pic anchor="cyjhjc.content" content="/publish/files/cyjhjc.content" id="649" pr="" type="doc"/>
+  <pic anchor="cyxmtgqk.content" content="/publish/files/cyxmtgqk.content" id="650" pr="" type="xls"/>
+  <pic anchor="DCM MA(1).content" content="/publish/files/DCM MA(1).content" id="651" pr="" type="pdf"/>
+  <pic anchor="DCM PHD.content" content="/publish/files/DCM PHD.content" id="652" pr="" type="pdf"/>
+  <pic anchor="debug in gdb_221803475.content" content="/publish/files/debug in gdb_221803475.content" id="653" pr="" type="pptx"/>
+  <pic anchor="Develop Your Argument_271101864.content" content="/publish/files/Develop Your Argument_271101864.content" id="654" pr="" type="ppt"/>
+  <pic anchor="dianji.content" content="/publish/files/dianji.content" id="655" pr="" type="pdf"/>
+  <pic anchor="dianzi(1).content" content="/publish/files/dianzi(1).content" id="656" pr="" type="pdf"/>
+  <pic anchor="Dissecting the Kinetic Process of Amyloid Fiber Formation through Asymptotic Analysis(1).content" content="/publish/files/Dissecting the Kinetic Process of Amyloid Fiber Formation through Asymptotic Analysis(1).content" id="657" pr="" type="pdf"/>
+  <pic anchor="Dissecting the Kinetic Process of Amyloid Fiber Formation through Asymptotic Analysis(SI).content" content="/publish/files/Dissecting the Kinetic Process of Amyloid Fiber Formation through Asymptotic Analysis(SI).content" id="658" pr="" type="pdf"/>
+  <pic anchor="DM_Chap5_5.1-5.3_33930311.content" content="/publish/files/DM_Chap5_5.1-5.3_33930311.content" id="659" pr="" type="ppt"/>
+  <pic anchor="DM_Chapter10-2_938007758.content" content="/publish/files/DM_Chapter10-2_938007758.content" id="660" pr="" type="pptx"/>
+  <pic anchor="DM_Chapter11_Function_58706516.content" content="/publish/files/DM_Chapter11_Function_58706516.content" id="661" pr="" type="pptx"/>
+  <pic anchor="DM_Chapter12_cardinal_20121225_156501800.content" content="/publish/files/DM_Chapter12_cardinal_20121225_156501800.content" id="662" pr="" type="pptx"/>
+  <pic anchor="DM_Chapter4_1023_370204690.content" content="/publish/files/DM_Chapter4_1023_370204690.content" id="663" pr="" type="pptx"/>
+  <pic anchor="DM_Chapter5_5.4-5.6_309006857.content" content="/publish/files/DM_Chapter5_5.4-5.6_309006857.content" id="664" pr="" type="pptx"/>
+  <pic anchor="DM_Lecture2_Chap2(2.1-2.6)_230107473.content" content="/publish/files/DM_Lecture2_Chap2(2.1-2.6)_230107473.content" id="665" pr="" type="pptx"/>
+  <pic anchor="DM_Lecture3-Chap2(2.7-2.10)_900306573.content" content="/publish/files/DM_Lecture3-Chap2(2.7-2.10)_900306573.content" id="666" pr="" type="pptx"/>
+  <pic anchor="DM_Lecture4_Chap3_1016_950406953.content" content="/publish/files/DM_Lecture4_Chap3_1016_950406953.content" id="667" pr="" type="pptx"/>
+  <pic anchor="DM_Lecture_1-Intro_Chap_1_577607739.content" content="/publish/files/DM_Lecture_1-Intro_Chap_1_577607739.content" id="668" pr="" type="pptx"/>
+  <pic anchor="DM_week10-Chap9-1_558008459.content" content="/publish/files/DM_week10-Chap9-1_558008459.content" id="669" pr="" type="pptx"/>
+  <pic anchor="DM_week11_Chap9_9.5-9.7_598506817.content" content="/publish/files/DM_week11_Chap9_9.5-9.7_598506817.content" id="670" pr="" type="pptx"/>
+  <pic anchor="DM_week12_Chapter10-1_156902594.content" content="/publish/files/DM_week12_Chapter10-1_156902594.content" id="671" pr="" type="pptx"/>
+  <pic anchor="doctor.content" content="/publish/files/doctor.content" id="672" pr="" type="pdf"/>
+  <pic anchor="DSP.EXAM.20090106.content" content="/publish/files/DSP.EXAM.20090106.content" id="673" pr="" type="pdf"/>
+  <pic anchor="DSP.EXAM.20100120.content" content="/publish/files/DSP.EXAM.20100120.content" id="674" pr="" type="pdf"/>
+  <pic anchor="DSP.EXAM.20110116.content" content="/publish/files/DSP.EXAM.20110116.content" id="675" pr="" type="pdf"/>
+  <pic anchor="DSP.EXAM.20120103.content" content="/publish/files/DSP.EXAM.20120103.content" id="676" pr="" type="pdf"/>
+  <pic anchor="DSP.EXAM.20130108.content" content="/publish/files/DSP.EXAM.20130108.content" id="677" pr="" type="pdf"/>
+  <pic anchor="dsqcyjhspjg.content" content="/publish/files/dsqcyjhspjg.content" id="678" pr="" type="xlsx"/>
+  <pic anchor="edu-2-1-01.content" content="/publish/files/edu-2-1-01.content" id="679" pr="" type="pdf"/>
+  <pic anchor="edu-2-1-02.content" content="/publish/files/edu-2-1-02.content" id="680" pr="" type="pdf"/>
+  <pic anchor="edu-2-1-03.content" content="/publish/files/edu-2-1-03.content" id="681" pr="" type="pdf"/>
+  <pic anchor="edu-2015-03-27cn01.content" content="/publish/files/edu-2015-03-27cn01.content" id="682" pr="" type="pdf"/>
+  <pic anchor="edu-2015-03-27cn02.content" content="/publish/files/edu-2015-03-27cn02.content" id="683" pr="" type="pdf"/>
+  <pic anchor="edu-2015-03-27cn03.content" content="/publish/files/edu-2015-03-27cn03.content" id="684" pr="" type="pdf"/>
+  <pic anchor="Email Conversation about Compare and Contrast_95305677.content" content="/publish/files/Email Conversation about Compare and Contrast_95305677.content" id="685" pr="" type="docx"/>
+  <pic anchor="English Application.content" content="/publish/files/English Application.content" id="686" pr="" type="doc"/>
+  <pic anchor="enrolled.content" content="/publish/files/enrolled.content" id="687" pr="" type="doc"/>
+  <pic anchor="ERP企业沙盘模拟_实验指导书_689503669.content" content="/publish/files/ERP企业沙盘模拟_实验指导书_689503669.content" id="688" pr="" type="docx"/>
+  <pic anchor="ERP企业经营模拟规则介绍_经管_422004125.content" content="/publish/files/ERP企业经营模拟规则介绍_经管_422004125.content" id="689" pr="" type="ppt"/>
+  <pic anchor="FAQ.content" content="/publish/files/FAQ.content" id="690" pr="" type="doc"/>
+  <pic anchor="Final-06-07_185903793.content" content="/publish/files/Final-06-07_185903793.content" id="691" pr="" type="pdf"/>
+  <pic anchor="Final-09_305406120.content" content="/publish/files/Final-09_305406120.content" id="692" pr="" type="pdf"/>
+  <pic anchor="Final（样题）_138601204.content" content="/publish/files/Final（样题）_138601204.content" id="693" pr="" type="pdf"/>
+  <pic anchor="flyer.content" content="/publish/files/flyer.content" id="694" pr="" type="pdf"/>
+  <pic anchor="fx.content" content="/publish/files/fx.content" id="695" pr="" type="doc"/>
+  <pic anchor="fysp.content" content="/publish/files/fysp.content" id="696" pr="" type="doc"/>
+  <pic anchor="gat.content" content="/publish/files/gat.content" id="697" pr="" type="doc"/>
+  <pic anchor="gcgl.content" content="/publish/files/gcgl.content" id="698" pr="" type="pdf"/>
+  <pic anchor="ggjj.content" content="/publish/files/ggjj.content" id="699" pr="" type="doc"/>
+  <pic anchor="gjgwjtssbf.content" content="/publish/files/gjgwjtssbf.content" id="700" pr="" type="doc"/>
+  <pic anchor="gjxs.content" content="/publish/files/gjxs.content" id="701" pr="" type="doc"/>
+  <pic anchor="gnfxtjb.content" content="/publish/files/gnfxtjb.content" id="702" pr="" type="doc"/>
+  <pic anchor="gongwu-anquan.content" content="/publish/files/gongwu-anquan.content" id="703" pr="" type="pdf"/>
+  <pic anchor="gongwu-heneng.content" content="/publish/files/gongwu-heneng.content" id="704" pr="" type="pdf"/>
+  <pic anchor="gongyegongcheng-wuliu.content" content="/publish/files/gongyegongcheng-wuliu.content" id="705" pr="" type="pdf"/>
+  <pic anchor="Google－探究课handout_108407775.content" content="/publish/files/Google－探究课handout_108407775.content" id="706" pr="" type="pdf"/>
+  <pic anchor="gpgp.content" content="/publish/files/gpgp.content" id="707" pr="" type="doc"/>
+  <pic anchor="gpyj.content" content="/publish/files/gpyj.content" id="708" pr="" type="doc"/>
+  <pic anchor="gspyfa2010.content" content="/publish/files/gspyfa2010.content" id="709" pr="" type="doc"/>
+  <pic anchor="gspyfa2011.content" content="/publish/files/gspyfa2011.content" id="710" pr="" type="doc"/>
+  <pic anchor="Guide.content" content="/publish/files/Guide.content" id="711" pr="" type="doc"/>
+  <pic anchor="Homework CH4_268803452.content" content="/publish/files/Homework CH4_268803452.content" id="712" pr="" type="pdf"/>
+  <pic anchor="Homework-optional_44404627.content" content="/publish/files/Homework-optional_44404627.content" id="713" pr="" type="pdf"/>
+  <pic anchor="htfj.content" content="/publish/files/htfj.content" id="714" pr="" type="doc"/>
+  <pic anchor="huanjing(1).content" content="/publish/files/huanjing(1).content" id="715" pr="" type="pdf"/>
+  <pic anchor="hwcq.content" content="/publish/files/hwcq.content" id="716" pr="" type="doc"/>
+  <pic anchor="hy.content" content="/publish/files/hy.content" id="717" pr="" type="docx"/>
+  <pic anchor="I1(}_)_949709268_217402633.content" content="/publish/files/I1(}_)_949709268_217402633.content" id="718" pr="" type="ppt"/>
+  <pic anchor="illumination microscopy_nature method 2010_308908050.content" content="/publish/files/illumination microscopy_nature method 2010_308908050.content" id="719" pr="" type="pdf"/>
+  <pic anchor="indiv75.content" content="/publish/files/indiv75.content" id="720" pr="" type="doc"/>
+  <pic anchor="Introduction.content" content="/publish/files/Introduction.content" id="721" pr="" type="doc"/>
+  <pic anchor="invention368.content" content="/publish/files/invention368.content" id="722" pr="" type="doc"/>
+  <pic anchor="ISSUE 65.content" content="/publish/files/ISSUE 65.content" id="723" pr="" type="pdf"/>
+  <pic anchor="ISSUE 66.content" content="/publish/files/ISSUE 66.content" id="724" pr="" type="pdf"/>
+  <pic anchor="ISSUE 67.content" content="/publish/files/ISSUE 67.content" id="725" pr="" type="pdf"/>
+  <pic anchor="issue16 .content" content="/publish/files/issue16 .content" id="726" pr="" type="pdf"/>
+  <pic anchor="italy.content" content="/publish/files/italy.content" id="727" pr="" type="doc"/>
+  <pic anchor="jdk安-相-_713708313.content" content="/publish/files/jdk安-相-_713708313.content" id="728" pr="" type="pptx"/>
+  <pic anchor="jflex-byaccj简介_932102404.content" content="/publish/files/jflex-byaccj简介_932102404.content" id="729" pr="" type="pdf"/>
+  <pic anchor="jg.content" content="/publish/files/jg.content" id="730" pr="" type="doc"/>
+  <pic anchor="jianzhu(1).content" content="/publish/files/jianzhu(1).content" id="731" pr="" type="pdf"/>
+  <pic anchor="jingyi(1).content" content="/publish/files/jingyi(1).content" id="732" pr="" type="pdf"/>
+  <pic anchor="jisuanji(1).content" content="/publish/files/jisuanji(1).content" id="733" pr="" type="pdf"/>
+  <pic anchor="jixie(1).content" content="/publish/files/jixie(1).content" id="734" pr="" type="pdf"/>
+  <pic anchor="jkwf.content" content="/publish/files/jkwf.content" id="735" pr="" type="doc"/>
+  <pic anchor="jt.content" content="/publish/files/jt.content" id="736" pr="" type="doc"/>
+  <pic anchor="jxcgj.content" content="/publish/files/jxcgj.content" id="737" pr="" type="doc"/>
+  <pic anchor="jxgzj.content" content="/publish/files/jxgzj.content" id="738" pr="" type="doc"/>
+  <pic anchor="jxjsgl.content" content="/publish/files/jxjsgl.content" id="739" pr="" type="doc"/>
+  <pic anchor="jxjssqb.content" content="/publish/files/jxjssqb.content" id="740" pr="" type="doc"/>
+  <pic anchor="jztys.content" content="/publish/files/jztys.content" id="741" pr="" type="doc"/>
+  <pic anchor="kejilinian.content" content="/publish/files/kejilinian.content" id="742" pr="" type="doc"/>
+  <pic anchor="kejishiwu.content" content="/publish/files/kejishiwu.content" id="743" pr="" type="doc"/>
+  <pic anchor="L01_motion_672405988.content" content="/publish/files/L01_motion_672405988.content" id="744" pr="" type="ppt"/>
+  <pic anchor="L02_history_158703920.content" content="/publish/files/L02_history_158703920.content" id="745" pr="" type="ppt"/>
+  <pic anchor="L03_light_788202425.content" content="/publish/files/L03_light_788202425.content" id="746" pr="" type="ppt"/>
+  <pic anchor="L04_planets_546802127.content" content="/publish/files/L04_planets_546802127.content" id="747" pr="" type="ppt"/>
+  <pic anchor="L05_debris_533804829.content" content="/publish/files/L05_debris_533804829.content" id="748" pr="" type="ppt"/>
+  <pic anchor="L08_formation_940602901.content" content="/publish/files/L08_formation_940602901.content" id="749" pr="" type="ppt"/>
+  <pic anchor="L09_evolution1_48401232.content" content="/publish/files/L09_evolution1_48401232.content" id="750" pr="" type="ppt"/>
+  <pic anchor="L12_galaxies_598403412.content" content="/publish/files/L12_galaxies_598403412.content" id="751" pr="" type="ppt"/>
+  <pic anchor="L13_agn_119706925.content" content="/publish/files/L13_agn_119706925.content" id="752" pr="" type="ppt"/>
+  <pic anchor="L14_cosmology_349902897.content" content="/publish/files/L14_cosmology_349902897.content" id="753" pr="" type="ppt"/>
+  <pic anchor="LAB Session 1 instructor name list(4).content" content="/publish/files/LAB Session 1 instructor name list(4).content" id="754" pr="" type="xlsx"/>
+  <pic anchor="LAB Session 2 instructor name list(2).content" content="/publish/files/LAB Session 2 instructor name list(2).content" id="755" pr="" type="xlsx"/>
+  <pic anchor="lab5.content" content="/publish/files/lab5.content" id="756" pr="" type="pptx"/>
+  <pic anchor="lc.content" content="/publish/files/lc.content" id="757" pr="" type="doc"/>
+  <pic anchor="lect 11_64205241.content" content="/publish/files/lect 11_64205241.content" id="758" pr="" type="pdf"/>
+  <pic anchor="lect 13_13809195.content" content="/publish/files/lect 13_13809195.content" id="759" pr="" type="pdf"/>
+  <pic anchor="lect 3_926501424.content" content="/publish/files/lect 3_926501424.content" id="760" pr="" type="pdf"/>
+  <pic anchor="lect 4_402404130.content" content="/publish/files/lect 4_402404130.content" id="761" pr="" type="pdf"/>
+  <pic anchor="lect 6_511709155.content" content="/publish/files/lect 6_511709155.content" id="762" pr="" type="pdf"/>
+  <pic anchor="lect 7_281709762.content" content="/publish/files/lect 7_281709762.content" id="763" pr="" type="pdf"/>
+  <pic anchor="Lect 8_80003455.content" content="/publish/files/Lect 8_80003455.content" id="764" pr="" type="pdf"/>
+  <pic anchor="lect-1-2014_367709934.content" content="/publish/files/lect-1-2014_367709934.content" id="765" pr="" type="pdf"/>
+  <pic anchor="lecture 2_74308316.content" content="/publish/files/lecture 2_74308316.content" id="766" pr="" type="pdf"/>
+  <pic anchor="Lecture03_599609837.content" content="/publish/files/Lecture03_599609837.content" id="767" pr="" type="pdf"/>
+  <pic anchor="Lecture04_518103389.content" content="/publish/files/Lecture04_518103389.content" id="768" pr="" type="pdf"/>
+  <pic anchor="lecture06-1.content" content="/publish/files/lecture06-1.content" id="769" pr="" type="pptx"/>
+  <pic anchor="lecture06-2.content" content="/publish/files/lecture06-2.content" id="770" pr="" type="pptx"/>
+  <pic anchor="lecture06-3.content" content="/publish/files/lecture06-3.content" id="771" pr="" type="pptx"/>
+  <pic anchor="lecture06-4.content" content="/publish/files/lecture06-4.content" id="772" pr="" type="pptx"/>
+  <pic anchor="lecture06-5-6.content" content="/publish/files/lecture06-5-6.content" id="773" pr="" type="pptx"/>
+  <pic anchor="lecture06-7.content" content="/publish/files/lecture06-7.content" id="774" pr="" type="pptx"/>
+  <pic anchor="lecture06-8.content" content="/publish/files/lecture06-8.content" id="775" pr="" type="pptx"/>
+  <pic anchor="Lecture07_821907252.content" content="/publish/files/Lecture07_821907252.content" id="776" pr="" type="pdf"/>
+  <pic anchor="Lecture08_78006907.content" content="/publish/files/Lecture08_78006907.content" id="777" pr="" type="pdf"/>
+  <pic anchor="Lecture09_382602008.content" content="/publish/files/Lecture09_382602008.content" id="778" pr="" type="pdf"/>
+  <pic anchor="Lecture10_838402365.content" content="/publish/files/Lecture10_838402365.content" id="779" pr="" type="pdf"/>
+  <pic anchor="Lecture11_133704029.content" content="/publish/files/Lecture11_133704029.content" id="780" pr="" type="pdf"/>
+  <pic anchor="lecture11_332006256.content" content="/publish/files/lecture11_332006256.content" id="781" pr="" type="pdf"/>
+  <pic anchor="lecture12_178208954.content" content="/publish/files/lecture12_178208954.content" id="782" pr="" type="pdf"/>
+  <pic anchor="lecture13_352507324.content" content="/publish/files/lecture13_352507324.content" id="783" pr="" type="pdf"/>
+  <pic anchor="Lecture13_908504524.content" content="/publish/files/Lecture13_908504524.content" id="784" pr="" type="pdf"/>
+  <pic anchor="lecture14_863505932.content" content="/publish/files/lecture14_863505932.content" id="785" pr="" type="pdf"/>
+  <pic anchor="lecture15_738304716.content" content="/publish/files/lecture15_738304716.content" id="786" pr="" type="pdf"/>
+  <pic anchor="lecture16_970858.content" content="/publish/files/lecture16_970858.content" id="787" pr="" type="pdf"/>
+  <pic anchor="lecture1_student_577505609.content" content="/publish/files/lecture1_student_577505609.content" id="788" pr="" type="pdf"/>
+  <pic anchor="Lecture2-Paradox_244809079.content" content="/publish/files/Lecture2-Paradox_244809079.content" id="789" pr="" type="pptx"/>
+  <pic anchor="lecture21_186603923.content" content="/publish/files/lecture21_186603923.content" id="790" pr="" type="pdf"/>
+  <pic anchor="lecture22_14260848.content" content="/publish/files/lecture22_14260848.content" id="791" pr="" type="pdf"/>
+  <pic anchor="lecture23_494503503.content" content="/publish/files/lecture23_494503503.content" id="792" pr="" type="pdf"/>
+  <pic anchor="lecture24_871801826.content" content="/publish/files/lecture24_871801826.content" id="793" pr="" type="pdf"/>
+  <pic anchor="lecture25_23608450.content" content="/publish/files/lecture25_23608450.content" id="794" pr="" type="pdf"/>
+  <pic anchor="lecture26_999204947.content" content="/publish/files/lecture26_999204947.content" id="795" pr="" type="pdf"/>
+  <pic anchor="lecture27_881102429.content" content="/publish/files/lecture27_881102429.content" id="796" pr="" type="pdf"/>
+  <pic anchor="lecture28_584204864.content" content="/publish/files/lecture28_584204864.content" id="797" pr="" type="pdf"/>
+  <pic anchor="lecture2_student_149004425.content" content="/publish/files/lecture2_student_149004425.content" id="798" pr="" type="pdf"/>
+  <pic anchor="lecture31_62300427.content" content="/publish/files/lecture31_62300427.content" id="799" pr="" type="pdf"/>
+  <pic anchor="lecture32_888803563.content" content="/publish/files/lecture32_888803563.content" id="800" pr="" type="pdf"/>
+  <pic anchor="lecture34_804905191.content" content="/publish/files/lecture34_804905191.content" id="801" pr="" type="pdf"/>
+  <pic anchor="lecture35_953807972.content" content="/publish/files/lecture35_953807972.content" id="802" pr="" type="pdf"/>
+  <pic anchor="lecture36_525507224.content" content="/publish/files/lecture36_525507224.content" id="803" pr="" type="pdf"/>
+  <pic anchor="lecture3_student_789901340.content" content="/publish/files/lecture3_student_789901340.content" id="804" pr="" type="pdf"/>
+  <pic anchor="lecture41_7804807.content" content="/publish/files/lecture41_7804807.content" id="805" pr="" type="pdf"/>
+  <pic anchor="lecture42_177505137.content" content="/publish/files/lecture42_177505137.content" id="806" pr="" type="pdf"/>
+  <pic anchor="lecture43_838002246.content" content="/publish/files/lecture43_838002246.content" id="807" pr="" type="pdf"/>
+  <pic anchor="lecture4_student_103902052.content" content="/publish/files/lecture4_student_103902052.content" id="808" pr="" type="pdf"/>
+  <pic anchor="lecture5_student_348206876.content" content="/publish/files/lecture5_student_348206876.content" id="809" pr="" type="pdf"/>
+  <pic anchor="lecture6_student_58870573.content" content="/publish/files/lecture6_student_58870573.content" id="810" pr="" type="pdf"/>
+  <pic anchor="lecture7_student_676108273.content" content="/publish/files/lecture7_student_676108273.content" id="811" pr="" type="pdf"/>
+  <pic anchor="lecture8_student_233001220.content" content="/publish/files/lecture8_student_233001220.content" id="812" pr="" type="pdf"/>
+  <pic anchor="LectureGRA_219904131.content" content="/publish/files/LectureGRA_219904131.content" id="813" pr="" type="pdf"/>
+  <pic anchor="lect_10_914506259.content" content="/publish/files/lect_10_914506259.content" id="814" pr="" type="pdf"/>
+  <pic anchor="LED点阵资料_601002084.content" content="/publish/files/LED点阵资料_601002084.content" id="815" pr="" type="pdf"/>
+  <pic anchor="lesson2_301109222.content" content="/publish/files/lesson2_301109222.content" id="816" pr="" type="pdf"/>
+  <pic anchor="lesson3_174009921.content" content="/publish/files/lesson3_174009921.content" id="817" pr="" type="pdf"/>
+  <pic anchor="lesson4_74308837.content" content="/publish/files/lesson4_74308837.content" id="818" pr="" type="pdf"/>
+  <pic anchor="lesson5_56590452.content" content="/publish/files/lesson5_56590452.content" id="819" pr="" type="pdf"/>
+  <pic anchor="lesson6 补充_364704633.content" content="/publish/files/lesson6 补充_364704633.content" id="820" pr="" type="pptx"/>
+  <pic anchor="lesson6_938109753.content" content="/publish/files/lesson6_938109753.content" id="821" pr="" type="pptx"/>
+  <pic anchor="lesson7_421609906.content" content="/publish/files/lesson7_421609906.content" id="822" pr="" type="pdf"/>
+  <pic anchor="lesson8-HTML_473403648.content" content="/publish/files/lesson8-HTML_473403648.content" id="823" pr="" type="ppt"/>
+  <pic anchor="lesson8_930209388.content" content="/publish/files/lesson8_930209388.content" id="824" pr="" type="pdf"/>
+  <pic anchor="Lesson_One-2015（上传版）_282809521.content" content="/publish/files/Lesson_One-2015（上传版）_282809521.content" id="825" pr="" type="pdf"/>
+  <pic anchor="Leture02_495809528.content" content="/publish/files/Leture02_495809528.content" id="826" pr="" type="pdf"/>
+  <pic anchor="Leture05_61807708.content" content="/publish/files/Leture05_61807708.content" id="827" pr="" type="pdf"/>
+  <pic anchor="lfab.content" content="/publish/files/lfab.content" id="828" pr="" type="doc"/>
+  <pic anchor="list-of-english-courses-2010-2011.content" content="/publish/files/list-of-english-courses-2010-2011.content" id="829" pr="" type="pdf"/>
+  <pic anchor="lxh.content" content="/publish/files/lxh.content" id="830" pr="" type="doc"/>
+  <pic anchor="Major Events 2011.content" content="/publish/files/Major Events 2011.content" id="831" pr="" type="pdf"/>
+  <pic anchor="Major Events in 2006.content" content="/publish/files/Major Events in 2006.content" id="832" pr="" type="doc"/>
+  <pic anchor="Major Events in 2007.content" content="/publish/files/Major Events in 2007.content" id="833" pr="" type="doc"/>
+  <pic anchor="Major Events in 2008.content" content="/publish/files/Major Events in 2008.content" id="834" pr="" type="doc"/>
+  <pic anchor="master.content" content="/publish/files/master.content" id="835" pr="" type="pdf"/>
+  <pic anchor="md.content" content="/publish/files/md.content" id="836" pr="" type="doc"/>
+  <pic anchor="mdgs.content" content="/publish/files/mdgs.content" id="837" pr="" type="doc"/>
+  <pic anchor="MEM-E.content" content="/publish/files/MEM-E.content" id="838" pr="" type="pdf"/>
+  <pic anchor="MEM.content" content="/publish/files/MEM.content" id="839" pr="" type="doc"/>
+  <pic anchor="mep.content" content="/publish/files/mep.content" id="840" pr="" type="doc"/>
+  <pic anchor="mingdan .content" content="/publish/files/mingdan .content" id="841" pr="" type="doc"/>
+  <pic anchor="MIT_slides12_784302548.content" content="/publish/files/MIT_slides12_784302548.content" id="842" pr="" type="pdf"/>
+  <pic anchor="Modeling fibril fragmentation in real-time.content" content="/publish/files/Modeling fibril fragmentation in real-time.content" id="843" pr="" type="pdf"/>
+  <pic anchor="MOE46.content" content="/publish/files/MOE46.content" id="844" pr="" type="doc"/>
+  <pic anchor="mooc-lab4-chy-2015-4改版-20150320.content" content="/publish/files/mooc-lab4-chy-2015-4改版-20150320.content" id="845" pr="" type="ppt"/>
+  <pic anchor="Multiscale gigapixel photography_4708731.content" content="/publish/files/Multiscale gigapixel photography_4708731.content" id="846" pr="" type="pdf"/>
+  <pic anchor="national19.content" content="/publish/files/national19.content" id="847" pr="" type="doc"/>
+  <pic anchor="nature09521[1]_59306433.content" content="/publish/files/nature09521[1]_59306433.content" id="848" pr="" type="pdf"/>
+  <pic anchor="Newsletter 15.content" content="/publish/files/Newsletter 15.content" id="849" pr="" type="pdf"/>
+  <pic anchor="newsletter70.content" content="/publish/files/newsletter70.content" id="850" pr="" type="pdf"/>
+  <pic anchor="newsletter71.content" content="/publish/files/newsletter71.content" id="851" pr="" type="pdf"/>
+  <pic anchor="Newsletter72.content" content="/publish/files/Newsletter72.content" id="852" pr="" type="pdf"/>
+  <pic anchor="newsletter73.content" content="/publish/files/newsletter73.content" id="853" pr="" type="pdf"/>
+  <pic anchor="OAuth2.0_610501600.content" content="/publish/files/OAuth2.0_610501600.content" id="854" pr="" type="pptx"/>
+  <pic anchor="os-08-01虚拟存储的需求背景.content" content="/publish/files/os-08-01虚拟存储的需求背景.content" id="855" pr="" type="pptx"/>
+  <pic anchor="os-08-02、03覆盖技术.content" content="/publish/files/os-08-02、03覆盖技术.content" id="856" pr="" type="pptx"/>
+  <pic anchor="os-08-04局部性原理.content" content="/publish/files/os-08-04局部性原理.content" id="857" pr="" type="pptx"/>
+  <pic anchor="os-08-05虚拟存储管理的概念.content" content="/publish/files/os-08-05虚拟存储管理的概念.content" id="858" pr="" type="pptx"/>
+  <pic anchor="os-08-06虚拟页式存储.content" content="/publish/files/os-08-06虚拟页式存储.content" id="859" pr="" type="pptx"/>
+  <pic anchor="os-08-07缺页异常.content" content="/publish/files/os-08-07缺页异常.content" id="860" pr="" type="pptx"/>
+  <pic anchor="pch.content" content="/publish/files/pch.content" id="861" pr="" type="doc"/>
+  <pic anchor="personal statement.content" content="/publish/files/personal statement.content" id="862" pr="" type="doc"/>
+  <pic anchor="Phd thesis in chinese.content" content="/publish/files/Phd thesis in chinese.content" id="863" pr="" type="pdf"/>
+  <pic anchor="Phd thesis in english.content" content="/publish/files/Phd thesis in english.content" id="864" pr="" type="pdf"/>
+  <pic anchor="phd01.content" content="/publish/files/phd01.content" id="865" pr="" type="pdf"/>
+  <pic anchor="phdadm.content" content="/publish/files/phdadm.content" id="866" pr="" type="pdf"/>
+  <pic anchor="Postdoc Thesis.content" content="/publish/files/Postdoc Thesis.content" id="867" pr="" type="pdf"/>
+  <pic anchor="PPT_250007807.content" content="/publish/files/PPT_250007807.content" id="868" pr="" type="ppt"/>
+  <pic anchor="PPT_755107195.content" content="/publish/files/PPT_755107195.content" id="869" pr="" type="ppt"/>
+  <pic anchor="PPT_999305969.content" content="/publish/files/PPT_999305969.content" id="870" pr="" type="ppt"/>
+  <pic anchor="practice86.content" content="/publish/files/practice86.content" id="871" pr="" type="doc"/>
+  <pic anchor="Professor Cookson Document_431206770.content" content="/publish/files/Professor Cookson Document_431206770.content" id="872" pr="" type="docx"/>
+  <pic anchor="Project-DictTool_ASM_976909831.content" content="/publish/files/Project-DictTool_ASM_976909831.content" id="873" pr="" type="docx"/>
+  <pic anchor="provincial30.content" content="/publish/files/provincial30.content" id="874" pr="" type="doc"/>
+  <pic anchor="PS.content" content="/publish/files/PS.content" id="875" pr="" type="doc"/>
+  <pic anchor="psbf.content" content="/publish/files/psbf.content" id="876" pr="" type="doc"/>
+  <pic anchor="pubication48.content" content="/publish/files/pubication48.content" id="877" pr="" type="doc"/>
+  <pic anchor="pyfa.content" content="/publish/files/pyfa.content" id="878" pr="" type="doc"/>
+  <pic anchor="qbs.content" content="/publish/files/qbs.content" id="879" pr="" type="doc"/>
+  <pic anchor="qiche.content" content="/publish/files/qiche.content" id="880" pr="" type="pdf"/>
+  <pic anchor="qj.content" content="/publish/files/qj.content" id="881" pr="" type="doc"/>
+  <pic anchor="qs.content" content="/publish/files/qs.content" id="882" pr="" type="doc"/>
+  <pic anchor="qyyg.content" content="/publish/files/qyyg.content" id="883" pr="" type="doc"/>
+  <pic anchor="qz.content" content="/publish/files/qz.content" id="884" pr="" type="doc"/>
+  <pic anchor="reneng(1).content" content="/publish/files/reneng(1).content" id="885" pr="" type="pdf"/>
+  <pic anchor="research.content" content="/publish/files/research.content" id="886" pr="" type="pdf"/>
+  <pic anchor="sbhy.content" content="/publish/files/sbhy.content" id="887" pr="" type="doc"/>
+  <pic anchor="sbs.content" content="/publish/files/sbs.content" id="888" pr="" type="doc"/>
+  <pic anchor="Scaling Law for the Radius of Gyration of Proteins and Its Dependence on Hydrophobicity.content" content="/publish/files/Scaling Law for the Radius of Gyration of Proteins and Its Dependence on Hydrophobicity.content" id="889" pr="" type="pdf"/>
+  <pic anchor="scholarship_application_for_BGS.content" content="/publish/files/scholarship_application_for_BGS.content" id="890" pr="" type="pdf"/>
+  <pic anchor="SEC1 History of Computing_614606966.content" content="/publish/files/SEC1 History of Computing_614606966.content" id="891" pr="" type="pdf"/>
+  <pic anchor="SEC10 Advanced Pipeline(Static)_64406004.content" content="/publish/files/SEC10 Advanced Pipeline(Static)_64406004.content" id="892" pr="" type="pdf"/>
+  <pic anchor="SEC11 Advanced Pipeline(Dyn)_55200377.content" content="/publish/files/SEC11 Advanced Pipeline(Dyn)_55200377.content" id="893" pr="" type="ppt"/>
+  <pic anchor="SEC12 Branch Prediction_922807190.content" content="/publish/files/SEC12 Branch Prediction_922807190.content" id="894" pr="" type="pdf"/>
+  <pic anchor="SEC13 Vector processing_903307882.content" content="/publish/files/SEC13 Vector processing_903307882.content" id="895" pr="" type="pdf"/>
+  <pic anchor="SEC14 Multiprocessors_Cache Coherence_595503508.content" content="/publish/files/SEC14 Multiprocessors_Cache Coherence_595503508.content" id="896" pr="" type="pdf"/>
+  <pic anchor="SEC15 Synchronization_Memory Consistency_929306085.content" content="/publish/files/SEC15 Synchronization_Memory Consistency_929306085.content" id="897" pr="" type="pdf"/>
+  <pic anchor="SEC16 Interconnection and Comm_682306361.content" content="/publish/files/SEC16 Interconnection and Comm_682306361.content" id="898" pr="" type="pdf"/>
+  <pic anchor="SEC2 What Is CA_424303222.content" content="/publish/files/SEC2 What Is CA_424303222.content" id="899" pr="" type="pdf"/>
+  <pic anchor="SEC3 Development of CA_556908270.content" content="/publish/files/SEC3 Development of CA_556908270.content" id="900" pr="" type="pdf"/>
+  <pic anchor="SEC4 Concept and performance_394908194.content" content="/publish/files/SEC4 Concept and performance_394908194.content" id="901" pr="" type="pdf"/>
+  <pic anchor="SEC5 Cache Design_676005339.content" content="/publish/files/SEC5 Cache Design_676005339.content" id="902" pr="" type="pdf"/>
+  <pic anchor="SEC6 Cache(Con)_187604741.content" content="/publish/files/SEC6 Cache(Con)_187604741.content" id="903" pr="" type="pdf"/>
+  <pic anchor="SEC7 ISA Design_332707155.content" content="/publish/files/SEC7 ISA Design_332707155.content" id="904" pr="" type="pdf"/>
+  <pic anchor="SEC8 Pipeline_283303207.content" content="/publish/files/SEC8 Pipeline_283303207.content" id="905" pr="" type="pdf"/>
+  <pic anchor="SEC9 Pipeline (Cont)_46700933.content" content="/publish/files/SEC9 Pipeline (Cont)_46700933.content" id="906" pr="" type="pdf"/>
+  <pic anchor="SEMESTER.content" content="/publish/files/SEMESTER.content" id="907" pr="" type="pdf"/>
+  <pic anchor="serial time encoded amplified imaging for real time observation.dat_88040488.content" content="/publish/files/serial time encoded amplified imaging for real time observation.dat_88040488.content" id="908" pr="" type="pdf"/>
+  <pic anchor="session1_220007168.content" content="/publish/files/session1_220007168.content" id="909" pr="" type="pdf"/>
+  <pic anchor="Simple Moment-Closure Model for the Self-Assembly of Breakable Amyloid Filaments.content" content="/publish/files/Simple Moment-Closure Model for the Self-Assembly of Breakable Amyloid Filaments.content" id="910" pr="" type="pdf"/>
+  <pic anchor="siti4jieda_815501894.content" content="/publish/files/siti4jieda_815501894.content" id="911" pr="" type="pdf"/>
+  <pic anchor="slide01_446308770.content" content="/publish/files/slide01_446308770.content" id="912" pr="" type="pptx"/>
+  <pic anchor="slide01_640905155.content" content="/publish/files/slide01_640905155.content" id="913" pr="" type="pdf"/>
+  <pic anchor="slide01_662007733.content" content="/publish/files/slide01_662007733.content" id="914" pr="" type="pptx"/>
+  <pic anchor="slide01_882206629.content" content="/publish/files/slide01_882206629.content" id="915" pr="" type="pdf"/>
+  <pic anchor="slide02_218708004.content" content="/publish/files/slide02_218708004.content" id="916" pr="" type="pptx"/>
+  <pic anchor="slide02_29703323.content" content="/publish/files/slide02_29703323.content" id="917" pr="" type="pdf"/>
+  <pic anchor="slide02_518001835.content" content="/publish/files/slide02_518001835.content" id="918" pr="" type="pptx"/>
+  <pic anchor="slide02_683804624.content" content="/publish/files/slide02_683804624.content" id="919" pr="" type="pdf"/>
+  <pic anchor="slide03_382102070.content" content="/publish/files/slide03_382102070.content" id="920" pr="" type="pptx"/>
+  <pic anchor="slide03_681501740.content" content="/publish/files/slide03_681501740.content" id="921" pr="" type="pdf"/>
+  <pic anchor="slide03_686603391.content" content="/publish/files/slide03_686603391.content" id="922" pr="" type="pdf"/>
+  <pic anchor="slide03_946009374.content" content="/publish/files/slide03_946009374.content" id="923" pr="" type="pptx"/>
+  <pic anchor="slide04_429401455.content" content="/publish/files/slide04_429401455.content" id="924" pr="" type="pptx"/>
+  <pic anchor="slide04_588005964.content" content="/publish/files/slide04_588005964.content" id="925" pr="" type="pdf"/>
+  <pic anchor="slide04_869302906.content" content="/publish/files/slide04_869302906.content" id="926" pr="" type="pptx"/>
+  <pic anchor="slide04_948307777.content" content="/publish/files/slide04_948307777.content" id="927" pr="" type="pdf"/>
+  <pic anchor="Slide04_Solution_973505692.content" content="/publish/files/Slide04_Solution_973505692.content" id="928" pr="" type="pdf"/>
+  <pic anchor="slide05_54509165.content" content="/publish/files/slide05_54509165.content" id="929" pr="" type="pptx"/>
+  <pic anchor="slide05_570108910.content" content="/publish/files/slide05_570108910.content" id="930" pr="" type="pdf"/>
+  <pic anchor="slide05_90670557.content" content="/publish/files/slide05_90670557.content" id="931" pr="" type="ppt"/>
+  <pic anchor="slide05_949408382.content" content="/publish/files/slide05_949408382.content" id="932" pr="" type="pdf"/>
+  <pic anchor="slide06_19105234.content" content="/publish/files/slide06_19105234.content" id="933" pr="" type="pptx"/>
+  <pic anchor="slide06_33802484.content" content="/publish/files/slide06_33802484.content" id="934" pr="" type="pdf"/>
+  <pic anchor="slide06_542804055.content" content="/publish/files/slide06_542804055.content" id="935" pr="" type="pdf"/>
+  <pic anchor="slide06_872708953.content" content="/publish/files/slide06_872708953.content" id="936" pr="" type="pptx"/>
+  <pic anchor="slide06_Solution_953101569.content" content="/publish/files/slide06_Solution_953101569.content" id="937" pr="" type="pdf"/>
+  <pic anchor="slide07_252304142.content" content="/publish/files/slide07_252304142.content" id="938" pr="" type="pptx"/>
+  <pic anchor="slide07_281307410.content" content="/publish/files/slide07_281307410.content" id="939" pr="" type="pdf"/>
+  <pic anchor="slide07_427908541.content" content="/publish/files/slide07_427908541.content" id="940" pr="" type="pptx"/>
+  <pic anchor="slide07_909505558.content" content="/publish/files/slide07_909505558.content" id="941" pr="" type="pdf"/>
+  <pic anchor="slide07_Solution_966901096.content" content="/publish/files/slide07_Solution_966901096.content" id="942" pr="" type="pdf"/>
+  <pic anchor="slide08_228708013.content" content="/publish/files/slide08_228708013.content" id="943" pr="" type="pptx"/>
+  <pic anchor="slide08_529205013.content" content="/publish/files/slide08_529205013.content" id="944" pr="" type="pdf"/>
+  <pic anchor="slide08_573702321.content" content="/publish/files/slide08_573702321.content" id="945" pr="" type="pptx"/>
+  <pic anchor="slide08_677902152.content" content="/publish/files/slide08_677902152.content" id="946" pr="" type="pdf"/>
+  <pic anchor="slide09_257804921.content" content="/publish/files/slide09_257804921.content" id="947" pr="" type="pptx"/>
+  <pic anchor="slide09_30260658.content" content="/publish/files/slide09_30260658.content" id="948" pr="" type="pdf"/>
+  <pic anchor="slide09_484703576.content" content="/publish/files/slide09_484703576.content" id="949" pr="" type="pdf"/>
+  <pic anchor="slide09_492206566.content" content="/publish/files/slide09_492206566.content" id="950" pr="" type="pptx"/>
+  <pic anchor="slide09_Solution_437304690.content" content="/publish/files/slide09_Solution_437304690.content" id="951" pr="" type="pdf"/>
+  <pic anchor="slide10_556908091.content" content="/publish/files/slide10_556908091.content" id="952" pr="" type="pdf"/>
+  <pic anchor="slide10_60050243.content" content="/publish/files/slide10_60050243.content" id="953" pr="" type="pdf"/>
+  <pic anchor="slide10_74406886.content" content="/publish/files/slide10_74406886.content" id="954" pr="" type="pptx"/>
+  <pic anchor="slide10_97407716.content" content="/publish/files/slide10_97407716.content" id="955" pr="" type="pptx"/>
+  <pic anchor="slide11_248009204.content" content="/publish/files/slide11_248009204.content" id="956" pr="" type="pptx"/>
+  <pic anchor="slide11_48320587.content" content="/publish/files/slide11_48320587.content" id="957" pr="" type="pdf"/>
+  <pic anchor="slide11_65508911.content" content="/publish/files/slide11_65508911.content" id="958" pr="" type="pptx"/>
+  <pic anchor="slide11_669106192.content" content="/publish/files/slide11_669106192.content" id="959" pr="" type="pdf"/>
+  <pic anchor="slide11_Solution_608301663.content" content="/publish/files/slide11_Solution_608301663.content" id="960" pr="" type="pdf"/>
+  <pic anchor="slide12_340602104.content" content="/publish/files/slide12_340602104.content" id="961" pr="" type="pdf"/>
+  <pic anchor="slide12_475406245.content" content="/publish/files/slide12_475406245.content" id="962" pr="" type="pptx"/>
+  <pic anchor="slide12_5440402.content" content="/publish/files/slide12_5440402.content" id="963" pr="" type="pdf"/>
+  <pic anchor="slide12_699304788.content" content="/publish/files/slide12_699304788.content" id="964" pr="" type="pptx"/>
+  <pic anchor="slide12_Solution_617602956.content" content="/publish/files/slide12_Solution_617602956.content" id="965" pr="" type="pdf"/>
+  <pic anchor="slide13_454102503.content" content="/publish/files/slide13_454102503.content" id="966" pr="" type="pptx"/>
+  <pic anchor="slide13_539909480.content" content="/publish/files/slide13_539909480.content" id="967" pr="" type="pdf"/>
+  <pic anchor="slide13_548408645.content" content="/publish/files/slide13_548408645.content" id="968" pr="" type="pptx"/>
+  <pic anchor="slide13_716204819.content" content="/publish/files/slide13_716204819.content" id="969" pr="" type="pdf"/>
+  <pic anchor="slide13_Solution_707007252.content" content="/publish/files/slide13_Solution_707007252.content" id="970" pr="" type="pdf"/>
+  <pic anchor="soa1.1-Outline_808009026.content" content="/publish/files/soa1.1-Outline_808009026.content" id="971" pr="" type="pptx"/>
+  <pic anchor="soa_final_aminer_246705705.content" content="/publish/files/soa_final_aminer_246705705.content" id="972" pr="" type="pptx"/>
+  <pic anchor="soa_sina_weibo_379708842.content" content="/publish/files/soa_sina_weibo_379708842.content" id="973" pr="" type="pptx"/>
+  <pic anchor="software99.content" content="/publish/files/software99.content" id="974" pr="" type="doc"/>
+  <pic anchor="Solutions02_383303033.content" content="/publish/files/Solutions02_383303033.content" id="975" pr="" type="pdf"/>
+  <pic anchor="Solutions03_739508244.content" content="/publish/files/Solutions03_739508244.content" id="976" pr="" type="pdf"/>
+  <pic anchor="Solutions04_895408113.content" content="/publish/files/Solutions04_895408113.content" id="977" pr="" type="pdf"/>
+  <pic anchor="Solutions05_171302724.content" content="/publish/files/Solutions05_171302724.content" id="978" pr="" type="pdf"/>
+  <pic anchor="Solutions06_610706786.content" content="/publish/files/Solutions06_610706786.content" id="979" pr="" type="pdf"/>
+  <pic anchor="Solutions07_363506576.content" content="/publish/files/Solutions07_363506576.content" id="980" pr="" type="pdf"/>
+  <pic anchor="Solutions08_32508635.content" content="/publish/files/Solutions08_32508635.content" id="981" pr="" type="pdf"/>
+  <pic anchor="Solutions09_27390228.content" content="/publish/files/Solutions09_27390228.content" id="982" pr="" type="pdf"/>
+  <pic anchor="Solutions10_80560173.content" content="/publish/files/Solutions10_80560173.content" id="983" pr="" type="pdf"/>
+  <pic anchor="Solutions11_204608573.content" content="/publish/files/Solutions11_204608573.content" id="984" pr="" type="pdf"/>
+  <pic anchor="Solutions12_380807161.content" content="/publish/files/Solutions12_380807161.content" id="985" pr="" type="pdf"/>
+  <pic anchor="SRT.content" content="/publish/files/SRT.content" id="986" pr="" type="doc"/>
+  <pic anchor="Statistical mechanical model for helix-sheet-coil transitions in homopolypeptides.content" content="/publish/files/Statistical mechanical model for helix-sheet-coil transitions in homopolypeptides.content" id="987" pr="" type="pdf"/>
+  <pic anchor="stgzjb.content" content="/publish/files/stgzjb.content" id="988" pr="" type="doc"/>
+  <pic anchor="subsidize01.content" content="/publish/files/subsidize01.content" id="989" pr="" type="pdf"/>
+  <pic anchor="subsidize02.content" content="/publish/files/subsidize02.content" id="990" pr="" type="pdf"/>
+  <pic anchor="subsidize03.content" content="/publish/files/subsidize03.content" id="991" pr="" type="pdf"/>
+  <pic anchor="summary.content" content="/publish/files/summary.content" id="992" pr="" type="pdf"/>
+  <pic anchor="summary_522208402.content" content="/publish/files/summary_522208402.content" id="993" pr="" type="pdf"/>
+  <pic anchor="SZMetro_RtDig.content" content="/publish/files/SZMetro_RtDig.content" id="994" pr="" type="pdf"/>
+  <pic anchor="tbyq.content" content="/publish/files/tbyq.content" id="995" pr="" type="doc"/>
+  <pic anchor="test_147301402_829509483.content" content="/publish/files/test_147301402_829509483.content" id="996" pr="" type="ppt"/>
+  <pic anchor="The Automatic Recognition Software Technique of the Geometrical Elements about the Skeleton Map.content" content="/publish/files/The Automatic Recognition Software Technique of the Geometrical Elements about the Skeleton Map.content" id="997" pr="" type="pdf"/>
+  <pic anchor="thu-ycxkyjglist.content" content="/publish/files/thu-ycxkyjglist.content" id="998" pr="" type="pdf"/>
+  <pic anchor="tian-2014春-与非门电路的测试_811304027.content" content="/publish/files/tian-2014春-与非门电路的测试_811304027.content" id="999" pr="" type="ppt"/>
+  <pic anchor="tian-2014春-简单组合逻辑电路的设计_42950164.content" content="/publish/files/tian-2014春-简单组合逻辑电路的设计_42950164.content" id="1000" pr="" type="ppt"/>
+  <pic anchor="tian-2014春（示波器实验）_仪器使用和实验要求v1.0_53108409.content" content="/publish/files/tian-2014春（示波器实验）_仪器使用和实验要求v1.0_53108409.content" id="1001" pr="" type="ppt"/>
+  <pic anchor="tijian.content" content="/publish/files/tijian.content" id="1002" pr="" type="pdf"/>
+  <pic anchor="trans.content" content="/publish/files/trans.content" id="1003" pr="" type="doc"/>
+  <pic anchor="tsinghua31.content" content="/publish/files/tsinghua31.content" id="1004" pr="" type="doc"/>
+  <pic anchor="tsinghuahc.content" content="/publish/files/tsinghuahc.content" id="1005" pr="" type="pdf"/>
+  <pic anchor="tumu.content" content="/publish/files/tumu.content" id="1006" pr="" type="pdf"/>
+  <pic anchor="UW-Tsinghua-new2015.content" content="/publish/files/UW-Tsinghua-new2015.content" id="1007" pr="" type="doc"/>
+  <pic anchor="Visit_request_form_Tsinghua.content" content="/publish/files/Visit_request_form_Tsinghua.content" id="1008" pr="" type="doc"/>
+  <pic anchor="weinadianzi.content" content="/publish/files/weinadianzi.content" id="1009" pr="" type="pdf"/>
+  <pic anchor="wgrs.content" content="/publish/files/wgrs.content" id="1010" pr="" type="doc"/>
+  <pic anchor="wgrsspb.content" content="/publish/files/wgrsspb.content" id="1011" pr="" type="doc"/>
+  <pic anchor="workshop_intro.content" content="/publish/files/workshop_intro.content" id="1012" pr="" type="pdf"/>
+  <pic anchor="wstxmbmb.content" content="/publish/files/wstxmbmb.content" id="1013" pr="" type="docx"/>
+  <pic anchor="xiti1_120907942.content" content="/publish/files/xiti1_120907942.content" id="1014" pr="" type="pdf"/>
+  <pic anchor="xiti2_523904228.content" content="/publish/files/xiti2_523904228.content" id="1015" pr="" type="pdf"/>
+  <pic anchor="xiti3_5421055.content" content="/publish/files/xiti3_5421055.content" id="1016" pr="" type="pdf"/>
+  <pic anchor="xiti4_108103118.content" content="/publish/files/xiti4_108103118.content" id="1017" pr="" type="pdf"/>
+  <pic anchor="xiti5_385606880.content" content="/publish/files/xiti5_385606880.content" id="1018" pr="" type="pdf"/>
+  <pic anchor="xiti6_13001813.content" content="/publish/files/xiti6_13001813.content" id="1019" pr="" type="pdf"/>
+  <pic anchor="xjld.content" content="/publish/files/xjld.content" id="1020" pr="" type="doc"/>
+  <pic anchor="xl1309_803701111.content" content="/publish/files/xl1309_803701111.content" id="1021" pr="" type="pptx"/>
+  <pic anchor="xpws.content" content="/publish/files/xpws.content" id="1022" pr="" type="doc"/>
+  <pic anchor="xsgxjpxbf.content" content="/publish/files/xsgxjpxbf.content" id="1023" pr="" type="doc"/>
+  <pic anchor="xtry.content" content="/publish/files/xtry.content" id="1024" pr="" type="doc"/>
+  <pic anchor="xueshengmingdan_787509848.content" content="/publish/files/xueshengmingdan_787509848.content" id="1025" pr="" type="xls"/>
+  <pic anchor="xxgksqb.content" content="/publish/files/xxgksqb.content" id="1026" pr="" type="docx"/>
+  <pic anchor="xxzmh.content" content="/publish/files/xxzmh.content" id="1027" pr="" type="docx"/>
+  <pic anchor="yixueyuan(1).content" content="/publish/files/yixueyuan(1).content" id="1028" pr="" type="pdf"/>
+  <pic anchor="yqws.content" content="/publish/files/yqws.content" id="1029" pr="" type="doc"/>
+  <pic anchor="yxjcjy.content" content="/publish/files/yxjcjy.content" id="1030" pr="" type="doc"/>
+  <pic anchor="yydjb (2).content" content="/publish/files/yydjb (2).content" id="1031" pr="" type="doc"/>
+  <pic anchor="yydjb (3).content" content="/publish/files/yydjb (3).content" id="1032" pr="" type="doc"/>
+  <pic anchor="yydjb.content" content="/publish/files/yydjb.content" id="1033" pr="" type="doc"/>
+  <pic anchor="zdjszz.content" content="/publish/files/zdjszz.content" id="1034" pr="" type="doc"/>
+  <pic anchor="zhaopin(1).content" content="/publish/files/zhaopin(1).content" id="1035" pr="" type="doc"/>
+  <pic anchor="zhongfazhaoshengjihua.content" content="/publish/files/zhongfazhaoshengjihua.content" id="1036" pr="" type="doc"/>
+  <pic anchor="zhuan.content" content="/publish/files/zhuan.content" id="1037" pr="" type="doc"/>
+  <pic anchor="zj.content" content="/publish/files/zj.content" id="1038" pr="" type="doc"/>
+  <pic anchor="zjjj.content" content="/publish/files/zjjj.content" id="1039" pr="" type="doc"/>
+  <pic anchor="zmh.content" content="/publish/files/zmh.content" id="1040" pr="" type="docx"/>
+  <pic anchor="zwzm.content" content="/publish/files/zwzm.content" id="1041" pr="" type="doc"/>
+  <pic anchor="[1-1]Intro-A-Syllabus.content" content="/publish/files/[1-1]Intro-A-Syllabus.content" id="1042" pr="" type="pdf"/>
+  <pic anchor="[1-2]Intro-B-Introduction.content" content="/publish/files/[1-2]Intro-B-Introduction.content" id="1043" pr="" type="pdf"/>
+  <pic anchor="[2-1]DataPre-Data.content" content="/publish/files/[2-1]DataPre-Data.content" id="1044" pr="" type="pdf"/>
+  <pic anchor="[2-2]DataPre-Why.content" content="/publish/files/[2-2]DataPre-Why.content" id="1045" pr="" type="pdf"/>
+  <pic anchor="[2-3]DataPre-DescrDataSum.content" content="/publish/files/[2-3]DataPre-DescrDataSum.content" id="1046" pr="" type="pdf"/>
+  <pic anchor="[2-4]DataPre-DataClean.content" content="/publish/files/[2-4]DataPre-DataClean.content" id="1047" pr="" type="pdf"/>
+  <pic anchor="[2-5]DataPre-DataInteAndTrans.content" content="/publish/files/[2-5]DataPre-DataInteAndTrans.content" id="1048" pr="" type="pdf"/>
+  <pic anchor="[2-6]DataPre-DataReduc.content" content="/publish/files/[2-6]DataPre-DataReduc.content" id="1049" pr="" type="pdf"/>
+  <pic anchor="[2-7]DataPre-DataDre.content" content="/publish/files/[2-7]DataPre-DataDre.content" id="1050" pr="" type="pdf"/>
+  <pic anchor="[3-1]DataWare-Review [兼容模式].content" content="/publish/files/[3-1]DataWare-Review [兼容模式].content" id="1051" pr="" type="pdf"/>
+  <pic anchor="[3-2]DataWare-Concept [兼容模式].content" content="/publish/files/[3-2]DataWare-Concept [兼容模式].content" id="1052" pr="" type="pdf"/>
+  <pic anchor="[3-3]DataWare-DataModel [兼容模式].content" content="/publish/files/[3-3]DataWare-DataModel [兼容模式].content" id="1053" pr="" type="pdf"/>
+  <pic anchor="[3-4]DataWare-Architecture [兼容模式].content" content="/publish/files/[3-4]DataWare-Architecture [兼容模式].content" id="1054" pr="" type="pdf"/>
+  <pic anchor="[3-5]DataWare-Imple [兼容模式].content" content="/publish/files/[3-5]DataWare-Imple [兼容模式].content" id="1055" pr="" type="pdf"/>
+  <pic anchor="[3-6]DataWare-ToDM [兼容模式].content" content="/publish/files/[3-6]DataWare-ToDM [兼容模式].content" id="1056" pr="" type="pdf"/>
+  <pic anchor="[3-7]DataWare-Ref.content" content="/publish/files/[3-7]DataWare-Ref.content" id="1057" pr="" type="pdf"/>
+  <pic anchor="[4-1]Correl-Concept [兼容模式].content" content="/publish/files/[4-1]Correl-Concept [兼容模式].content" id="1058" pr="" type="pdf"/>
+  <pic anchor="[4-2]Correl-ScalMeth [兼容模式].content" content="/publish/files/[4-2]Correl-ScalMeth [兼容模式].content" id="1059" pr="" type="pdf"/>
+  <pic anchor="[4-3]Correl-DifAss [兼容模式].content" content="/publish/files/[4-3]Correl-DifAss [兼容模式].content" id="1060" pr="" type="pdf"/>
+  <pic anchor="[4-4]Correl-CorreRules [兼容模式].content" content="/publish/files/[4-4]Correl-CorreRules [兼容模式].content" id="1061" pr="" type="pdf"/>
+  <pic anchor="[4-5]Correl-ConstrainedRule [兼容模式].content" content="/publish/files/[4-5]Correl-ConstrainedRule [兼容模式].content" id="1062" pr="" type="pdf"/>
+  <pic anchor="[4-6]Correl-Ref.content" content="/publish/files/[4-6]Correl-Ref.content" id="1063" pr="" type="pdf"/>
+  <pic anchor="“探究”课_modeling2014Fall_8981018.content" content="/publish/files/“探究”课_modeling2014Fall_8981018.content" id="1064" pr="" type="pdf"/>
+  <pic anchor="Ⅲ-8透镜焦距的测量_100106225.content" content="/publish/files/Ⅲ-8透镜焦距的测量_100106225.content" id="1065" pr="" type="pdf"/>
+  <pic anchor="一些豆知识_388809859.content" content="/publish/files/一些豆知识_388809859.content" id="1066" pr="" type="pptx"/>
+  <pic anchor="万用表、器件盒等丢失损坏赔偿价格表_5677074.content" content="/publish/files/万用表、器件盒等丢失损坏赔偿价格表_5677074.content" id="1067" pr="" type="doc"/>
+  <pic anchor="与非门电路的测试实验指导2014_868508088.content" content="/publish/files/与非门电路的测试实验指导2014_868508088.content" id="1068" pr="" type="doc"/>
+  <pic anchor="习题课-光线跟踪_120807189.content" content="/publish/files/习题课-光线跟踪_120807189.content" id="1069" pr="" type="pptx"/>
+  <pic anchor="习题课_网格简化_313007807.content" content="/publish/files/习题课_网格简化_313007807.content" id="1070" pr="" type="pptx"/>
+  <pic anchor="二次型_426302909.content" content="/publish/files/二次型_426302909.content" id="1071" pr="" type="pdf"/>
+  <pic anchor="人工智能导论--第一章_385503559.content" content="/publish/files/人工智能导论--第一章_385503559.content" id="1072" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--第三章1_644003682.content" content="/publish/files/人工智能导论--第三章1_644003682.content" id="1073" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--第二章对抗搜索_41802337.content" content="/publish/files/人工智能导论--第二章对抗搜索_41802337.content" id="1074" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--第五章_318205264.content" content="/publish/files/人工智能导论--第五章_318205264.content" id="1075" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--第六章_940407260.content" content="/publish/files/人工智能导论--第六章_940407260.content" id="1076" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--第四章_911504228.content" content="/publish/files/人工智能导论--第四章_911504228.content" id="1077" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--绪论_843506137.content" content="/publish/files/人工智能导论--绪论_843506137.content" id="1078" pr="" type="ppt"/>
+  <pic anchor="人工智能导论--高级搜索_506007599.content" content="/publish/files/人工智能导论--高级搜索_506007599.content" id="1079" pr="" type="doc"/>
+  <pic anchor="人工智能导论-第一章：搜索问题_30806770.content" content="/publish/files/人工智能导论-第一章：搜索问题_30806770.content" id="1080" pr="" type="doc"/>
+  <pic anchor="人工智能导论-第二章：与或图搜索）_500407073.content" content="/publish/files/人工智能导论-第二章：与或图搜索）_500407073.content" id="1081" pr="" type="doc"/>
+  <pic anchor="人才测评的内容与操作2012.3_28607861.content" content="/publish/files/人才测评的内容与操作2012.3_28607861.content" id="1082" pr="" type="ppt"/>
+  <pic anchor="人才测评的内容与操作2012秋季学期_297004882.content" content="/publish/files/人才测评的内容与操作2012秋季学期_297004882.content" id="1083" pr="" type="ppt"/>
+  <pic anchor="以前的一元微积分期中考试答案_978905357.content" content="/publish/files/以前的一元微积分期中考试答案_978905357.content" id="1084" pr="" type="pdf"/>
+  <pic anchor="以前的考题_827802940.content" content="/publish/files/以前的考题_827802940.content" id="1085" pr="" type="pdf"/>
+  <pic anchor="任课老师2013-2014秋-----铝框海报A4_810707134.content" content="/publish/files/任课老师2013-2014秋-----铝框海报A4_810707134.content" id="1086" pr="" type="pdf"/>
+  <pic anchor="传感器与智能仪表20150303_819304270.content" content="/publish/files/传感器与智能仪表20150303_819304270.content" id="1087" pr="" type="ppt"/>
+  <pic anchor="信号处理SRT候选题目（R2014）_30020867.content" content="/publish/files/信号处理SRT候选题目（R2014）_30020867.content" id="1088" pr="" type="docx"/>
+  <pic anchor="信息技术中的材料_495403541.content" content="/publish/files/信息技术中的材料_495403541.content" id="1089" pr="" type="pdf"/>
+  <pic anchor="假设检验_563506506.content" content="/publish/files/假设检验_563506506.content" id="1090" pr="" type="pdf"/>
+  <pic anchor="光5-2_48808787_389904715.content" content="/publish/files/光5-2_48808787_389904715.content" id="1091" pr="" type="ppt"/>
+  <pic anchor="光学显微分析及定量金相_61009162_786902336.content" content="/publish/files/光学显微分析及定量金相_61009162_786902336.content" id="1092" pr="" type="pdf"/>
+  <pic anchor="光波粒二象性_690207662.content" content="/publish/files/光波粒二象性_690207662.content" id="1093" pr="" type="ppt"/>
+  <pic anchor="内积与概率幅_918407116_672008934.content" content="/publish/files/内积与概率幅_918407116_672008934.content" id="1094" pr="" type="pdf"/>
+  <pic anchor="函数指针_26950721.content" content="/publish/files/函数指针_26950721.content" id="1095" pr="" type="ppt"/>
+  <pic anchor="分光计的调节与使用2013秋-sunjialin_482809687.content" content="/publish/files/分光计的调节与使用2013秋-sunjialin_482809687.content" id="1096" pr="" type="pdf"/>
+  <pic anchor="前束范式存在定理与证明_27180100.content" content="/publish/files/前束范式存在定理与证明_27180100.content" id="1097" pr="" type="docx"/>
+  <pic anchor="参与实验说明_750208158.content" content="/publish/files/参与实验说明_750208158.content" id="1098" pr="" type="pdf"/>
+  <pic anchor="在AppChina（应用汇）发布应用流程参考_618508965.content" content="/publish/files/在AppChina（应用汇）发布应用流程参考_618508965.content" id="1099" pr="" type="docx"/>
+  <pic anchor="大作业写作提示_810208125_60805048.content" content="/publish/files/大作业写作提示_810208125_60805048.content" id="1100" pr="" type="doc"/>
+  <pic anchor="如何选择机器学习算法_548606135.content" content="/publish/files/如何选择机器学习算法_548606135.content" id="1101" pr="" type="docx"/>
+  <pic anchor="实二次型的正定性_161904936.content" content="/publish/files/实二次型的正定性_161904936.content" id="1102" pr="" type="pdf"/>
+  <pic anchor="实验3_点亮数字人生（数码管显示实验）实验指导书_992003341.content" content="/publish/files/实验3_点亮数字人生（数码管显示实验）实验指导书_992003341.content" id="1103" pr="" type="doc"/>
+  <pic anchor="实验4_简单组合逻辑电路的设计_实验指导书2014_708003096.content" content="/publish/files/实验4_简单组合逻辑电路的设计_实验指导书2014_708003096.content" id="1104" pr="" type="doc"/>
+  <pic anchor="实验室探究教学单元选取流程示意图_299504814.content" content="/publish/files/实验室探究教学单元选取流程示意图_299504814.content" id="1105" pr="" type="doc"/>
+  <pic anchor="实验室科研探究课85单元03_458303925.content" content="/publish/files/实验室科研探究课85单元03_458303925.content" id="1106" pr="" type="ppt"/>
+  <pic anchor="实验报告要求v1.0_362803546.content" content="/publish/files/实验报告要求v1.0_362803546.content" id="1107" pr="" type="doc"/>
+  <pic anchor="密码学与信息安全_60010754_41601929.content" content="/publish/files/密码学与信息安全_60010754_41601929.content" id="1108" pr="" type="pdf"/>
+  <pic anchor="导热系数-马万云_323003455.content" content="/publish/files/导热系数-马万云_323003455.content" id="1109" pr="" type="pdf"/>
+  <pic anchor="弦振动_2013秋_戴星灿_991103885.content" content="/publish/files/弦振动_2013秋_戴星灿_991103885.content" id="1110" pr="" type="pdf"/>
+  <pic anchor="弹性模量的测量_655702780.content" content="/publish/files/弹性模量的测量_655702780.content" id="1111" pr="" type="pdf"/>
+  <pic anchor="微积分A(1)第1次习题课答案_286006585.content" content="/publish/files/微积分A(1)第1次习题课答案_286006585.content" id="1112" pr="" type="pdf"/>
+  <pic anchor="微积分A(1)第1次习题课题目_372607749.content" content="/publish/files/微积分A(1)第1次习题课题目_372607749.content" id="1113" pr="" type="pdf"/>
+  <pic anchor="微积分A(1)第4次习题课答案_137909395.content" content="/publish/files/微积分A(1)第4次习题课答案_137909395.content" id="1114" pr="" type="pdf"/>
+  <pic anchor="微积分A(1)第4次习题课题目_318207043.content" content="/publish/files/微积分A(1)第4次习题课题目_318207043.content" id="1115" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第10次习题课答案_954805544.content" content="/publish/files/微积分A(2)第10次习题课答案_954805544.content" id="1116" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第10次习题课题目_89701315.content" content="/publish/files/微积分A(2)第10次习题课题目_89701315.content" id="1117" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第11次习题课习题_153502099.content" content="/publish/files/微积分A(2)第11次习题课习题_153502099.content" id="1118" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第11次习题课答案_785001179.content" content="/publish/files/微积分A(2)第11次习题课答案_785001179.content" id="1119" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第12次习题课答案_431809452.content" content="/publish/files/微积分A(2)第12次习题课答案_431809452.content" id="1120" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第12次习题课题目_5209853.content" content="/publish/files/微积分A(2)第12次习题课题目_5209853.content" id="1121" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第1次习题课答案_366108081.content" content="/publish/files/微积分A(2)第1次习题课答案_366108081.content" id="1122" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第1次习题课题目_913806476.content" content="/publish/files/微积分A(2)第1次习题课题目_913806476.content" id="1123" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第2次习题课答案_192107578.content" content="/publish/files/微积分A(2)第2次习题课答案_192107578.content" id="1124" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第2次习题课题目_285604276.content" content="/publish/files/微积分A(2)第2次习题课题目_285604276.content" id="1125" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第3次习题课答案_784007074.content" content="/publish/files/微积分A(2)第3次习题课答案_784007074.content" id="1126" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第3次习题课题目_577708460.content" content="/publish/files/微积分A(2)第3次习题课题目_577708460.content" id="1127" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第4次习题课题目_497909682.content" content="/publish/files/微积分A(2)第4次习题课题目_497909682.content" id="1128" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第5次习题课答案_69501828.content" content="/publish/files/微积分A(2)第5次习题课答案_69501828.content" id="1129" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第5次习题课题目_228203493.content" content="/publish/files/微积分A(2)第5次习题课题目_228203493.content" id="1130" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第6次习题课答案_989406483.content" content="/publish/files/微积分A(2)第6次习题课答案_989406483.content" id="1131" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第6次习题课题目_75540800.content" content="/publish/files/微积分A(2)第6次习题课题目_75540800.content" id="1132" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第7次习题课答案_61930262.content" content="/publish/files/微积分A(2)第7次习题课答案_61930262.content" id="1133" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第7次习题课题目_983105590.content" content="/publish/files/微积分A(2)第7次习题课题目_983105590.content" id="1134" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第8次习题课答案_633906871.content" content="/publish/files/微积分A(2)第8次习题课答案_633906871.content" id="1135" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第8次习题课题目_347609028.content" content="/publish/files/微积分A(2)第8次习题课题目_347609028.content" id="1136" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第9次习题课答案_873606976.content" content="/publish/files/微积分A(2)第9次习题课答案_873606976.content" id="1137" pr="" type="pdf"/>
+  <pic anchor="微积分A(2)第9次习题课题目_425709580.content" content="/publish/files/微积分A(2)第9次习题课题目_425709580.content" id="1138" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第10次习题课答案_6000421.content" content="/publish/files/微积分A_1_第10次习题课答案_6000421.content" id="1139" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第10次习题课题目_813902479.content" content="/publish/files/微积分A_1_第10次习题课题目_813902479.content" id="1140" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第11次习题课答案_36750929.content" content="/publish/files/微积分A_1_第11次习题课答案_36750929.content" id="1141" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第11次习题课题目_652502185.content" content="/publish/files/微积分A_1_第11次习题课题目_652502185.content" id="1142" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第2次习题课答案_28606284.content" content="/publish/files/微积分A_1_第2次习题课答案_28606284.content" id="1143" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第2次习题课答案_752509642.content" content="/publish/files/微积分A_1_第2次习题课答案_752509642.content" id="1144" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第2次习题课题目_802105339.content" content="/publish/files/微积分A_1_第2次习题课题目_802105339.content" id="1145" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第3次习题课答案N_11707528.content" content="/publish/files/微积分A_1_第3次习题课答案N_11707528.content" id="1146" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第3次习题课答案N_814603407.content" content="/publish/files/微积分A_1_第3次习题课答案N_814603407.content" id="1147" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第5次习题课答案_22001658.content" content="/publish/files/微积分A_1_第5次习题课答案_22001658.content" id="1148" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第5次习题课答案_509201739.content" content="/publish/files/微积分A_1_第5次习题课答案_509201739.content" id="1149" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第6次习题课答案_460006513.content" content="/publish/files/微积分A_1_第6次习题课答案_460006513.content" id="1150" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第6次习题课题目_891806430.content" content="/publish/files/微积分A_1_第6次习题课题目_891806430.content" id="1151" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第7次习题课答案_745703235.content" content="/publish/files/微积分A_1_第7次习题课答案_745703235.content" id="1152" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第7次习题课题目_410809812.content" content="/publish/files/微积分A_1_第7次习题课题目_410809812.content" id="1153" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第8次习题课题目_88204718.content" content="/publish/files/微积分A_1_第8次习题课题目_88204718.content" id="1154" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第9次习题课答案_73602453.content" content="/publish/files/微积分A_1_第9次习题课答案_73602453.content" id="1155" pr="" type="pdf"/>
+  <pic anchor="微积分A_1_第9次习题课题目_844607891.content" content="/publish/files/微积分A_1_第9次习题课题目_844607891.content" id="1156" pr="" type="pdf"/>
+  <pic anchor="微积分A（2）期末考题(A)答案样卷_155908658.content" content="/publish/files/微积分A（2）期末考题(A)答案样卷_155908658.content" id="1157" pr="" type="pdf"/>
+  <pic anchor="微积分第5章_782104959.content" content="/publish/files/微积分第5章_782104959.content" id="1158" pr="" type="pdf"/>
+  <pic anchor="总复习_368206324.content" content="/publish/files/总复习_368206324.content" id="1159" pr="" type="pptx"/>
+  <pic anchor="我的书立我做主_86600580.content" content="/publish/files/我的书立我做主_86600580.content" id="1160" pr="" type="pdf"/>
+  <pic anchor="手术导航探究2013 春_23640253.content" content="/publish/files/手术导航探究2013 春_23640253.content" id="1161" pr="" type="pdf"/>
+  <pic anchor="探究实验课程--超声加工技术及应用（徐伟国）2010秋_12706361_694401837.content" content="/publish/files/探究实验课程--超声加工技术及应用（徐伟国）2010秋_12706361_694401837.content" id="1162" pr="" type="ppt"/>
+  <pic anchor="搜索的优化与剪枝_742602017.content" content="/publish/files/搜索的优化与剪枝_742602017.content" id="1163" pr="" type="pptx"/>
+  <pic anchor="改版mooc-lab8_chy4.content" content="/publish/files/改版mooc-lab8_chy4.content" id="1164" pr="" type="pptx"/>
+  <pic anchor="教室路线图_561004031.content" content="/publish/files/教室路线图_561004031.content" id="1165" pr="" type="pdf"/>
+  <pic anchor="数值分析_第三章_877902633.content" content="/publish/files/数值分析_第三章_877902633.content" id="1166" pr="" type="pdf"/>
+  <pic anchor="数值分析_第五章_397606002.content" content="/publish/files/数值分析_第五章_397606002.content" id="1167" pr="" type="pdf"/>
+  <pic anchor="数字逻辑实验2014_5008429.content" content="/publish/files/数字逻辑实验2014_5008429.content" id="1168" pr="" type="ppt"/>
+  <pic anchor="数字逻辑实验座位号（记分表）_89040237.content" content="/publish/files/数字逻辑实验座位号（记分表）_89040237.content" id="1169" pr="" type="xls"/>
+  <pic anchor="数字逻辑实验指导2014_57900333.content" content="/publish/files/数字逻辑实验指导2014_57900333.content" id="1170" pr="" type="pdf"/>
+  <pic anchor="数字逻辑实验考核_29330712.content" content="/publish/files/数字逻辑实验考核_29330712.content" id="1171" pr="" type="doc"/>
+  <pic anchor="无处不在的液压系统_425309122.content" content="/publish/files/无处不在的液压系统_425309122.content" id="1172" pr="" type="ppt"/>
+  <pic anchor="曲面与方程_715006849.content" content="/publish/files/曲面与方程_715006849.content" id="1173" pr="" type="pdf"/>
+  <pic anchor="最后一次作业的部分习题参考答案_526401138.content" content="/publish/files/最后一次作业的部分习题参考答案_526401138.content" id="1174" pr="" type="pdf"/>
+  <pic anchor="有重复组合公式的几种证明方法_139004036.content" content="/publish/files/有重复组合公式的几种证明方法_139004036.content" id="1175" pr="" type="pdf"/>
+  <pic anchor="期中成绩汇总_373207371.content" content="/publish/files/期中成绩汇总_373207371.content" id="1176" pr="" type="xls"/>
+  <pic anchor="期中考试分考场名单_283502912.content" content="/publish/files/期中考试分考场名单_283502912.content" id="1177" pr="" type="xls"/>
+  <pic anchor="期末A答案_806904520.content" content="/publish/files/期末A答案_806904520.content" id="1178" pr="" type="pdf"/>
+  <pic anchor="期末知识点复习_184901039.content" content="/publish/files/期末知识点复习_184901039.content" id="1179" pr="" type="pdf"/>
+  <pic anchor="本课介绍_788904833.content" content="/publish/files/本课介绍_788904833.content" id="1180" pr="" type="pdf"/>
+  <pic anchor="本课教材电子版_410501644.content" content="/publish/files/本课教材电子版_410501644.content" id="1181" pr="" type="pdf"/>
+  <pic anchor="李而立_503106236_714805258.content" content="/publish/files/李而立_503106236_714805258.content" id="1182" pr="" type="ppt"/>
+  <pic anchor="杨博文-简单的记化搜索_7720503.content" content="/publish/files/杨博文-简单的记化搜索_7720503.content" id="1183" pr="" type="pptx"/>
+  <pic anchor="样卷 答案_867005288.content" content="/publish/files/样卷 答案_867005288.content" id="1184" pr="" type="pdf"/>
+  <pic anchor="样卷_731105073.content" content="/publish/files/样卷_731105073.content" id="1185" pr="" type="pdf"/>
+  <pic anchor="核与值域不变子空间_409606055.content" content="/publish/files/核与值域不变子空间_409606055.content" id="1186" pr="" type="pdf"/>
+  <pic anchor="概率统计考试样题_57003471.content" content="/publish/files/概率统计考试样题_57003471.content" id="1187" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课1_44701850.content" content="/publish/files/概率论与数理统计习题课1_44701850.content" id="1188" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课2_38480295.content" content="/publish/files/概率论与数理统计习题课2_38480295.content" id="1189" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课3_915206513.content" content="/publish/files/概率论与数理统计习题课3_915206513.content" id="1190" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课4_520508551.content" content="/publish/files/概率论与数理统计习题课4_520508551.content" id="1191" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课题目与解答1_244507239.content" content="/publish/files/概率论与数理统计习题课题目与解答1_244507239.content" id="1192" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课题目与解答2_791406021.content" content="/publish/files/概率论与数理统计习题课题目与解答2_791406021.content" id="1193" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课题目与解答5_396306092.content" content="/publish/files/概率论与数理统计习题课题目与解答5_396306092.content" id="1194" pr="" type="pdf"/>
+  <pic anchor="概率论与数理统计习题课题目与解答5_585802397.content" content="/publish/files/概率论与数理统计习题课题目与解答5_585802397.content" id="1195" pr="" type="pdf"/>
+  <pic anchor="概论课寒假调查指南2013版(2)_508705617.content" content="/publish/files/概论课寒假调查指南2013版(2)_508705617.content" id="1196" pr="" type="pdf"/>
+  <pic anchor="汇编-10-1-X86汇编编程_673602337.content" content="/publish/files/汇编-10-1-X86汇编编程_673602337.content" id="1197" pr="" type="pdf"/>
+  <pic anchor="汇编-10-2-X86汇编编程_101309505.content" content="/publish/files/汇编-10-2-X86汇编编程_101309505.content" id="1198" pr="" type="pptx"/>
+  <pic anchor="汇编-4-X86结构_553002626.content" content="/publish/files/汇编-4-X86结构_553002626.content" id="1199" pr="" type="pdf"/>
+  <pic anchor="汇编-5-基础指令-与C语言-1_568505954.content" content="/publish/files/汇编-5-基础指令-与C语言-1_568505954.content" id="1200" pr="" type="pdf"/>
+  <pic anchor="汇编-6-与C语言-2_928509784.content" content="/publish/files/汇编-6-与C语言-2_928509784.content" id="1201" pr="" type="pdf"/>
+  <pic anchor="汇编-7-与C语言-3_253703909.content" content="/publish/files/汇编-7-与C语言-3_253703909.content" id="1202" pr="" type="pdf"/>
+  <pic anchor="汇编-8-与C语言-4_837806021.content" content="/publish/files/汇编-8-与C语言-4_837806021.content" id="1203" pr="" type="pdf"/>
+  <pic anchor="汇编-9-缓冲区溢出_677603560.content" content="/publish/files/汇编-9-缓冲区溢出_677603560.content" id="1204" pr="" type="ppt"/>
+  <pic anchor="污染_68360961.content" content="/publish/files/污染_68360961.content" id="1205" pr="" type="pdf"/>
+  <pic anchor="波、光1.振动自学总结_220601798.content" content="/publish/files/波、光1.振动自学总结_220601798.content" id="1206" pr="" type="ppt"/>
+  <pic anchor="波、光2.波动_55680994.content" content="/publish/files/波、光2.波动_55680994.content" id="1207" pr="" type="ppt"/>
+  <pic anchor="波、光3.光的干涉_641004490.content" content="/publish/files/波、光3.光的干涉_641004490.content" id="1208" pr="" type="ppt"/>
+  <pic anchor="波、光4.光的衍射_885405509.content" content="/publish/files/波、光4.光的衍射_885405509.content" id="1209" pr="" type="ppt"/>
+  <pic anchor="波、光5.光的偏振_32308892.content" content="/publish/files/波、光5.光的偏振_32308892.content" id="1210" pr="" type="ppt"/>
+  <pic anchor="漫话二分_171207269.content" content="/publish/files/漫话二分_171207269.content" id="1211" pr="" type="pptx"/>
+  <pic anchor="热导系数--邓可_970107809.content" content="/publish/files/热导系数--邓可_970107809.content" id="1212" pr="" type="pdf"/>
+  <pic anchor="物理实验测验样卷_814206663.content" content="/publish/files/物理实验测验样卷_814206663.content" id="1213" pr="" type="pdf"/>
+  <pic anchor="特征值与特征向量_312404231.content" content="/publish/files/特征值与特征向量_312404231.content" id="1214" pr="" type="pdf"/>
+  <pic anchor="特征值例题1_602104861.content" content="/publish/files/特征值例题1_602104861.content" id="1215" pr="" type="pdf"/>
+  <pic anchor="特征值例题2_154604621.content" content="/publish/files/特征值例题2_154604621.content" id="1216" pr="" type="pdf"/>
+  <pic anchor="王呈瑞－对拍小讲_76660587.content" content="/publish/files/王呈瑞－对拍小讲_76660587.content" id="1217" pr="" type="ppt"/>
+  <pic anchor="王天一_544105069.content" content="/publish/files/王天一_544105069.content" id="1218" pr="" type="pptx"/>
+  <pic anchor="现代红外光谱技术与中药质控和食品安全（题版）_513608520.content" content="/publish/files/现代红外光谱技术与中药质控和食品安全（题版）_513608520.content" id="1219" pr="" type="pptx"/>
+  <pic anchor="现场作业1-分组情况_669705423.content" content="/publish/files/现场作业1-分组情况_669705423.content" id="1220" pr="" type="xls"/>
+  <pic anchor="用传感器测空气相对压力系数_679005152.content" content="/publish/files/用传感器测空气相对压力系数_679005152.content" id="1221" pr="" type="pdf"/>
+  <pic anchor="相似矩阵_74700228.content" content="/publish/files/相似矩阵_74700228.content" id="1222" pr="" type="pdf"/>
+  <pic anchor="矩阵乘法应用_953304808.content" content="/publish/files/矩阵乘法应用_953304808.content" id="1223" pr="" type="pptx"/>
+  <pic anchor="矩阵小结中例题的答案_902102586.content" content="/publish/files/矩阵小结中例题的答案_902102586.content" id="1224" pr="" type="pdf"/>
+  <pic anchor="硬件描述语言与实验介绍_41720444.content" content="/publish/files/硬件描述语言与实验介绍_41720444.content" id="1225" pr="" type="pdf"/>
+  <pic anchor="社会网络大数据分析_134709399.content" content="/publish/files/社会网络大数据分析_134709399.content" id="1226" pr="" type="pdf"/>
+  <pic anchor="社会网络大数据分析_750802051.content" content="/publish/files/社会网络大数据分析_750802051.content" id="1227" pr="" type="pdf"/>
+  <pic anchor="社会网络大数据分析_薛一波_simple_37280988.content" content="/publish/files/社会网络大数据分析_薛一波_simple_37280988.content" id="1228" pr="" type="pdf"/>
+  <pic anchor="离心机探秘_1346088.content" content="/publish/files/离心机探秘_1346088.content" id="1229" pr="" type="pdf"/>
+  <pic anchor="章彦恺Tabulation_895903148.content" content="/publish/files/章彦恺Tabulation_895903148.content" id="1230" pr="" type="pptx"/>
+  <pic anchor="第01章：概论与引言_770704543.content" content="/publish/files/第01章：概论与引言_770704543.content" id="1231" pr="" type="ppt"/>
+  <pic anchor="第02章：E-R模型_346806203.content" content="/publish/files/第02章：E-R模型_346806203.content" id="1232" pr="" type="ppt"/>
+  <pic anchor="第03章：关系模型_650304072.content" content="/publish/files/第03章：关系模型_650304072.content" id="1233" pr="" type="ppt"/>
+  <pic anchor="第04章：SQL_354403589.content" content="/publish/files/第04章：SQL_354403589.content" id="1234" pr="" type="ppt"/>
+  <pic anchor="第05章：完整性约束_514402669.content" content="/publish/files/第05章：完整性约束_514402669.content" id="1235" pr="" type="ppt"/>
+  <pic anchor="第06章：数据库的物理设计_232203546.content" content="/publish/files/第06章：数据库的物理设计_232203546.content" id="1236" pr="" type="ppt"/>
+  <pic anchor="第07章：存储结构和文件结构_983809000.content" content="/publish/files/第07章：存储结构和文件结构_983809000.content" id="1237" pr="" type="ppt"/>
+  <pic anchor="第08章：索引和散列_50609216.content" content="/publish/files/第08章：索引和散列_50609216.content" id="1238" pr="" type="ppt"/>
+  <pic anchor="第09章：查询处理_126301313.content" content="/publish/files/第09章：查询处理_126301313.content" id="1239" pr="" type="ppt"/>
+  <pic anchor="第10章_66808624.content" content="/publish/files/第10章_66808624.content" id="1240" pr="" type="pdf"/>
+  <pic anchor="第10章：事务_170406703.content" content="/publish/files/第10章：事务_170406703.content" id="1241" pr="" type="ppt"/>
+  <pic anchor="第10课点积叉积_406208603.content" content="/publish/files/第10课点积叉积_406208603.content" id="1242" pr="" type="pdf"/>
+  <pic anchor="第11章_1579010000.content" content="/publish/files/第11章_1579010000.content" id="1243" pr="" type="pdf"/>
+  <pic anchor="第11章：并发控制_887403219.content" content="/publish/files/第11章：并发控制_887403219.content" id="1244" pr="" type="ppt"/>
+  <pic anchor="第11课平面直线问题_43805688.content" content="/publish/files/第11课平面直线问题_43805688.content" id="1245" pr="" type="pdf"/>
+  <pic anchor="第11课综合例题_379001978.content" content="/publish/files/第11课综合例题_379001978.content" id="1246" pr="" type="pdf"/>
+  <pic anchor="第12,13课线性相关性_379808975.content" content="/publish/files/第12,13课线性相关性_379808975.content" id="1247" pr="" type="pdf"/>
+  <pic anchor="第12章：数据库系统的体系结构_783005320.content" content="/publish/files/第12章：数据库系统的体系结构_783005320.content" id="1248" pr="" type="ppt"/>
+  <pic anchor="第12课n维向量空间_431406971.content" content="/publish/files/第12课n维向量空间_431406971.content" id="1249" pr="" type="pdf"/>
+  <pic anchor="第13章：数据仓库_421801213.content" content="/publish/files/第13章：数据仓库_421801213.content" id="1250" pr="" type="ppt"/>
+  <pic anchor="第13课向量组的秩_999208847.content" content="/publish/files/第13课向量组的秩_999208847.content" id="1251" pr="" type="pdf"/>
+  <pic anchor="第13课向量组的秩例题_161807393.content" content="/publish/files/第13课向量组的秩例题_161807393.content" id="1252" pr="" type="pdf"/>
+  <pic anchor="第13课线性相关性例题_700808373.content" content="/publish/files/第13课线性相关性例题_700808373.content" id="1253" pr="" type="pdf"/>
+  <pic anchor="第14课矩阵的秩_697404578.content" content="/publish/files/第14课矩阵的秩_697404578.content" id="1254" pr="" type="pdf"/>
+  <pic anchor="第14课矩阵的秩的例题_627409149.content" content="/publish/files/第14课矩阵的秩的例题_627409149.content" id="1255" pr="" type="pdf"/>
+  <pic anchor="第15课线性方程组_853009106.content" content="/publish/files/第15课线性方程组_853009106.content" id="1256" pr="" type="pdf"/>
+  <pic anchor="第16课方程组与秩的例题_717801067.content" content="/publish/files/第16课方程组与秩的例题_717801067.content" id="1257" pr="" type="pdf"/>
+  <pic anchor="第16课线性空间_269107852.content" content="/publish/files/第16课线性空间_269107852.content" id="1258" pr="" type="pdf"/>
+  <pic anchor="第17课子空间_539904236.content" content="/publish/files/第17课子空间_539904236.content" id="1259" pr="" type="pdf"/>
+  <pic anchor="第18课同构_253403498.content" content="/publish/files/第18课同构_253403498.content" id="1260" pr="" type="pdf"/>
+  <pic anchor="第19课欧氏空间_98901965.content" content="/publish/files/第19课欧氏空间_98901965.content" id="1261" pr="" type="pdf"/>
+  <pic anchor="第1章_91370481.content" content="/publish/files/第1章_91370481.content" id="1262" pr="" type="pdf"/>
+  <pic anchor="第1章真空中静电场_220202296.content" content="/publish/files/第1章真空中静电场_220202296.content" id="1263" pr="" type="ppt"/>
+  <pic anchor="第1，2课行列式定义_46920817.content" content="/publish/files/第1，2课行列式定义_46920817.content" id="1264" pr="" type="pdf"/>
+  <pic anchor="第20单元_张文增_仿人机器手_2015_03-30-v7-small图版本2_97040594.content" content="/publish/files/第20单元_张文增_仿人机器手_2015_03-30-v7-small图版本2_97040594.content" id="1265" pr="" type="pdf"/>
+  <pic anchor="第20课商空间_610106594.content" content="/publish/files/第20课商空间_610106594.content" id="1266" pr="" type="pdf"/>
+  <pic anchor="第21号教学单元课件--现代红外光谱技术与中药质控和食品安全.pdf_56520376_426506252.content" content="/publish/files/第21号教学单元课件--现代红外光谱技术与中药质控和食品安全.pdf_56520376_426506252.content" id="1267" pr="" type="pptx"/>
+  <pic anchor="第21号教学单元课件--现代红外光谱技术与中药质控和食品安全_637302028_947509117.content" content="/publish/files/第21号教学单元课件--现代红外光谱技术与中药质控和食品安全_637302028_947509117.content" id="1268" pr="" type="pdf"/>
+  <pic anchor="第2号教学单元－太阳能利用中的材料科学_767902106_837601026.content" content="/publish/files/第2号教学单元－太阳能利用中的材料科学_767902106_837601026.content" id="1269" pr="" type="pdf"/>
+  <pic anchor="第2次讨论课（新版）_856709574.content" content="/publish/files/第2次讨论课（新版）_856709574.content" id="1270" pr="" type="pdf"/>
+  <pic anchor="第2章_533501292.content" content="/publish/files/第2章_533501292.content" id="1271" pr="" type="pdf"/>
+  <pic anchor="第2章静电场中的导体_208308957.content" content="/publish/files/第2章静电场中的导体_208308957.content" id="1272" pr="" type="ppt"/>
+  <pic anchor="第2课行列式的性质_912604674.content" content="/publish/files/第2课行列式的性质_912604674.content" id="1273" pr="" type="pdf"/>
+  <pic anchor="第37单元从试验室到安全的建筑_717808374_771506520.content" content="/publish/files/第37单元从试验室到安全的建筑_717808374_771506520.content" id="1274" pr="" type="doc"/>
+  <pic anchor="第38教学单元-校园中的水科学_940305559.content" content="/publish/files/第38教学单元-校园中的水科学_940305559.content" id="1275" pr="" type="pdf"/>
+  <pic anchor="第3章_41802051.content" content="/publish/files/第3章_41802051.content" id="1276" pr="" type="pdf"/>
+  <pic anchor="第3章综合例题题解_206206303.content" content="/publish/files/第3章综合例题题解_206206303.content" id="1277" pr="" type="pdf"/>
+  <pic anchor="第3章静电场中的电介质_828101745.content" content="/publish/files/第3章静电场中的电介质_828101745.content" id="1278" pr="" type="ppt"/>
+  <pic anchor="第3课Cramer法则_48300616.content" content="/publish/files/第3课Cramer法则_48300616.content" id="1279" pr="" type="pdf"/>
+  <pic anchor="第3课展开定理_867409912.content" content="/publish/files/第3课展开定理_867409912.content" id="1280" pr="" type="pdf"/>
+  <pic anchor="第4章_662004121.content" content="/publish/files/第4章_662004121.content" id="1281" pr="" type="pdf"/>
+  <pic anchor="第4章前三节_797003026.content" content="/publish/files/第4章前三节_797003026.content" id="1282" pr="" type="pdf"/>
+  <pic anchor="第4章稳恒电流_188706088.content" content="/publish/files/第4章稳恒电流_188706088.content" id="1283" pr="" type="ppt"/>
+  <pic anchor="第4课例题_325502149.content" content="/publish/files/第4课例题_325502149.content" id="1284" pr="" type="pdf"/>
+  <pic anchor="第4课高斯消元法矩阵概念_614308628.content" content="/publish/files/第4课高斯消元法矩阵概念_614308628.content" id="1285" pr="" type="pdf"/>
+  <pic anchor="第50号教学单元-开放信息网络时代的优质资源共享与项目管理（2009年秋）_79300670_243805309.content" content="/publish/files/第50号教学单元-开放信息网络时代的优质资源共享与项目管理（2009年秋）_79300670_243805309.content" id="1286" pr="" type="ppt"/>
+  <pic anchor="第5章 稳恒磁场总结_993401474.content" content="/publish/files/第5章 稳恒磁场总结_993401474.content" id="1287" pr="" type="ppt"/>
+  <pic anchor="第5章_205103596.content" content="/publish/files/第5章_205103596.content" id="1288" pr="" type="pdf"/>
+  <pic anchor="第5课矩阵运算逆矩阵_107101079.content" content="/publish/files/第5课矩阵运算逆矩阵_107101079.content" id="1289" pr="" type="pdf"/>
+  <pic anchor="第68号教学单元－电流热效应的应用与创新_95003890_139809217.content" content="/publish/files/第68号教学单元－电流热效应的应用与创新_95003890_139809217.content" id="1290" pr="" type="ppt"/>
+  <pic anchor="第6章_80030784.content" content="/publish/files/第6章_80030784.content" id="1291" pr="" type="pdf"/>
+  <pic anchor="第6章磁场中的磁介质_666409452.content" content="/publish/files/第6章磁场中的磁介质_666409452.content" id="1292" pr="" type="ppt"/>
+  <pic anchor="第6课分块矩阵_561803395.content" content="/publish/files/第6课分块矩阵_561803395.content" id="1293" pr="" type="pdf"/>
+  <pic anchor="第7教学单元-纳米尺度热输运的实验研究_928502524.content" content="/publish/files/第7教学单元-纳米尺度热输运的实验研究_928502524.content" id="1294" pr="" type="pdf"/>
+  <pic anchor="第7章_875603643.content" content="/publish/files/第7章_875603643.content" id="1295" pr="" type="pdf"/>
+  <pic anchor="第7章电磁感应_856604379.content" content="/publish/files/第7章电磁感应_856604379.content" id="1296" pr="" type="ppt"/>
+  <pic anchor="第7课初等变换_108306998.content" content="/publish/files/第7课初等变换_108306998.content" id="1297" pr="" type="pdf"/>
+  <pic anchor="第8章_6004910.content" content="/publish/files/第8章_6004910.content" id="1298" pr="" type="pdf"/>
+  <pic anchor="第8章电磁场方程和电磁场_763001906.content" content="/publish/files/第8章电磁场方程和电磁场_763001906.content" id="1299" pr="" type="ppt"/>
+  <pic anchor="第8课矩阵小结_778804308.content" content="/publish/files/第8课矩阵小结_778804308.content" id="1300" pr="" type="pdf"/>
+  <pic anchor="第90号教学单元_443208594.content" content="/publish/files/第90号教学单元_443208594.content" id="1301" pr="" type="pdf"/>
+  <pic anchor="第9号教学单元-微焦点X射线成像实验_114001962.content" content="/publish/files/第9号教学单元-微焦点X射线成像实验_114001962.content" id="1302" pr="" type="pdf"/>
+  <pic anchor="第9章_992707045.content" content="/publish/files/第9章_992707045.content" id="1303" pr="" type="pdf"/>
+  <pic anchor="第9课向量及其运算_910205874.content" content="/publish/files/第9课向量及其运算_910205874.content" id="1304" pr="" type="pdf"/>
+  <pic anchor="第一次习题课_504601326.content" content="/publish/files/第一次习题课_504601326.content" id="1305" pr="" type="pptx"/>
+  <pic anchor="第一次作业答案_165804923.content" content="/publish/files/第一次作业答案_165804923.content" id="1306" pr="" type="pdf"/>
+  <pic anchor="第一次课（拉普拉氏变换）_372504561.content" content="/publish/files/第一次课（拉普拉氏变换）_372504561.content" id="1307" pr="" type="pdf"/>
+  <pic anchor="第一章_628801812.content" content="/publish/files/第一章_628801812.content" id="1308" pr="" type="pdf"/>
+  <pic anchor="第七周作业题答案_798907161.content" content="/publish/files/第七周作业题答案_798907161.content" id="1309" pr="" type="doc"/>
+  <pic anchor="第七章_584107151.content" content="/publish/files/第七章_584107151.content" id="1310" pr="" type="pdf"/>
+  <pic anchor="第七讲_85502932.content" content="/publish/files/第七讲_85502932.content" id="1311" pr="" type="ppt"/>
+  <pic anchor="第三次习题课题目与解答_903904719.content" content="/publish/files/第三次习题课题目与解答_903904719.content" id="1312" pr="" type="pdf"/>
+  <pic anchor="第三次作业 [答案]_916607766.content" content="/publish/files/第三次作业 [答案]_916607766.content" id="1313" pr="" type="pdf"/>
+  <pic anchor="第三讲_33704037.content" content="/publish/files/第三讲_33704037.content" id="1314" pr="" type="ppt"/>
+  <pic anchor="第九章_67003591.content" content="/publish/files/第九章_67003591.content" id="1315" pr="" type="pdf"/>
+  <pic anchor="第九讲_321607731.content" content="/publish/files/第九讲_321607731.content" id="1316" pr="" type="ppt"/>
+  <pic anchor="第二次作-答案_790701556.content" content="/publish/files/第二次作-答案_790701556.content" id="1317" pr="" type="pdf"/>
+  <pic anchor="第二章 （2）_589902596.content" content="/publish/files/第二章 （2）_589902596.content" id="1318" pr="" type="pdf"/>
+  <pic anchor="第二章_355054.content" content="/publish/files/第二章_355054.content" id="1319" pr="" type="pdf"/>
+  <pic anchor="第二章（1）_371704354.content" content="/publish/files/第二章（1）_371704354.content" id="1320" pr="" type="pdf"/>
+  <pic anchor="第二讲_85503860.content" content="/publish/files/第二讲_85503860.content" id="1321" pr="" type="ppt"/>
+  <pic anchor="第五次习题课 5(1)答案_1408554.content" content="/publish/files/第五次习题课 5(1)答案_1408554.content" id="1322" pr="" type="pdf"/>
+  <pic anchor="第五次作业答案_147406745.content" content="/publish/files/第五次作业答案_147406745.content" id="1323" pr="" type="pdf"/>
+  <pic anchor="第八章_30104051.content" content="/publish/files/第八章_30104051.content" id="1324" pr="" type="pdf"/>
+  <pic anchor="第六章_970505016.content" content="/publish/files/第六章_970505016.content" id="1325" pr="" type="pdf"/>
+  <pic anchor="第六讲_190205370.content" content="/publish/files/第六讲_190205370.content" id="1326" pr="" type="ppt"/>
+  <pic anchor="第十三讲_38109962.content" content="/publish/files/第十三讲_38109962.content" id="1327" pr="" type="ppt"/>
+  <pic anchor="第十二章 NPR pdf_40990171.content" content="/publish/files/第十二章 NPR pdf_40990171.content" id="1328" pr="" type="pdf"/>
+  <pic anchor="第十二讲_117203828.content" content="/publish/files/第十二讲_117203828.content" id="1329" pr="" type="ppt"/>
+  <pic anchor="第十四讲_660804900.content" content="/publish/files/第十四讲_660804900.content" id="1330" pr="" type="ppt"/>
+  <pic anchor="第十讲_55690984.content" content="/publish/files/第十讲_55690984.content" id="1331" pr="" type="ppt"/>
+  <pic anchor="第四次答案_506705604.content" content="/publish/files/第四次答案_506705604.content" id="1332" pr="" type="pdf"/>
+  <pic anchor="第四章_644608078.content" content="/publish/files/第四章_644608078.content" id="1333" pr="" type="pdf"/>
+  <pic anchor="第四讲_411204532.content" content="/publish/files/第四讲_411204532.content" id="1334" pr="" type="ppt"/>
+  <pic anchor="等价关系与划分的补充内容2012_239701641.content" content="/publish/files/等价关系与划分的补充内容2012_239701641.content" id="1335" pr="" type="docx"/>
+  <pic anchor="简单STL的使用_715405723.content" content="/publish/files/简单STL的使用_715405723.content" id="1336" pr="" type="pptx"/>
+  <pic anchor="简单时空复杂度分析_925305483.content" content="/publish/files/简单时空复杂度分析_925305483.content" id="1337" pr="" type="ppt"/>
+  <pic anchor="系统分析与控制-教材_794101382_379907499.content" content="/publish/files/系统分析与控制-教材_794101382_379907499.content" id="1338" pr="" type="pdf"/>
+  <pic anchor="线性代数学生名单_702002852.content" content="/publish/files/线性代数学生名单_702002852.content" id="1339" pr="" type="xlsx"/>
+  <pic anchor="线性变换的定义与性质_652302085.content" content="/publish/files/线性变换的定义与性质_652302085.content" id="1340" pr="" type="pdf"/>
+  <pic anchor="线性变换的矩阵_299307768.content" content="/publish/files/线性变换的矩阵_299307768.content" id="1341" pr="" type="pdf"/>
+  <pic anchor="考试纪律与要求_180501217.content" content="/publish/files/考试纪律与要求_180501217.content" id="1342" pr="" type="docx"/>
+  <pic anchor="考试纪律与要求_84200206.content" content="/publish/files/考试纪律与要求_84200206.content" id="1343" pr="" type="docx"/>
+  <pic anchor="自测题_556304246.content" content="/publish/files/自测题_556304246.content" id="1344" pr="" type="doc"/>
+  <pic anchor="蒙特卡洛博弈方法-v2_969803813.content" content="/publish/files/蒙特卡洛博弈方法-v2_969803813.content" id="1345" pr="" type="docx"/>
+  <pic anchor="计科导作业分数(23,24,25)_685808486.content" content="/publish/files/计科导作业分数(23,24,25)_685808486.content" id="1346" pr="" type="xlsx"/>
+  <pic anchor="计科导作业分数(散选,21,22)_870508039.content" content="/publish/files/计科导作业分数(散选,21,22)_870508039.content" id="1347" pr="" type="xls"/>
+  <pic anchor="计算机网络原理复习提纲_786009891_914508456.content" content="/publish/files/计算机网络原理复习提纲_786009891_914508456.content" id="1348" pr="" type="ppt"/>
+  <pic anchor="论程序设计基础中的一些小技巧（夷安）_668506665.content" content="/publish/files/论程序设计基础中的一些小技巧（夷安）_668506665.content" id="1349" pr="" type="pptx"/>
+  <pic anchor="课程SRT的报名与考核（R2014）_603105855.content" content="/publish/files/课程SRT的报名与考核（R2014）_603105855.content" id="1350" pr="" type="docx"/>
+  <pic anchor="走进国家重点实验室_249309408_454704445.content" content="/publish/files/走进国家重点实验室_249309408_454704445.content" id="1351" pr="" type="pdf"/>
+  <pic anchor="运动捕捉讲义_917208170.content" content="/publish/files/运动捕捉讲义_917208170.content" id="1352" pr="" type="ppt"/>
+  <pic anchor="选课学生名单_706709778.content" content="/publish/files/选课学生名单_706709778.content" id="1353" pr="" type="xls"/>
+  <pic anchor="部分课后习题答案_586106809.content" content="/publish/files/部分课后习题答案_586106809.content" id="1354" pr="" type="pdf"/>
+  <pic anchor="量11__985102662[1]_27920462.content" content="/publish/files/量11__985102662[1]_27920462.content" id="1355" pr="" type="ppt"/>
+  <pic anchor="量12_179801348.content" content="/publish/files/量12_179801348.content" id="1356" pr="" type="ppt"/>
+  <pic anchor="量2[1]_970408044[1]_353201448.content" content="/publish/files/量2[1]_970408044[1]_353201448.content" id="1357" pr="" type="ppt"/>
+  <pic anchor="量3+4[2]_738304985[1]_867408581.content" content="/publish/files/量3+4[2]_738304985[1]_867408581.content" id="1358" pr="" type="ppt"/>
+  <pic anchor="量5[2]_198209154.content" content="/publish/files/量5[2]_198209154.content" id="1359" pr="" type="ppt"/>
+  <pic anchor="量6[3]_944108176.content" content="/publish/files/量6[3]_944108176.content" id="1360" pr="" type="ppt"/>
+  <pic anchor="阻尼振动与受迫振动 - 孙仲_514002205.content" content="/publish/files/阻尼振动与受迫振动 - 孙仲_514002205.content" id="1361" pr="" type="pptx"/>
+  <pic anchor="附件1台湾大学暑期课实验室项目通知.content" content="/publish/files/附件1台湾大学暑期课实验室项目通知.content" id="1362" pr="" type="docx"/>
+  <pic anchor="附件1：就业工作日程表.content" content="/publish/files/附件1：就业工作日程表.content" id="1363" pr="" type="docx"/>
+  <pic anchor="附件2本科生申请表.content" content="/publish/files/附件2本科生申请表.content" id="1364" pr="" type="doc"/>
+  <pic anchor="附件2：本科生简历模板（定）.content" content="/publish/files/附件2：本科生简历模板（定）.content" id="1365" pr="" type="docx"/>
+  <pic anchor="附件3：免费照相同学名单.content" content="/publish/files/附件3：免费照相同学名单.content" id="1366" pr="" type="xlsx"/>
+  <pic anchor="（update）数字逻辑实验座位号（记分表）_311307356.content" content="/publish/files/（update）数字逻辑实验座位号（记分表）_311307356.content" id="1367" pr="" type="xls"/>
+ </category>
+</pics>

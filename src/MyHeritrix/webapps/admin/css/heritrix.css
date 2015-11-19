@@ -1,0 +1,129 @@
+body {
+    margin-left: 2;
+    margin-top: 2;
+}
+h1 {
+    font-weight:bold;
+    font-size:130%;
+}
+
+h2 {
+    font-weight:bold;
+    font-size:120%;
+}
+h3 {
+    font-weight:bold;
+    font-size:110%;
+}
+.flashMessage, .error, .warning {
+    color:red;
+}
+.margined {
+    margin:20px;
+}
+.wide {
+    margin-left:-5px;
+    margin-right:-5px;
+}
+.subheading {
+    font-weight: bold; text-align: center;
+}
+.dataheader {
+    font-weight: bold; text-align: right; padding-right: 3px;
+}
+.tab_selected {
+    background-color: #0000FF; padding-left: 5; padding-right: 5; 
+}
+.instance_name {
+    font-size: small;
+}
+.tab_text_selected {
+    color: #FFFFFF; font-weight: bold; text-decoration: none;
+}
+.tab {
+    background-color: #EEEEFF; padding-left: 5; padding-right: 5; 
+}
+.tab_text {
+    color: #0000FF; font-weight: bold; text-decoration: none;
+}
+.tab_inactive {
+    background-color: #EEEEEE; padding-left: 5; padding-right: 5; 
+}
+
+.tab_text_inactive {
+    color: #FFFFFF; font-weight: bold; text-decoration: none;
+}
+.tab_seperator {
+    background-color: #FFFFFF; color: #000000; font-weight: bold; padding-left: 2; padding-right: 2; 
+    text-decoration: none;
+}
+.main {
+    padding: 2;
+}
+.help {
+    text-decoration: none;
+}
+a.underLineOnHover {
+    text-decoration: none;
+}
+a:hover.underLineOnHover {
+    text-decoration: underline;
+}
+.SettingsBlock {
+    border:1px solid #9999ff;
+    margin-left:10px; margin-right:5px;
+    margin-top:3px; margin-bottom:10px;
+    padding: 3px;
+	background-color:white;
+    overflow: hidden;
+}
+.expertHide
+{
+    display:none;
+}
+.expertShow {
+    color:#333300
+}
+.hide {
+    display:none;
+}
+.show {
+
+}
+.Paused {
+	color:darkred;
+}
+.Pausing {
+	color:darkred;
+}
+.Running {
+	color:darkgreen;
+}
+.Preparing {
+	color:darkorange;
+}
+.indent {
+	padding-left:20px;
+}
+.completedBar {
+	background-color:lightgreen;
+	border-right:3px solid orange;
+}
+.queuedBar {
+	background-color:pink;
+	border-left:3px solid orange;
+}
+.status {
+	text-transform:uppercase;
+	font-size:smaller;
+	font-weight:bold;
+}
+.holding {
+	color:darkred;
+}
+.crawling {
+	color:darkgreen;
+}
+.legendTitle {
+	color:black;
+}

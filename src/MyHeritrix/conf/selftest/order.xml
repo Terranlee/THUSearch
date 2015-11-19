@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crawl-order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="heritrix_settings.xsd">
+  <meta>
+    <name>Selftest</name>
+    <description>Heritrix integrated selftest</description>
+    <operator>Admin</operator>
+    <organization />
+    <audience />
+    <date>20040412224450</date>
+  </meta>
+  <controller>
+    <string name="settings-directory">settings</string>
+    <string name="disk-path" />
+    <string name="scratch-path">scratch</string>
+    <long name="max-bytes-download">0</long>
+    <long name="max-document-download">0</long>
+    <long name="max-time-sec">0</long>
+    <integer name="max-toe-threads">1</integer>
+    <newObject name="scope" class="org.archive.crawler.scope.DomainScope">
+      <boolean name="enabled">true</boolean>
+      <string name="seedsfile">seeds.txt</string>
+      <integer name="max-link-hops">5</integer>
+      <integer name="max-trans-hops">5</integer>
+      <newObject name="exclude-filter" class="org.archive.crawler.filter.OrFilter">
+        <boolean name="enabled">true</boolean>
+        <boolean name="if-matches-return">true</boolean>
+        <map name="filters">
+            <newObject name="pathdepth" 
+                    class="org.archive.crawler.filter.PathDepthFilter">
+                <boolean name="enabled">true</boolean>
+                <integer name="max-path-depth">20</integer>
+                <boolean name="path-less-or-equal-return">false</boolean>
+            </newObject>
+            <newObject name="pathologicalpath" 
+                    class="org.archive.crawler.filter.PathologicalPathFilter">
+                <boolean name="enabled">true</boolean>
+                <integer name="repetitions">3</integer>
+            </newObject>
+        </map>
+      </newObject>
+      <newObject name="additionalScopeFocus" class="org.archive.crawler.filter.FilePatternFilter">
+        <boolean name="enabled">true</boolean>
+        <boolean name="if-match-return">true</boolean>
+        <string name="use-default-patterns">All</string>
+        <string name="regexp"></string>
+      </newObject>
+      <newObject name="transitiveFilter" class="org.archive.crawler.filter.TransclusionFilter">
+        <boolean name="enabled">true</boolean>
+        <integer name="max-speculative-hops">0</integer>
+        <integer name="max-referral-hops">0</integer>
+        <integer name="max-embed-hops">0</integer>
+      </newObject>
+    </newObject>
+    <map name="http-headers">
+      <string name="user-agent">Selftest (+http://localhost.localdomain)</string>
+      <string name="from">webmaster@localhost.localdomain</string>
+    </map>
+    <newObject name="robots-honoring-policy" class="org.archive.crawler.datamodel.RobotsHonoringPolicy">
+      <string name="type">classic</string>
+      <boolean name="masquerade">false</boolean>
+      <text name="custom-robots"></text>
+      <stringList name="user-agents">
+      </stringList>
+    </newObject>
+    <newObject name="frontier" class="org.archive.crawler.frontier.BdbFrontier">
+      <float name="delay-factor">0.0</float>
+      <integer name="max-delay-ms">0</integer>
+      <integer name="min-delay-ms">0</integer>
+      <integer name="max-retries">10</integer>
+      <long name="retry-delay-seconds">90</long>
+      <integer name="total-bandwidth-usage-KB-sec">0</integer>
+      <integer name="max-per-host-bandwidth-usage-KB-sec">0</integer>
+      <boolean name="pause-at-finish">false</boolean>
+    </newObject>
+    <map name="uri-canonicalization-rules">
+      <newObject name="Lowercase" 
+        class="org.archive.crawler.url.canonicalize.LowercaseRule">
+      </newObject>
+      <newObject name="Userinfo" 
+        class="org.archive.crawler.url.canonicalize.StripUserinfoRule">
+      </newObject>
+      <newObject name="WWW" 
+        class="org.archive.crawler.url.canonicalize.StripWWWRule">
+      </newObject>
+      <newObject name="SessionIDs" 
+        class="org.archive.crawler.url.canonicalize.StripSessionIDs">
+      </newObject>
+      <newObject name="SessionCFIDs" 
+        class="org.archive.crawler.url.canonicalize.StripSessionCFIDs">
+        <boolean name="enabled">true</boolean>
+      </newObject>
+      <newObject name="QueryStrPrefix" 
+        class="org.archive.crawler.url.canonicalize.FixupQueryStr">
+      </newObject>
+    </map>
+    <map name="pre-fetch-processors">
+      <newObject name="Preselector" class="org.archive.crawler.prefetch.Preselector">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+        <boolean name="recheck-scope">true</boolean>
+        <boolean name="block-all">false</boolean>
+        <string name="block-by-regexp"></string>
+      </newObject>
+      <newObject name="Preprocessor" class="org.archive.crawler.prefetch.PreconditionEnforcer">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+        <integer name="ip-validity-duration-seconds">21600</integer>
+        <integer name="robot-validity-duration-seconds">86400</integer>
+      </newObject>
+    </map>
+    <map name="fetch-processors">
+      <newObject name="DNS" class="org.archive.crawler.fetcher.FetchDNS">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="HTTP" class="org.archive.crawler.fetcher.FetchHTTP">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+        <integer name="timeout-seconds">12</integer>
+        <integer name="sotimeout-ms">20000</integer>
+        <long name="max-length-bytes">0</long>
+        <string name="load-cookies-from-file"></string>
+        <string name="save-cookies-to-file"></string>
+        <string name="trust-level">open</string>
+      </newObject>
+    </map>
+    <map name="extract-processors">
+      <newObject name="ExtractorHTTP" class="org.archive.crawler.extractor.ExtractorHTTP">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="ExtractorHTML" class="org.archive.crawler.extractor.ExtractorHTML">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="ExtractorCSS" 
+            class="org.archive.crawler.extractor.ExtractorCSS">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="ExtractorJS" class="org.archive.crawler.extractor.ExtractorJS">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="ExtractorSWF"    
+            class="org.archive.crawler.extractor.ExtractorSWF">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+    </map>
+    <map name="write-processors">
+      <newObject name="Archiver" class="org.archive.crawler.writer.ARCWriterProcessor">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+        <boolean name="compress">true</boolean>
+        <string name="prefix">SELFTEST</string>
+        <string name="suffix">${HOSTNAME}</string>
+        <integer name="max-size-bytes">100000000</integer>
+        <stringList name="path">
+          <string>arcs</string>
+        </stringList>
+        <integer name="pool-max-active">1</integer>
+        <integer name="pool-max-wait">300000</integer>
+      </newObject>
+    </map>
+    <map name="post-processors">
+      <newObject name="Updater" class="org.archive.crawler.postprocessor.CrawlStateUpdater">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+      </newObject>
+      <newObject name="LinksScoper" 
+        class="org.archive.crawler.postprocessor.LinksScoper">
+        <boolean name="enabled">true</boolean>
+        <map name="filters">
+        </map>
+        <boolean name="seed-redirects-new-seed">true</boolean>
+        <boolean name="override-logger">false</boolean>
+        <map name="scope-rejected-url-filters" />
+      </newObject>
+      <newObject name="FrontierScheduler" 
+        class="org.archive.crawler.postprocessor.FrontierScheduler">
+        <boolean name="enabled">true</boolean>
+      </newObject>
+    </map>
+    <map name="loggers">
+      <newObject name="crawl-statistics" class="org.archive.crawler.admin.StatisticsTracker">
+        <integer name="interval-seconds">20</integer>
+      </newObject>
+    </map>
+    <string name="recover-path"></string>
+    <newObject name="credential-store" class="org.archive.crawler.datamodel.CredentialStore">
+      <map name="credentials" >
+        <!--Credential-domain is filled in by the Heritrix#selftest method on 
+            startup.  Its done there in case selftest port is changed  on us.
+         -->
+        <newObject name="selftest" 
+            class="org.archive.crawler.datamodel.credential.Rfc2617Credential">
+          <string name="credential-domain" />
+          <string name="realm">selftest</string>
+          <string name="login">selftest</string>
+          <string name="password">selftest</string>
+        </newObject>
+        <newObject name="Selftest GET form login" 
+            class="org.archive.crawler.datamodel.credential.HtmlFormCredential">
+          <string name="credential-domain" />
+          <string 
+            name="login-uri">/Auth/form/get/success.jsp</string>
+          <string name="http-method">GET</string>
+          <map name="form-items">
+            <string name="login">login</string>
+            <string name="password">password</string>
+            <string name="submit">submit</string>
+          </map>
+        </newObject>
+        <newObject name="Selftest POST form login" 
+            class="org.archive.crawler.datamodel.credential.HtmlFormCredential">
+          <string name="credential-domain" />
+          <string 
+            name="login-uri">/Auth/form/post/success.jsp</string>
+          <string name="http-method">POST</string>
+          <map name="form-items">
+            <string name="login">login</string>
+            <string name="password">password</string>
+            <string name="submit">submit</string>
+          </map>
+        </newObject>
+      </map>
+    </newObject>
+  </controller>
+</crawl-order>

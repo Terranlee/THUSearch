@@ -1,0 +1,49 @@
+# Available processors
+# Each processor class should be listed with full package info
+# followed by a '|' and a descriptive name (containing only [a-z,A-z])
+# Lines beginning with # and empty lines are ignored
+org.archive.crawler.prefetch.Preselector|Preselector
+org.archive.crawler.prefetch.PreconditionEnforcer|Preprocessor
+org.archive.crawler.fetcher.FetchDNS|DNS
+org.archive.crawler.fetcher.FetchHTTP|HTTP
+org.archive.crawler.fetcher.FetchFTP|FTP
+org.archive.crawler.extractor.ExtractorHTTP|ExtractorHTTP
+org.archive.crawler.extractor.ExtractorHTML|ExtractorHTML
+org.archive.crawler.extractor.AggressiveExtractorHTML|AggressiveExtractorHTML
+org.archive.crawler.extractor.ExtractorCSS|ExtractorCSS
+org.archive.crawler.extractor.ExtractorSWF|ExtractorSWF
+org.archive.crawler.extractor.ExtractorJS|ExtractorJS
+org.archive.crawler.extractor.ExtractorPDF|ExtractorPDF
+org.archive.crawler.extractor.ExtractorDOC|ExtractorDOC
+org.archive.crawler.extractor.ExtractorXML|ExtractorXML
+org.archive.crawler.extractor.ExtractorUniversal|ExtractorUniversal
+org.archive.crawler.extractor.ExtractorURI|ExtractorURI
+org.archive.crawler.extractor.ExtractorImpliedURI|ExtractorImpliedURI
+org.archive.crawler.extractor.ChangeEvaluator|ChangeEvaluator
+org.archive.crawler.extractor.HTTPContentDigest|HTTPContentDigest
+org.archive.crawler.writer.ARCWriterProcessor|Archiver
+org.archive.crawler.writer.WARCWriterProcessor|WARCArchiver
+org.archive.crawler.writer.Kw3WriterProcessor|Kw3Archiver
+org.archive.crawler.writer.MirrorWriterProcessor|MirrorWriter
+org.archive.crawler.postprocessor.CrawlStateUpdater|Updater
+org.archive.crawler.postprocessor.LinksScoper|LinksScoper
+org.archive.crawler.postprocessor.SupplementaryLinksScoper|SupplementaryLinksScoper
+org.archive.crawler.postprocessor.FrontierScheduler|FrontierScheduler
+org.archive.crawler.postprocessor.LowDiskPauseProcessor|LowDiskPause
+org.archive.crawler.postprocessor.WaitEvaluator|WaitEvaluator
+org.archive.crawler.postprocessor.ContentBasedWaitEvaluator|ContentBasedWaitEvaluator
+org.archive.crawler.postprocessor.TextWaitEvaluator|TextWaitEvaluator
+org.archive.crawler.postprocessor.ImageWaitEvaluator|ImageWaitEvaluator
+org.archive.crawler.postprocessor.AcceptRevisitProcessor|AcceptRevisitProcessor
+org.archive.crawler.postprocessor.RejectRevisitProcessor|RejectRevisitProcessor
+org.archive.crawler.processor.LexicalCrawlMapper|LexicalCrawlMapper
+org.archive.crawler.processor.HashCrawlMapper|HashCrawlMapper
+org.archive.crawler.processor.BeanShellProcessor|BeanShellProcessor
+org.archive.crawler.prefetch.QuotaEnforcer|QuotaEnforcer
+org.archive.crawler.prefetch.RuntimeLimitEnforcer|RuntimeLimitEnforcer
+org.archive.crawler.extractor.JerichoExtractorHTML|JerichoExtractorHTML
+org.archive.crawler.processor.recrawl.PersistStoreProcessor|PersistStoreProcessor
+org.archive.crawler.processor.recrawl.PersistLogProcessor|PersistLogProcessor
+org.archive.crawler.processor.recrawl.PersistLoadProcessor|PersistLoadProcessor
+org.archive.crawler.processor.recrawl.FetchHistoryProcessor|FetchHistoryProcessor
+org.archive.crawler.extractor.TrapSuppressExtractor|TrapSuppressExtractor

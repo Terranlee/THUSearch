@@ -1,0 +1,9 @@
+# Availible Scopes.
+# Each processor class should be listed with full package info
+# Lines beginning with # and empty lines are ignored
+org.archive.crawler.scope.BroadScope
+org.archive.crawler.scope.DomainScope
+org.archive.crawler.scope.HostScope
+org.archive.crawler.scope.PathScope
+org.archive.crawler.scope.SurtPrefixScope
+org.archive.crawler.deciderules.DecidingScope

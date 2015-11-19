@@ -1,0 +1,11 @@
+# Available URL Canonicalization Rules.
+# Lines beginning with # and empty lines are ignored
+org.archive.crawler.url.canonicalize.LowercaseRule
+org.archive.crawler.url.canonicalize.StripUserinfoRule
+org.archive.crawler.url.canonicalize.StripWWWRule
+org.archive.crawler.url.canonicalize.StripWWWNRule
+org.archive.crawler.url.canonicalize.StripSessionCFIDs
+org.archive.crawler.url.canonicalize.StripSessionIDs
+org.archive.crawler.url.canonicalize.RegexRule
+org.archive.crawler.url.canonicalize.FixupQueryStr
+org.archive.crawler.url.canonicalize.StripExtraSlashes

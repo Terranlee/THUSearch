@@ -1,0 +1,1475 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- IE8 兼容 -->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="shortcut icon" href="/publish/news/icon/favicon.ico" />
+<title>清华大学新闻网</title>
+<script type="text/javascript">
+function parseNavHtmlStr(parseStr,separatorStr){
+  var reStr="清华大学新闻网 - 首页  ";
+  var parseStrArr=parseStr.split(separatorStr);
+  for(var i=0; i<parseStrArr.length; i++){
+    if(i>0&&i<parseStrArr.length){
+      reStr+=separatorStr;
+    }
+    if(i>0){
+      reStr+=parseStrArr[i];
+    }
+  }
+  return reStr;
+}
+var navStr="&nbsp;<A href='/publish/news/index.html' class='navigation_style'>首页</a> - <A href='/publish/news/4195/index.html' class='navigation_style'>高教视点</a>".replace(/<.*?>/g,"");
+document.title = parseNavHtmlStr(navStr," - ");
+</script><link type="text/css" rel="stylesheet" href="/publish/news/css/stylesheet.css" />
+<script src="/publish/news/js/qrcode.js" type="text/javascript"></script>
+<script src="/publish/news/js/qrcode-auto.js" type="text/javascript"></script><!-- 导入jquery库 -->
+<script src="/public/jquery/jquery-1.4.min.js" type="text/javascript"></script><!-- 导入新窗口打开外部链接插件 -->
+<!-- All external site links open in new window -->
+<script type="text/javascript">
+<!--
+$(document).ready(function() {
+ $("a[href*='http://']:not([href*='"+location.hostname+"']),[href*='/sites/'],[href*=\"/sites/\"],[href*='/publish/'],[href*=\"/publish/\"],[href*='https://']:not([href*='"+location.hostname+"'])")
+ .attr("target","_blank")
+ $("[href*='/sites/news/'],[href*=\"/sites/news/\"],[href*='/publish/news/'],[href*=\"/publish/news/\"],[href*='/sites/newsen/'],[href*=\"/sites/newsen/\"],[href*='/publish/newsen/'],[href*=\"/publish/newsen/\"]")
+ .removeAttr("target","_blank")
+ $("[href*='/publish/news/index.html'],[href*=\"/publish/news/index.html\"],[href*='/publish/news/index.html'],[href*=\"/publish/news/index.html\"]")
+ .attr("target","_blank")
+});
+//-->
+</script></head>
+<body>
+<!-- 页头区域开始 -->
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+  getResData();
+  //获取数据
+  function getResData(){
+    jQuery.getJSON("/application/visits/visits.jsp?sid=news&r="+Math.random(), function(data){
+      $("#today").empty();
+      $("#today").append(data[0].today);
+      $("#total").empty();
+      $("#total").append(data[0].total);
+      $("#arverage").empty();
+      $("#arverage").append(data[0].arverage);     
+    });
+  };
+});
+//]]>
+</script>
+<div id="weather">
+ <ul>
+  <li class="yjfk"></li>
+  <li class="center">
+   <span class="date">
+<script language='javaScript'>
+today = new Date();
+function initArray() {
+ this.length = initArray.arguments.length
+ for ( var i = 0; i < this.length; i++)
+  this[i + 1] = initArray.arguments[i]
+}
+var d = new initArray('星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六');
+var year = (today.getYear() > 1000) ? today.getYear() : today.getYear() + 1900;
+document.write(year, '年', today.getMonth() + 1, '月', today.getDate(), '日 ',
+  d[today.getDay() + 1]);
+</script>
+    </span>
+<!--<span class="date">
+<iframe src="http://tianqi.xixik.com/cframe/1" allowtransparency="true" width="280" height="29" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" style="margin-bottom: 5px; display: inline;"></iframe>
+</span>-->
+   <!--<span class="dot">今日浏览数：<span id="today"><img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/></span>&nbsp;&nbsp;</span>-->
+   <!--span class="dot">日均浏览数：<span id="arverage"><img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/></span>&nbsp;&nbsp;</span-->
+   &nbsp;&nbsp;&nbsp;&nbsp;<span class="dot">总浏览数：<span id="total"><img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/></span>&nbsp;&nbsp;</span>
+  </li>
+  <li class="right">
+   <a href="/publish/news/index.html">首页</a> |
+   <a href="/publish/newsen/index.html">English</a> |
+   <a target="_blank" href="http://weibo.com/tsinghua100">清华微博</a> |
+<div id=m style="position: absolute;margin-left:130px;margin-left:0\9;visibility:hidden;" >
+<img src="/publish/news/images/weixin.jpg" width="130" height="130">
+</div> 
+<a style="cursor: pointer;" onmouseover="m.style.visibility='visible';m.style.top=event.clientY;m.style.left=event.clientX;" onmousemove="m.style.top=event.clientY;m.style.left=event.clientX;"  onmouseout="m.style.visibility='hidden'">清华微信</a> |
+   <a href="/publish/news/mobile/index.html">手机版</a> |
+   <a href="/publish/news/rss/index.html">RSS聚合</a> |
+   <a href="http://www.tsinghua.edu.cn/publish/th/index.html" target="_blank">清华主页</a>
+  </li>
+ </ul>
+</div>
+<div id="banner">
+ <a href="/publish/news/index.html"><img src="/publish/news/images/s_12.gif"
+   alt="banner" border="0" /> </a>
+</div>
+<div id="navigation_top">
+ <img src="/publish/news/images/space.gif" />
+</div>
+<div id="navigation">
+ <div id="navigation_txt">
+  <a href="/publish/news/4204/index.html" class="a14">头条新闻</a><span
+   class="line">|</span><a href="/publish/news/4205/index.html"
+   class="a14">综合新闻</a><span class="line">|</span><a
+   href="/publish/news/4206/index.html" class="a14">百年校庆</a><span
+   class="line">|</span><a href="/publish/news/4207/index.html"
+   class="a14">媒体清华</a><span class="line">|</span><a
+   href="/publish/news/4208/index.html" class="a14">清华人物</a><span
+   class="line">|</span><a href="/publish/news/4209/index.html"
+   class="a14">教学科研</a><span class="line">|</span><a
+   href="/publish/news/4210/index.html" class="a14">招生就业</a><span
+   class="line">|</span><a href="/publish/news/4211/index.html"
+   class="a14">国际合作</a><span class="line">|</span><a
+   href="/publish/news/4212/index.html" class="a14">校园写意</a><span
+   class="line">|</span><a href="/publish/news/4213/index.html"
+   class="a14">校友动态</a><br /><a href="/publish/news/4214/index.html" class="a14">领导讲话</a><span
+   class="line">|</span><a href="/publish/news/4215/index.html"
+   class="a14">紫荆论坛</a><span class="line">|</span><a
+   href="/publish/news/4216/index.html" class="a14">清华史苑</a><span
+   class="line">|</span><a href="/publish/news/4195/index.html"
+   class="a14">高教视点</a><span class="line">|</span><a
+   href="/publish/news/4217/index.html" class="a14">社会服务</a><span
+   class="line">|</span><a href="/publish/news/4218/index.html"
+   class="a14">专题新闻</a><span class="line">|</span><a
+   href="/publish/news/4222/index.html" class="a14">图片新闻</a><span
+   class="line">|</span><a href="http://tv.tsinghua.edu.cn/"
+   class="a14">视频新闻</a><span class="line">|</span><a
+   href="/publish/news/zhuanti/zl.html" class="a14">清华展览</a><span
+   class="line">|</span><a href="/publish/news/4225/index.html"
+   class="a14">信息预告</a>
+ </div>
+</div>
+<!-- 页头区域结束 --><div id="home_news_top">
+<table class="table_big">
+  <tr>
+
+    <td class="sec_lefttd">
+   <!--secondary left start-->
+<div class="Tab_wind_sec">
+ <ul>
+  <li class="yjfk"></li>
+  <li class="center">
+   &nbsp;专题新闻一览
+  </li>
+  <li class="right">
+   &nbsp;
+  </li>
+ </ul>
+</div>
+<div id="datalist_secl">
+ <ul>
+     <li>
+   <a href="/publish/news/9513/index.html"><span>清华大学全面开展文化素质教育20周年</span></a>
+  </li>  <li>
+   <a href="/publish/news/9507/index.html"><span>第二届清华大学“校长杯”创新挑战赛</span></a>
+  </li>  <li>
+   <a href="/publish/news/9498/index.html"><span>清华大学104周年校庆</span></a>
+  </li>  <li>
+   <a href="/publish/news/9497/index.html"><span>U-run清华大学首届校园马拉松赛</span></a>
+  </li>  <li>
+   <a href="/publish/news/9312/index.html"><span>北京清华长庚医院正式运营</span></a>
+  </li>  <li>
+   <a href="/publish/news/9250/index.html"><span>深入学习贯彻十八届四中全会精神</span></a>
+  </li>  <li>
+   <a href="/publish/news/9209/index.html"><span>第14届“良师益友”特别报道</span></a>
+  </li>  <li>
+   <a href="/publish/news/9190/index.html"><span>培育和践行社会主义核心价值观</span></a>
+  </li>  <li>
+   <a href="/publish/news/9185/index.html"><span>清华获10项2014高教国家教学成果奖</span></a>
+  </li>  <li>
+   <a href="/publish/news/9174/index.html"><span>清华科技园创建20周年</span></a>
+  </li> </ul>
+</div>
+<div class="Tab_wind_sec">
+ <ul>
+  <li class="yjfk"></li>
+  <li class="center">
+   &nbsp;新闻排行榜
+  </li>
+  <li class="right">
+   &nbsp;
+  </li>
+ </ul>
+</div>
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+  getResData();
+  //获取数据
+  function getResData(){
+    jQuery.getJSON("/publish/news/newsladder.json?r="+Math.random(), function(data){
+      $("#resText").empty();
+      jQuery.each(data,function(entryIndex,entry){
+        var html = "<li>";
+        //alert(entry["href"]);
+        html += "<a href=\""+entry["href"]+"\" title=\"" +entry["title"]+ "\">" + entry["title"] + "&nbsp;[" + entry["datetime"] + "](" + entry["dotnum"] + ")</a>"
+        html += "</li>";
+        $("#resText").append(html);
+      });
+    });
+  };
+});
+//]]>
+</script>
+<div id="datalist_secl">
+  <ul id="resText"></ul>
+</div>
+<!-- secondary left end -->    </td>
+    <td class="sec_righttd">
+            <div id="position_sec">&nbsp;<A href='/publish/news/index.html' class='navigation_style'>首页</a>&nbsp;&gt;&nbsp;<A href='/publish/news/4195/index.html' class='navigation_style'>高教视点</a></div>      <div id="datalist_sec2">
+        <ul>
+                                                                                                                                                                                                                                                                                                                                                         <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150415154832259872975&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150415154832259872975").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150415154832259872975").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150415154832259872975").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150415154832259872975").attr("style","color:green");}
+              $("#itemlist_total_20150415154832259872975").empty();
+              $("#itemlist_total_20150415154832259872975").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150415154832259872975/20150415154832259872975_.html'><font color="">今年大学生志愿服务西部计划启动</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-04-15</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150415154832259872975"><span id="itemlist_total_20150415154832259872975">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150414161353521416523&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150414161353521416523").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150414161353521416523").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150414161353521416523").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150414161353521416523").attr("style","color:green");}
+              $("#itemlist_total_20150414161353521416523").empty();
+              $("#itemlist_total_20150414161353521416523").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150414161353521416523/20150414161353521416523_.html'><font color="">大数据离盈利还有多远</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-04-14</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150414161353521416523"><span id="itemlist_total_20150414161353521416523">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150403155303597181356&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150403155303597181356").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150403155303597181356").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150403155303597181356").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150403155303597181356").attr("style","color:green");}
+              $("#itemlist_total_20150403155303597181356").empty();
+              $("#itemlist_total_20150403155303597181356").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150403155303597181356/20150403155303597181356_.html'><font color="">清华大学计划取消在京提前批次招生</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-04-03</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150403155303597181356"><span id="itemlist_total_20150403155303597181356">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150402173109447250845&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150402173109447250845").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150402173109447250845").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150402173109447250845").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150402173109447250845").attr("style","color:green");}
+              $("#itemlist_total_20150402173109447250845").empty();
+              $("#itemlist_total_20150402173109447250845").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150402173109447250845/20150402173109447250845_.html'><font color="">美增投理工科教育维持专利优势</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-04-02</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150402173109447250845"><span id="itemlist_total_20150402173109447250845">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150401162641616613369&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150401162641616613369").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150401162641616613369").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150401162641616613369").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150401162641616613369").attr("style","color:green");}
+              $("#itemlist_total_20150401162641616613369").empty();
+              $("#itemlist_total_20150401162641616613369").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150401162641616613369/20150401162641616613369_.html'><font color="">教育部：学生志愿服务将记入档案</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-04-01</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150401162641616613369"><span id="itemlist_total_20150401162641616613369">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150331154113025554815&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150331154113025554815").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150331154113025554815").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150331154113025554815").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150331154113025554815").attr("style","color:green");}
+              $("#itemlist_total_20150331154113025554815").empty();
+              $("#itemlist_total_20150331154113025554815").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150331154113025554815/20150331154113025554815_.html'><font color="">罗德中国奖学金成立</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-31</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150331154113025554815"><span id="itemlist_total_20150331154113025554815">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150330171707037316550&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150330171707037316550").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150330171707037316550").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150330171707037316550").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150330171707037316550").attr("style","color:green");}
+              $("#itemlist_total_20150330171707037316550").empty();
+              $("#itemlist_total_20150330171707037316550").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150330171707037316550/20150330171707037316550_.html'><font color="">切实做好高校党的建设和思想政治工作</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-30</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150330171707037316550"><span id="itemlist_total_20150330171707037316550">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150325144358709352120&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150325144358709352120").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150325144358709352120").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150325144358709352120").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150325144358709352120").attr("style","color:green");}
+              $("#itemlist_total_20150325144358709352120").empty();
+              $("#itemlist_total_20150325144358709352120").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150325144358709352120/20150325144358709352120_.html'><font color="">基金委：将完善培育原创能力的资助机制</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-25</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150325144358709352120"><span id="itemlist_total_20150325144358709352120">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150325143020148510369&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150325143020148510369").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150325143020148510369").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150325143020148510369").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150325143020148510369").attr("style","color:green");}
+              $("#itemlist_total_20150325143020148510369").empty();
+              $("#itemlist_total_20150325143020148510369").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150325143020148510369/20150325143020148510369_.html'><font color="">美国国家工程院院长：如何让工程教育更具吸引力</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-25</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150325143020148510369"><span id="itemlist_total_20150325143020148510369">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150325143020472883367&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150325143020472883367").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150325143020472883367").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150325143020472883367").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150325143020472883367").attr("style","color:green");}
+              $("#itemlist_total_20150325143020472883367").empty();
+              $("#itemlist_total_20150325143020472883367").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150325143020472883367/20150325143020472883367_.html'><font color="">北京启动高校高水平人才交叉培养计划</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-25</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150325143020472883367"><span id="itemlist_total_20150325143020472883367">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150323161606352190433&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150323161606352190433").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150323161606352190433").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150323161606352190433").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150323161606352190433").attr("style","color:green");}
+              $("#itemlist_total_20150323161606352190433").empty();
+              $("#itemlist_total_20150323161606352190433").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150323161606352190433/20150323161606352190433_.html'><font color="">强化内部审计 升级“免疫系统”</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-23</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150323161606352190433"><span id="itemlist_total_20150323161606352190433">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150318165233000585158&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150318165233000585158").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150318165233000585158").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150318165233000585158").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150318165233000585158").attr("style","color:green");}
+              $("#itemlist_total_20150318165233000585158").empty();
+              $("#itemlist_total_20150318165233000585158").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150318165233000585158/20150318165233000585158_.html'><font color="">“中国脑计划”酝酿启动</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-18</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150318165233000585158"><span id="itemlist_total_20150318165233000585158">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150317145011392966705&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150317145011392966705").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150317145011392966705").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150317145011392966705").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150317145011392966705").attr("style","color:green");}
+              $("#itemlist_total_20150317145011392966705").empty();
+              $("#itemlist_total_20150317145011392966705").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150317145011392966705/20150317145011392966705_.html'><font color="">全国高校180名专家入选2014年创新人才推进计划</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-17</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150317145011392966705"><span id="itemlist_total_20150317145011392966705">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150317143926262674036&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150317143926262674036").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150317143926262674036").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150317143926262674036").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150317143926262674036").attr("style","color:green");}
+              $("#itemlist_total_20150317143926262674036").empty();
+              $("#itemlist_total_20150317143926262674036").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150317143926262674036/20150317143926262674036_.html'><font color="">2015年自主招生来了</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-17</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150317143926262674036"><span id="itemlist_total_20150317143926262674036">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150317143337880101553&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150317143337880101553").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150317143337880101553").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150317143337880101553").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150317143337880101553").attr("style","color:green");}
+              $("#itemlist_total_20150317143337880101553").empty();
+              $("#itemlist_total_20150317143337880101553").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150317143337880101553/20150317143337880101553_.html'><font color="">中国教育问题的“四大特点”</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-17</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150317143337880101553"><span id="itemlist_total_20150317143337880101553">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150316173156032766994&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150316173156032766994").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150316173156032766994").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150316173156032766994").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150316173156032766994").attr("style","color:green");}
+              $("#itemlist_total_20150316173156032766994").empty();
+              $("#itemlist_total_20150316173156032766994").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150316173156032766994/20150316173156032766994_.html'><font color="">清华北大出台最新招生改革方案</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-16</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150316173156032766994"><span id="itemlist_total_20150316173156032766994">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150313134620060396737&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150313134620060396737").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150313134620060396737").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150313134620060396737").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150313134620060396737").attr("style","color:green");}
+              $("#itemlist_total_20150313134620060396737").empty();
+              $("#itemlist_total_20150313134620060396737").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150313134620060396737/20150313134620060396737_.html'><font color="">英报关注亚洲大学崛起：清华北大全球声誉提升</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-13</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150313134620060396737"><span id="itemlist_total_20150313134620060396737">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150312120042793326685&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150312120042793326685").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150312120042793326685").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150312120042793326685").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150312120042793326685").attr("style","color:green");}
+              $("#itemlist_total_20150312120042793326685").empty();
+              $("#itemlist_total_20150312120042793326685").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150312120042793326685/20150312120042793326685_.html'><font color="">“2015全球大学声誉排行榜”发布</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-12</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150312120042793326685"><span id="itemlist_total_20150312120042793326685">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150312115644440632017&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150312115644440632017").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150312115644440632017").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150312115644440632017").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150312115644440632017").attr("style","color:green");}
+              $("#itemlist_total_20150312115644440632017").empty();
+              $("#itemlist_total_20150312115644440632017").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150312115644440632017/20150312115644440632017_.html'><font color="">英报告：中国大学排名上升 清华首超日本京都大学</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-12</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150312115644440632017"><span id="itemlist_total_20150312115644440632017">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150309153018815550011&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150309153018815550011").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150309153018815550011").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150309153018815550011").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150309153018815550011").attr("style","color:green");}
+              $("#itemlist_total_20150309153018815550011").empty();
+              $("#itemlist_total_20150309153018815550011").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150309153018815550011/20150309153018815550011_.html'><font color="">教育部部长：国家将继续支持985、211工程</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-09</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150309153018815550011"><span id="itemlist_total_20150309153018815550011">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150306155344953139004&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150306155344953139004").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150306155344953139004").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150306155344953139004").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150306155344953139004").attr("style","color:green");}
+              $("#itemlist_total_20150306155344953139004").empty();
+              $("#itemlist_total_20150306155344953139004").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150306155344953139004/20150306155344953139004_.html'><font color="">2014年中国出国留学人员超45万 回国人数超36万</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-06</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150306155344953139004"><span id="itemlist_total_20150306155344953139004">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150303114400545323552&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150303114400545323552").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150303114400545323552").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150303114400545323552").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150303114400545323552").attr("style","color:green");}
+              $("#itemlist_total_20150303114400545323552").empty();
+              $("#itemlist_total_20150303114400545323552").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150303114400545323552/20150303114400545323552_.html'><font color="">加三大科研资助机构将向公众开放研究成果</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-03</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150303114400545323552"><span id="itemlist_total_20150303114400545323552">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150302121017613674983&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150302121017613674983").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150302121017613674983").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150302121017613674983").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150302121017613674983").attr("style","color:green");}
+              $("#itemlist_total_20150302121017613674983").empty();
+              $("#itemlist_total_20150302121017613674983").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150302121017613674983/20150302121017613674983_.html'><font color="">北京经济学界探讨经济“新常态”</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-03-02</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150302121017613674983"><span id="itemlist_total_20150302121017613674983">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150228115511970602766&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150228115511970602766").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150228115511970602766").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150228115511970602766").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150228115511970602766").attr("style","color:green");}
+              $("#itemlist_total_20150228115511970602766").empty();
+              $("#itemlist_total_20150228115511970602766").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150228115511970602766/20150228115511970602766_.html'><font color="">高校将可自主转让或作价投资科技成果</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-02-28</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150228115511970602766"><span id="itemlist_total_20150228115511970602766">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150226192948939563739&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150226192948939563739").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150226192948939563739").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150226192948939563739").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150226192948939563739").attr("style","color:green");}
+              $("#itemlist_total_20150226192948939563739").empty();
+              $("#itemlist_total_20150226192948939563739").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150226192948939563739/20150226192948939563739_.html'><font color="">自主招生 重新出发后能否回归本质</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-02-26</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150226192948939563739"><span id="itemlist_total_20150226192948939563739">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150213150119012797500&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150213150119012797500").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150213150119012797500").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150213150119012797500").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150213150119012797500").attr("style","color:green");}
+              $("#itemlist_total_20150213150119012797500").empty();
+              $("#itemlist_total_20150213150119012797500").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150213150119012797500/20150213150119012797500_.html'><font color="">本科高校向技术高校转型今年试点</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-02-13</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150213150119012797500"><span id="itemlist_total_20150213150119012797500">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150213145332168252799&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150213145332168252799").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150213145332168252799").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150213145332168252799").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150213145332168252799").attr("style","color:green");}
+              $("#itemlist_total_20150213145332168252799").empty();
+              $("#itemlist_total_20150213145332168252799").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150213145332168252799/20150213145332168252799_.html'><font color="">加强和改进新形势下高校宣传思想工作</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-02-13</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150213145332168252799"><span id="itemlist_total_20150213145332168252799">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150130140632014653602&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150130140632014653602").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150130140632014653602").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150130140632014653602").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150130140632014653602").attr("style","color:green");}
+              $("#itemlist_total_20150130140632014653602").empty();
+              $("#itemlist_total_20150130140632014653602").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150130140632014653602/20150130140632014653602_.html'><font color="">陈旭：准确把握高校宣传思想工作的基本原则</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-30</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150130140632014653602"><span id="itemlist_total_20150130140632014653602">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150128115750512468453&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150128115750512468453").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150128115750512468453").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150128115750512468453").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150128115750512468453").attr("style","color:green");}
+              $("#itemlist_total_20150128115750512468453").empty();
+              $("#itemlist_total_20150128115750512468453").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150128115750512468453/20150128115750512468453_.html'><font color="">全国马克思哲学青年对话会（2014）在京召开</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-28</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150128115750512468453"><span id="itemlist_total_20150128115750512468453">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150128115536623886745&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150128115536623886745").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150128115536623886745").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150128115536623886745").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150128115536623886745").attr("style","color:green");}
+              $("#itemlist_total_20150128115536623886745").empty();
+              $("#itemlist_total_20150128115536623886745").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150128115536623886745/20150128115536623886745_.html'><font color="">先锋大学出世，常春藤已落伍？</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-28</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150128115536623886745"><span id="itemlist_total_20150128115536623886745">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150127190219880741070&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150127190219880741070").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150127190219880741070").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150127190219880741070").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150127190219880741070").attr("style","color:green");}
+              $("#itemlist_total_20150127190219880741070").empty();
+              $("#itemlist_total_20150127190219880741070").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150127190219880741070/20150127190219880741070_.html'><font color="">中国加快推进科研设施与仪器向社会开放</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-27</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150127190219880741070"><span id="itemlist_total_20150127190219880741070">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150126164549820237138&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150126164549820237138").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150126164549820237138").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150126164549820237138").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150126164549820237138").attr("style","color:green");}
+              $("#itemlist_total_20150126164549820237138").empty();
+              $("#itemlist_total_20150126164549820237138").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150126164549820237138/20150126164549820237138_.html'><font color="">科研经费：加大投入 更要加强管理</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-26</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150126164549820237138"><span id="itemlist_total_20150126164549820237138">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150122161304435269183&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150122161304435269183").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150122161304435269183").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150122161304435269183").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150122161304435269183").attr("style","color:green");}
+              $("#itemlist_total_20150122161304435269183").empty();
+              $("#itemlist_total_20150122161304435269183").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150122161304435269183/20150122161304435269183_.html'><font color="">欧盟委员会公布削减科学预算细节</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-22</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150122161304435269183"><span id="itemlist_total_20150122161304435269183">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150122160827332878434&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150122160827332878434").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150122160827332878434").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150122160827332878434").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150122160827332878434").attr("style","color:green");}
+              $("#itemlist_total_20150122160827332878434").empty();
+              $("#itemlist_total_20150122160827332878434").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150122160827332878434/20150122160827332878434_.html'><font color="">马克思主义学院院长谈：让马克思主义理论学科领航发展</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-22</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150122160827332878434"><span id="itemlist_total_20150122160827332878434">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150122155531620470519&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150122155531620470519").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150122155531620470519").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150122155531620470519").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150122155531620470519").attr("style","color:green");}
+              $("#itemlist_total_20150122155531620470519").empty();
+              $("#itemlist_total_20150122155531620470519").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150122155531620470519/20150122155531620470519_.html'><font color="">我国提高来华留学生政府奖学金资助标准</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-22</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150122155531620470519"><span id="itemlist_total_20150122155531620470519">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150120151621097371340&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150120151621097371340").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150120151621097371340").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150120151621097371340").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150120151621097371340").attr("style","color:green");}
+              $("#itemlist_total_20150120151621097371340").empty();
+              $("#itemlist_total_20150120151621097371340").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150120151621097371340/20150120151621097371340_.html'><font color="">让科研人员不再为“三评”纠结</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-20</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150120151621097371340"><span id="itemlist_total_20150120151621097371340">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150120151520118486010&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150120151520118486010").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150120151520118486010").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150120151520118486010").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150120151520118486010").attr("style","color:green");}
+              $("#itemlist_total_20150120151520118486010").empty();
+              $("#itemlist_total_20150120151520118486010").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150120151520118486010/20150120151520118486010_.html'><font color="">我国首个国际新能源应急产业创新联盟成立</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-20</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150120151520118486010"><span id="itemlist_total_20150120151520118486010">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150120151411738707751&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150120151411738707751").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150120151411738707751").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150120151411738707751").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150120151411738707751").attr("style","color:green");}
+              $("#itemlist_total_20150120151411738707751").empty();
+              $("#itemlist_total_20150120151411738707751").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150120151411738707751/20150120151411738707751_.html'><font color="">高校要成推动核心价值观长效机制建设“排头兵”</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-20</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150120151411738707751"><span id="itemlist_total_20150120151411738707751">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150120151304548782844&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150120151304548782844").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150120151304548782844").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150120151304548782844").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150120151304548782844").attr("style","color:green");}
+              $("#itemlist_total_20150120151304548782844").empty();
+              $("#itemlist_total_20150120151304548782844").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150120151304548782844/20150120151304548782844_.html'><font color="">中共中央办公厅、国务院办公厅印发《关于进一步加强和改进新形势下高校宣传思想...</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-20</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150120151304548782844"><span id="itemlist_total_20150120151304548782844">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                 <script language="javascript" type="text/javascript">
+        //<![CDATA[
+        $(document).ready(function(){
+          getResData();
+          //获取数据
+          function getResData(){
+            jQuery.get("/application/visitor/article_list_visitors_2.jsp?articleID=20150119155552182786259&"+Math.random(), function(data){
+            	if (data > 10000){$("#font_itemlist_total_20150119155552182786259").attr("style","color:blue;font-weight:bold");}
+							else if (data > 5000){$("#font_itemlist_total_20150119155552182786259").attr("style","color:blue");}
+							else if (data > 2000){$("#font_itemlist_total_20150119155552182786259").attr("style","color:green;font-weight:bold");}
+							else if (data > 500){$("#font_itemlist_total_20150119155552182786259").attr("style","color:green");}
+              $("#itemlist_total_20150119155552182786259").empty();
+              $("#itemlist_total_20150119155552182786259").append(data);
+              //$("#arverage").empty();
+              //$("#arverage").append(data[0].arverage);     
+            });
+          };
+        });
+        //]]>
+        </script>
+          <li><a href='/publish/news/4195/2015/20150119155552182786259/20150119155552182786259_.html'><font color="">“千人计划”国际影响力日益彰显</font></a>&nbsp;&nbsp;
+          	[<span class='txt_date'>2015-01-19</span><span class='txt_sum'>浏览:
+          		<font id="font_itemlist_total_20150119155552182786259"><span id="itemlist_total_20150119155552182786259">
+          			<img src="/publish/news/images/ajax-loader.gif" width="10px" height="10px"/>
+          			</span></font>
+          	</span>]
+          </li>
+                </ul>
+      </div>
+      <div id="datalist_sec_line"></div>
+      <script src="/publish/news/js/porto_onlyfornews.js" type="text/javascript"></script>
+<div id="pages_sec">
+
+<span style='font-size:12px'>
+		共<b>1694</b>条&nbsp;&nbsp;
+		分<b>43</b>页&nbsp;&nbsp;
+		当前&nbsp;第<b>2</b>页&nbsp;&nbsp;
+		 <a href='/publish/news/4195/index.html'><font color='#000000'>首页</font></a>
+		 <a href='/publish/news/4195/index.html'><font color='#000000'>上一页</font></a>
+		 <a href='/publish/news/4195/index_3.html'><font color='#000000'>下一页</font></a>
+		 <a href='/publish/news/4195/index_43.html'><font color='#000000'>末页</font></a>
+</span>
+<script type="text/javascript">
+var n=43;
+if(n>1){
+  document.write("<span>跳转到：<select name='topage' size='1' onchange='doGo(this.value);'>");
+  for(var i=1;i<=n;i++){
+    if(i==1){
+      document.write("<option value='"+i+"' selected>"+i+"</option>");
+    }else{
+      document.write("<option value='"+i+"'>"+i+"</option>");
+    }
+  }
+  document.write("</select></span>");
+}
+</script>
+</div>      </div>
+    </td>
+  </tr>
+</table>
+</div>
+<!-- 页脚区域开始 -->
+<script type="text/javascript">
+function showflink(evt) {
+ var e = window.event ? window.event : evt;
+ var node = document.documentElement;
+ if (!node) return;
+ var obj = document.getElementById('flink');
+ obj.style.display='block';
+ var offX = obj.clientWidth / 2;
+ obj.style.left = (node.scrollLeft - node.clientLeft + e.clientX - offX) + "px";
+ obj.style.top = (node.scrollTop - node.clientTop + e.clientY - obj.clientHeight - 3) + "px";
+}
+function keepflink() {
+ var obj = document.getElementById('flink');
+ obj.style.display='block';
+}
+function hideflink() {
+ var obj = document.getElementById('flink');
+ obj.style.display='none';
+}
+</script>
+<div id="footer">
+<a href="/publish/news/4198/index.html"><span class="bluetxt">关于我们</span></a> │ <a href="/publish/news/4199/index.html"><span class="bluetxt">联系我们</span></a> │ <a href="#" onmouseover="showflink(event);" onmouseout="hideflink();"><span class="bluetxt">友情链接</span></a> │ <a href="http://news.tsinghua.edu.cn/publish/news/zhuanti/95/images/thumap.jpg"><span class="bluetxt">清华地图</span></a> │ <a href="/publish/news/zhuanti/zl.html"><span class="bluetxt">清华展览</span></a> │ <a href="/publish/news/newscenter/xczl.htm"><span class="bluetxt">宣传资料</span></a> │ <a href="mailto:kyy-zcb@tsinghua.edu.cn"><span class="bluetxt">知识产权投诉</span></a><br/><br/>清华大学党委宣传部（新闻中心）版权所有，清华新闻网编辑部维护，电子信箱:news@tsinghua.edu.cn<br/>Copyright 2006-2008 news.tsinghua.edu.cn. All rights reserved. Best view 1024×768
+</div>
+<div id="flink" class="flowcss_link" style="display:none;position:absolute;" onmouseover="keepflink();" onmouseout="hideflink();">
+  <div id="flowtitle" class="flowtitle_link">校内网站</div>
+  <div id="flowtext" class="flowtext_link">
+   <table class="table_link">
+      <tr>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.tsinghua.edu.cn/publish/th/index.html" target="_blank">清华主页</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://xqh.tsinghua.edu.cn/" target="_blank">新清华</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://tv.tsinghua.edu.cn" target="_blank">清华电视台</a></td>
+  <td class="dot">&nbsp;</td>
+  <td><a href="http://join-tsinghua.edu.cn/bkzsw/index.html" target="_blank">本科招生</a></td> 
+      </tr> 
+   <tr>
+  
+  
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.tsinghua.org.cn/alumni/index.do" target="_blank">清华校友</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://career.tsinghua.edu.cn/jyw/index.jsp" target="_blank">就业信息</a></td>
+  <td class="dot">&nbsp;</td>
+        <td><a href="http://redweb.tsinghua.edu.cn/" target="_blank">红色网站</a></td>
+  <td class="dot">&nbsp;</td>
+  <td><a href="http://www.student.tsinghua.edu.cn/student/" target="_blank">学生清华</a></td>
+      </tr>
+   <tr>
+   
+       
+    <td class="dot">&nbsp;</td>
+    <td><a href="http://166.111.4.128/" target="_blank">博学网</a></td>  
+       <td class="dot">&nbsp;</td>
+       <td><a href="http://xsg.tsinghua.edu.cn" target="_blank">清华校史</a></td>
+       <td class="dot">&nbsp;</td>
+       <td><a href="http://myhome.tsinghua.edu.cn/myhome2/index/" target="_blank">我们的家园</a></td>  
+    <td class="dot">&nbsp;</td> 
+    <td><a href="http://lib.tsinghua.edu.cn" target="_blank">清华图书馆</a></td>
+      </tr>
+   <tr>
+  <td class="dot">&nbsp;</td>
+  <td><a href="http://pt.tsinghua.edu.cn:8081/index.asp" target="_blank">后勤综合服务</a></td>
+  
+    </tr>
+    </table>
+  </div>
+  <div id="flowtitle" class="flowtitle_link">高校新闻</div>
+  <div id="flowtext" class="flowtext_link">
+  
+  <table class="table_link">
+      <tr>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://pkunews.pku.edu.cn/" target="_blank">北京大学</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://news.ruc.edu.cn/" target="_blank">人民大学</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://news.fudan.edu.cn" target="_blank">复旦大学</a></td>
+    </tr> 
+   <tr>
+     <td class="dot">&nbsp;</td>
+     <td><a href="http://www.news.zju.edu.cn" target="_blank">浙江大学</a><a href="http://www.sjtu.edu.cn/news" target="_blank"></a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://news.ustc.edu.cn/" target="_blank">中科大</a><a href="http://news.bnu.edu.cn/" target="_blank"></a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://news.bnu.edu.cn/" target="_blank">北京师范大学</a><a href="http://xcb.nju.edu.cn/" target="_blank"></a></td>
+    </tr>
+   <tr>
+   <td class="dot">&nbsp;</td> 
+       <td><a href="http://xcb.nju.edu.cn/" target="_blank">南京大学</a></td>
+       <td class="dot">&nbsp;</td>
+       <td><a href="http://news.sjtu.edu.cn" target="_blank">上海交通大学</a><a href="http://news.ustc.edu.cn/" target="_blank"></a></td>
+       <td class="dot">&nbsp;</td>
+       <td><a href="http://xjtunews.xjtu.edu.cn/" target="_blank">西安交通大学</a></td>
+       </tr>
+   <tr>
+    <td class="dot">&nbsp;</td>
+  <td><a href="http://www.chinaumu.org/node/chinaumu.htm/" target="_blank">高校传媒联盟</a><a href="http://lib.tsinghua.edu.cn" target="_blank"></a></td>
+     <td class="dot">&nbsp;</td>
+     <td><a href="http://www.cssn.cn" target="_blank">中国社会科学</a></td>
+     <td class="dot">&nbsp;</td>
+       <td><a href="http://bunews.bjfu.edu.cn/" target="_blank">北京高校校报</a><a href="http://bbs.tsinghua.edu.cn" target="_blank"></a></td> 
+       </tr>
+   <tr>
+     <td class="dot">&nbsp;</td>
+     <td colspan="3"><a href="http://www.xde6.net/" target="_blank">西安电子科技大学</a></td>
+     <td>&nbsp;</td>
+     <td>&nbsp;</td>
+       </tr>
+    </table>
+  </div>
+  <div id="flowtitle" class="flowtitle_link">国内媒体</div>
+  <div id="flowtext" class="flowtext_link">
+  
+  <table class="table_link">
+      <tr>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.xinhuanet.com/" target="_blank">新华网</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://edu.people.com.cn/GB/index.html" target="_blank">人民网</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.jyb.com.cn/" target="_blank">教育新闻网</a></td>
+  <td class="dot">&nbsp;</td>
+  <td><a href="http://www.gmw.cn/" target="_blank">光明网</a></td>  
+      </tr> 
+   <tr>
+     <td class="dot">&nbsp;</td>
+     <td><a href="http://www.sciencenet.cn/" target="_blank">科学网</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.qianlong.com/" target="_blank">千龙网</a></td>
+        <td class="dot">&nbsp;</td>
+        <td><a href="http://www.sohu.com/" target="_blank">搜狐</a></td>
+   <td class="dot">&nbsp;</td>
+        <td><a href="http://www.sina.com/" target="_blank">新浪</a></td>
+      </tr> 
+    </table>
+  
+  </div>
+</div>
+<!-- 页脚区域结束 --></body>
+</html>

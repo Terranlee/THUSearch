@@ -1,0 +1,154 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!--
+
+ @(#)package.html
+ 
+ $Id: package.html 2401 2004-08-06 02:15:45Z stack-sf $
+ 
+ Created on Feb 2, 2003
+
+ Copyright (C) 2004 Internet Archive.
+
+ This file is part of the Heritrix web crawler (crawler.archive.org).
+
+ Heritrix is free software; you can redistribute it and/or modify
+ it under the terms of the GNU Lesser Public License as published by
+ the Free Software Foundation; either version 2.1 of the License, or
+ any later version.
+
+ Heritrix is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU Lesser Public License for more details.
+
+ You should have received a copy of the GNU Lesser Public License
+ along with Heritrix; if not, write to the Free Software
+ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+-->
+</head>
+<body bgcolor="white">
+Provides classes for the settings framework.
+<p>
+The settings framework is designed to be a flexible way to configure a crawl
+with special treatment for subparts of the web without adding to much
+performance overhead.
+<p>
+At it's core the settings framework is a way to keep persistent, context
+sensitive configuration settings for any class in the crawler.
+<p>
+All classes in the crawler that has configurable settings subclasses
+{@link org.archive.crawler.settings.ComplexType} or one of its descendants. The {@link org.archive.crawler.settings.ComplexType} implements the
+{@link javax.management.DynamicMBean} interface. This gives you a way to ask the object
+for what attributes it supports and standard methods for getting and setting
+these attributes.
+<p>
+The entry point into the settings framework is the {@link org.archive.crawler.settings.SettingsHandler}. This class
+is responsible for loading and saving from persistent storage and for
+interconnecting the different parts of the framework.
+<p>
+<img src='doc-files/settings1.png'/><br>
+Figure 1. Schematic view of the Settings Framework
+<p>
+<h2>Settings hierarchy</h2>
+The settings framework supports a hierarchy of settings. This hierarchy is
+built by {@link org.archive.crawler.settings.CrawlerSettings} objects. On the top there is a settings object
+representing the global settings. This consist of all the settings that a crawl
+job needs for running. Beneath this global object there is one "per" settings
+object for each host/domain which has settings that should override the order
+for that particular host or domain.
+<p>
+When the settings framework is asked for an attribute for a specific host, it
+will first try to see if this attribute is set for this particular host. If it
+is, the value will be returned. If not, it will go up one level recursively
+until it eventually reach the order object and returns the global value. If no
+value is set here either (normally it would be), a hard coded default value is
+returned.
+<p>
+All per domain/host settings objects only contain those settings which are to
+be overridden for that particular domain/host. The convention is to name the
+top level object "global settings" and the objects beneath "per settings" or
+"overrides" (although the refinements described next, also do overriding).
+<p>
+To further complicate the picture, there is also settings objects called
+refinements. An object of this type belongs to a global or per settings object
+and overrides the settings in it's owners object if some criteria is met. These
+criteria could be that the URI in question conforms to a regular expression or
+that it the settings are consulted at a specific time of day limited by a time
+span.
+<p>
+<h2>ComplexType hierarchy</h2>
+All the configurable modules in the crawler subclasses {@link org.archive.crawler.settings.ComplexType} or one of
+its descendants. The {@link org.archive.crawler.settings.ComplexType} is responsible for keeping the definition of
+the configurable attributes of the module. The actual values are stored in an
+instance of {@link org.archive.crawler.settings.DataContainer}. The {@link org.archive.crawler.settings.DataContainer} is never accessed directly from
+user code. Instead the user accesses the attributes through methods in the
+{@link org.archive.crawler.settings.ComplexType}. The attributes are accessed in different ways depending if it is
+from the user interface or from inside a running crawl.
+<p>
+When an attribute is accessed from the URI (either reading or writing) you want
+to make sure that you are editing the attribute in the right context. When
+trying to override an attribute, you don't want the settings framework to
+traverse up to effective value for the attribute, but instead want to know that
+the attribute is not set on this level. To achieve this, there is
+{@link org.archive.crawler.settings.ComplexType#getLocalAttribute(CrawlerSettings settings, String name)} and
+{@link org.archive.crawler.settings.ComplexType#setAttribute(CrawlerSettings settings, Attribute attribute)} methods taking a
+settings object as a parameter. These methods works only on the supplied
+settings object. In addition the methods {@link org.archive.crawler.settings.ComplexType#getAttribute(String)} and
+{@link org.archive.crawler.settings.ComplexType#setAttribute(Attribute attribute)} is there for conformance to the Java JMX
+specification. The latter two always works on the global settings object.
+<p>
+Getting an attribute within a crawl is different in that you always want to get
+a value even if it is not set in it's context. That means that the settings
+framework should work its way up the settings hierarchy to find the value in
+effect for the context. The method {@link org.archive.crawler.settings.ComplexType#getAttribute(String name, CrawlURI uri)}
+should be used to make sure that the right context is used. Figure 2 shows
+how the settings framework finds the effective value given a context.
+<p>
+<img src='doc-files/settings2.png'/><br>
+Figure 2. Flow of getting an attribute
+<p>
+The different attributes has a type. The allowed type all subclasses the {@link org.archive.crawler.settings.Type}
+class. There are tree main Types:
+<ol>
+  <li>{@link org.archive.crawler.settings.SimpleType}</li>
+  <li>{@link org.archive.crawler.settings.ListType}</li>
+  <li>{@link org.archive.crawler.settings.ComplexType}</li>
+</ol>
+Except for the {@link org.archive.crawler.settings.SimpleType}, the actual type used will be a subclass of one of
+these main types.
+
+<h3>SimpleType</h3>
+The {@link org.archive.crawler.settings.SimpleType} is mainly for representing Java™ wrappers for the Java™
+primitive types. In addition it also handles the {@link java.util.Date} type and a
+special Heritrix {@link org.archive.crawler.settings.TextField} type. Overrides of a {@link org.archive.crawler.settings.SimpleType} must be of the same
+type as the initial default value for the {@link org.archive.crawler.settings.SimpleType}.
+
+<h3>ListType</h3>
+The {@link org.archive.crawler.settings.ListType} is further subclassed into versions for some of the wrapped Java™
+primitive types ({@link org.archive.crawler.settings.DoubleList}, {@link org.archive.crawler.settings.FloatList}, {@link org.archive.crawler.settings.IntegerList}, {@link org.archive.crawler.settings.LongList}, {@link org.archive.crawler.settings.StringList}). A
+List holds values in the same order as they were added. If an attribute of type
+{@link org.archive.crawler.settings.ListType} is overridden, then the complete list of values is replaced at the
+override level.
+
+<h3>ComplexType</h3>
+The {@link org.archive.crawler.settings.ComplexType} is a map of name/value pairs. The values can be any {@link org.archive.crawler.settings.Type}
+including new {@link org.archive.crawler.settings.ComplexType  MapTypes}. The {@link org.archive.crawler.settings.ComplexType} is defined abstract and you should
+use one of the subclasses {@link org.archive.crawler.settings.MapType} or {@link org.archive.crawler.settings.ModuleType}. The {@link org.archive.crawler.settings.MapType} allows adding of
+new name/value pairs at runtime, while the {@link org.archive.crawler.settings.ModuleType} only allows the
+name/value pairs that it defines at construction time. When overriding the
+{@link org.archive.crawler.settings.MapType} the options are either override the value of an already existing
+attribute or add a new one. It is not possible in an override to remove an
+existing attribute. The {@link org.archive.crawler.settings.ModuleType} doesn't allow additions in overrides, but
+the predefined attributes' values might be overridden. Since the {@link org.archive.crawler.settings.ModuleType} is
+defined at construction time, it is possible to set more restrictions on each
+attribute than in the {@link org.archive.crawler.settings.MapType}. Another consequence of definition at
+construction time is that you would normally subclass the {@link org.archive.crawler.settings.ModuleType}, while the
+{@link org.archive.crawler.settings.MapType} is usable as it is. It is possible to restrict the {@link org.archive.crawler.settings.MapType} to only
+allow attributes of a certain type. There is also a restriction that {@link org.archive.crawler.settings.MapType MapTypes}
+can not contain nested {@link org.archive.crawler.settings.MapType MapTypes}.
+
+</body>
+</html>

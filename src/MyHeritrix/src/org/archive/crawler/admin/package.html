@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<title>org.archive.crawler.admin package</title>
+</head>
+<body>
+	Contains classes that the web UI uses to monitor and control crawls. Some
+	utilities classes used exclusively or primarily for the UI are also
+	included.
+<p>
+	Most of the heavy duty work is done by the <code>CrawlJobHandler</code>
+	that manages most of the interaction between the UI and the the
+	<code>CrawlController</code>. The <code>CrawlJob</code> class serves to
+	encapsulate the settings needed to launch one crawl. 
+</p>
+<p>
+	This package also provides an implementation of the Statistics Tracking
+	interface that contains useful methods to access progress data. This is
+	used for monitoring crawls. While it is technically possible to launch
+	jobs without this statistics tracker, it would render the UI inoperable
+	as far as monitoring the progress of that crawl.
+</p>
+</body>
+</html>
