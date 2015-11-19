@@ -1,44 +1,5 @@
-李天润 2012011320 ltrthu@163.com
-刘鹤 2012011300 liuhe94@hotmail.com
+# THUSearch 
+## Introduction 
+A search engine based on Lucene.  
+Able to support 100 thousand webpages/files in Tsinghua.  
 
-由于索引文件和爬到的全部文件在6G左右，难以上传，所以可能比较难运行该程序。
-如果助教需要实际的运行结果，请通过邮件联系我们，我们通过网盘等形式上传所有的文件。
-
-提交文件列表如下
-|
-|--校园搜索引擎实验报告.pdf 实验报告
-|--readme 说明
-|--sample 部分抓取到的数据
-	|--files 抓取到的文件与解析结果
-	|--news 部分网页，图片的解析结果
-|--src
-	|--MyHeritrix heritrix 抓取工程
-	|--ResourceParser office，pdf 文件处理程序
-	|--PythonParser python 写的网页处理程序
-		|--src
-			|--html_clear.py 清理html 文本，抓取锚文本，匹配图片网页
-			|--pagerank.py 计算pagerank
-			|--generateXML.py 生成XML 文件
-			|--append_anchor.py 为网页补充锚文本信息
-			|--change_format.py 改编文件格式
-		|--files
-			|--pr_answer pagerank 结果
-			|--href_to_num 链接到数字的映射关系
-			|--graph 出链接图
-			|--anchor 锚文本
-			|--stop_jpgs 被过滤掉的图片
-	|--ImageSearch 基于图片搜索实验改编的搜索引擎框架
-		|--input lucene 建立索引所需要的xml
-			|--html.xml 网页文件的xml
-			|--pic.xml 图片文件的xml
-			|--doc.xml 文本文件的xml
-		|--src 源文件目录
-			|--FileParser.java 构建索引时解析content 文件
-			|--HTMLGenerator.java 生成搜索关键词加红的文本
-			|--ImageServer.java 搜索框架，与ImageSearch 实验相同
-		|--WebRoot 网页源文件目录
-		
-运行说明：
-	如果使用sample中的小规模数据进行测试，
-	可以通过generateXML.py生成三个xml文件，然后用ImageIndexer生成三个索引，拷贝到tomcat的bin目录下，然后将publish文件夹拷贝到webapps目录下，之后可以尝试启动服务器进行测试。
-	

@@ -1,0 +1,25 @@
+|  
+|--readme   
+|--sample: some sample data  
+    |--files: some files and contents  
+    |--news: webpages and pictures  
+|--src  
+    |--MyHeritrix: heritrix crawling project  
+    |--ResourceParser: parser for office，pdf files  
+    |--PythonParser: webpage parser in python  
+        |--src  
+            |--html_clear.py  
+            |--pagerank.py  
+            |--generateXML.py  
+            |--append_anchor.py  
+            |--change_format.py  
+    |--ImageSearch: search engine framework based on Lucene  
+        |--input: xml files for lucene index  
+            |--html.xml: xml file for webpages  
+            |--pic.xml: xml file for pictures  
+            |--doc.xml: xml file for documents  
+        |--src  
+            |--FileParser.java  
+            |--HTMLGenerator.java  
+            |--ImageServer.java: search engine framework  
+        |--WebRoot: webpages  
