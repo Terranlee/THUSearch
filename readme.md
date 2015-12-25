@@ -3,7 +3,7 @@ THUSearch
 
 ## Introduction  
 A search engine based on Lucene framework.  
-Able to search 200 thousand webpages/files in Tsinghua.  
+Able to search 200 thousand webpages/files/pictures in Tsinghua.  
 
 ## Features  
 1. Front-end to back-end search engine design  
