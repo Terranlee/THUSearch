@@ -10,6 +10,7 @@ Able to search 200 thousand webpages/files in Tsinghua.
 2. Implemente BM25 and Pagerank for ranking  
 3. Multi-fields query analyzing, Chinese word segmentation  
 4. Able to search webpages, pictures and files(*.doc, *.pdf, *.ppt)
+5. Added word2vec for semantic search in this system  
 
 ## Dependencies  
 1. lucene-core-3.5.0  
